@@ -1,0 +1,14 @@
+{{ range $author := .Params.authors }}
+    {{ $profile_photo := "images/canadaagora-small.png" }}
+    {{ $profile := index (where ($.Site.Data.staff.authors | append $.Site.Data.staff.podcasts) "name" $author) 0 }}
+    {{ with $profile }}
+        {{ $profile_photo = .images.profile }}
+    {{ end }}
+<span class="entry-author" itemscope itemprop="author" itemtype="http://schema.org/Person">
+    {{ $asset := resources.Get $profile_photo }}
+    {{ $image := $asset.Resize "30x" }}
+    <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{$author}}" class="profile-mini">
+    <span class="entry-meta-label">por</span>
+    <a href="{{ (printf "author/%s" (urlize $author)) | absURL }}" class="entry-author-link">{{$author}}</a>
+</span>
+{{ end }}

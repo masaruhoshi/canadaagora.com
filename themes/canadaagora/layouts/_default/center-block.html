@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<!-- page-title -->
+<section class="section section-{{ .File.ContentBaseName }}" {{ if .Params.background_image }}style="background-image: url('{{ .Params.background_image }}');background-position: center;background-size: cover;"{{ end }}>
+    <div class="container">
+        <div class="col-lg-8 col-md-10">
+            <h1 class="page-title">{{.Title }}</h1>
+            <h3>{{ .Summary }}</h3>
+        </div>
+    </div>
+</section>
+<!-- /page-title -->
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-8 col-md-10">
+            {{ .Content }}
+        </div>
+    </div>
+</div>
+
+{{ end }}

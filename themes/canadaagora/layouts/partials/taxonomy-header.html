@@ -1,0 +1,19 @@
+{{ $taxonomy := dict "title" "foo" "description" "boo" }}
+{{ if (eq .Data.Singular "category") }}
+    {{ $taxonomy = index (where ($.Site.Data.categories.categories) "name" .Params.Title) 0 }}
+{{ else if (eq .Data.Singular "author") }}
+    {{ $taxonomy = index (where ($.Site.Data.staff.authors | append $.Site.Data.staff.podcasts) "name" .Params.Title) 0 }}
+{{ end }}
+<span class="entry-taxonomy">
+    {{ if isset $taxonomy "images" }}
+    {{ $taxonomy_picture := "images/canadaagora-small.png" }}
+    {{ with $taxonomy }}
+        {{ $taxonomy_picture = .images.profile }}
+    {{ end }}
+    {{ $asset := resources.Get $taxonomy_picture }}
+    {{ $image := $asset.Resize "100x" }}
+    <div class="entry-taxonomy-picture"><img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" ></div>
+    {{ end }}
+    <h2 class="entry-taxonomy-title">{{ $taxonomy.title }}</h2>
+    <span class="entry-taxonomy-description">{{ if isset $taxonomy "intro" }}{{ $taxonomy.intro }}{{ else }}{{ $taxonomy.excerpt }}{{ end }}</span>
+</span>

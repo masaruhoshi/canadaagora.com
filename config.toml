@@ -1,0 +1,213 @@
+# default config
+#baseurl = "https://canadaagora.com"
+languageCode = "pt-br"
+title = "Canadá Agora | O Canadá por quem conhece o Canadá"
+theme = "canadaagora"
+summaryLength = "10"
+paginate = 12
+# google analytics
+googleAnalytics = "" # example : UA-123-45
+removePathAccents = true
+
+# Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
+[permalinks]
+  authors = "/author/:slug/"
+  tags = "/tag/:slug/"
+  categories = "/category/:slug/"
+
+# output
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+# Taxonomies
+[taxonomies]
+  author = "authors"
+  category = "categories"
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "/plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "/plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "/plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "/plugins/fontawesome/css/all.min.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "/plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "/plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "/plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "/plugins/headroom/headroom.js"
+[[params.plugins.js]]
+link = "/plugins/instafeed/instafeed.min.js"
+[[params.plugins.js]]
+link = "/plugins/masonry/masonry.js"
+[[params.plugins.js]]
+link = "/plugins/reading-time/readingTime.min.js"
+[[params.plugins.js]]
+link = "/plugins/smooth-scroll/smooth-scroll.js"
+[[params.plugins.js]]
+link = "/plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "/plugins/search/mark.js"
+[[params.plugins.js]]
+link = "/plugins/search/search.js"
+
+# navigation
+[[menu.main]]
+name = "Canais"
+url = ""
+weight = 1
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Canais"
+  name = "Trabalho e Negócios"
+  url = "category/trabalho"
+
+  [[menu.main]]
+  parent = "Canais"
+  name = "Imigraçao"
+  url = "category/imigracao"
+
+  [[menu.main]]
+  parent = "Canais"
+  name = "Cotidiano"
+  url = "category/cotidiano"
+
+  [[menu.main]]
+  parent = "Canais"
+  name = "Educaçao"
+  url = "category/educacao"
+
+  [[menu.main]]
+  parent = "Canais"
+  name = "Turismo"
+  url = "category/turismo"
+
+  [[menu.main]]
+  parent = "Canais"
+  name = "Clima"
+  url = "category/clima"
+
+  [[menu.main]]
+  parent = "Canais"
+  name = "economia"
+  url = "category/economia"
+
+  [[menu.main]]
+  parent = "Canais"
+  name = "Idiomas"
+  url = "category/idiomas"
+
+  [[menu.main]]
+  parent = "Canais"
+  name = "Política"
+  url = "category/politica"
+
+[[menu.main]]
+name = "Serviços"
+url = "servicos"
+weight = 2
+
+[[menu.main]]
+name = "Podcasts"
+url = "podcasts"
+weight = 3
+
+[[menu.main]]
+name = "Sobre"
+url = "#"
+weight = 4
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Sobre"
+  name = "O Canadá Agora"
+  url = "sobre"
+  weight = 1
+
+  [[menu.main]]
+  parent = "Sobre"
+  name = "Nossa Visão"
+  url = "nossa-visao"
+
+  [[menu.main]]
+  parent = "Sobre"
+  name = "Colaboradores"
+  url = "staff"
+
+[[menu.main]]
+name = "Contato"
+url = "contato"
+weight = 5
+
+[[menu.footer]]
+name = "Política de Privacidade"
+url = "politica-de-privacidade"
+weight = 1
+
+[[menu.footer]]
+name = "Termos de Uso"
+url = "termos-de-uso"
+weight = 2
+
+[[menu.footer]]
+name = "Uso de Cookies"
+url = "sobre-cookies-no-site"
+weight = 3
+
+# default parameter
+[params]
+logo = "images/CA-Logo-Inline-Long.png"
+home = "Home"
+# theme layout ( two layout is available, "1" and "2" )
+layout = "1"
+# Meta data
+description = "This is meta description"
+# Preloader
+preloader = true
+# search
+search = true
+# about author
+author = "Canadá Agora"
+author_image = "images/banner-img.png"
+bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+# Contact info
+#mobile = "+90 000 333 22"
+email = "contato@canadaagora.com"
+#address = "6 rip carl Avenue CA 90733"
+# Contact Form Action
+contact_form_action = "#"
+
+# Instagram feed
+[params.instafeed]
+enable = true
+access_token = "IGQVJXeW12bGJISE9jdENsSTdrTTZAPWXdfdnhaZAE5yNktUWDFpQURsTVkzVF9QazB2LW9MZA093ZAWQ3LVZAyQ2F1NlExU2xHZAzZAROWUtOVVjd1ZAsNG1pUkIwSTFBZAHdLeXpOWXJNZAExyM0ptcHY4UXVvdgZDZD"
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+# social site
+[[params.social]]
+icon = "ti-facebook"
+link = "https://facebook.com/CanadaAgora"
+
+[[params.social]]
+icon = "ti-instagram"
+link = "https://instagram.com/CanadaAgora"
+
+[[params.social]]
+icon = "ti-twitter-alt"
+link = "https://twitter.com/CanadaAgora"
+
+[[params.social]]
+icon = "ti-youtube"
+link = "https://youtube.com/CanadaAgora"

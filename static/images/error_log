@@ -1,0 +1,2 @@
+[06-Jun-2015 01:03:03 UTC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in /home1/hoshicom/public_html/podeixar/wp-content/plugins/wp-custom-google-search/CustomGoogleSearchOptions.php on line 482
+[03-Aug-2015 10:46:55 UTC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in /home1/hoshicom/public_html/podeixar/wp-content/plugins/wp-custom-google-search/CustomGoogleSearchOptions.php on line 482

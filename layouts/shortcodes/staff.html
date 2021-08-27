@@ -1,0 +1,18 @@
+{{- $type := $.Params.type }}
+<div class="staff-list">
+    {{ range (index $.Site.Data.staff $type) }}
+    <div class="staff-member">
+        <img src="{{ printf "/images/silhouette-%s.jpg" (urlize .city) }}" />
+        <div class="staff-details">
+            {{ with resources.Get .images.profile }}
+            <div class="staff-picture"><img src="{{ .RelPermalink }}" alt=""></div>
+            {{ end }}
+            <h4 class="staff-name">{{ .name }}<span>{{ .role }}</span></h4>
+            <div class="staff-excerpt">
+                {{ .excerpt }}
+            </div>
+            <a href="{{ .link }}" class="follow">LEIA MAIS</a>
+        </div>
+    </div>
+{{ end }}
+</div>

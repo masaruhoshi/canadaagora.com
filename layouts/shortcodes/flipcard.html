@@ -1,0 +1,13 @@
+<div class="podcast-card-container {{ if .Get "class" }}podcast-card-{{ .Get "class" }}{{ end }}">
+    <div class="podcast-card u-clearfix">
+        <div class="podcast-card-body">
+            <h2 class="podcast-card-title">{{ .Get "title" }}</h2>
+            <span class="podcast-card-description">{{ .Inner }}</span>
+            <div class="podcast-card-read"><a href="{{ .Get "link" }}">{{ .Get "more-link" }}</a></div>
+        </div>
+        <div class="podcast-card-img">
+            <img src="{{ .Get "img" }}" alt="{{ .Get "title" }}" class="podcast-card-media" />
+        </div>
+    </div>
+    <div class="podcast-card-shadow"></div>
+</div>

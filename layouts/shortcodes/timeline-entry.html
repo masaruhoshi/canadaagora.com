@@ -1,0 +1,13 @@
+<div class="timeline-entry">
+    <div class="image">
+        <div>
+            <img src="{{ .Get "img" }}" />
+            <span>{{ .Get "date" }}</span>
+        </div>
+    </div>
+    <div class="details">
+        <div class="content">
+            {{ .Inner | markdownify }}
+        </div>
+    </div>
+</div>

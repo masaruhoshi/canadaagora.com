@@ -1,0 +1,37 @@
+categories:
+- name: trabalho
+  title: Trabalho e Negócios
+  excerpt: |
+    Histórias de empreendedores, start ups, entrevistas, encontrar trabalho e um emprego, dicas sobre como escrever o currículo matador, validação de estudos, exames de ordens profissionais e a garantir do ganha pão de cada dia.
+- name: imigracao
+  title: Imigração
+  excerpt: |
+    O Canadá possui dezenas de programas de imigração. Descubra um pouco sobre os processos mais conhecidos, como o Express Entry, QEC, PGWP, OINP, BC PNP e muitos outros. Explore os diversos tipos de vistos e permissões de trabalho.
+- name: cotidiano
+  title: Cotidiano
+  excerpt: |
+    A vida acontece também enquanto você não está se divertindo. Mas isso não significa que as descobertas e o aprendizado acabaram. Confira artigos que falam do dia-a-dia e o cotidiano pelo olhar de quem lutou por isso.
+- name: educacao
+  title: Educação
+  excerpt: |
+    Assuntos diversos sobre educação, do maternal, ensino primário, secundário, superior e intercâmbio. Discussões sobre exames de idiomas em inglês e francês, como o IELTS, TOEFL, CELPIP, CSPS, TEF e outros.
+- name: turismo
+  title: Turismo
+  excerpt: |
+    Viajar é preciso! Descubras as belezas e as maravilhas nas paisagens naturais e urbanas nos mais de 9000km de costa a costa no Canadá. Suas opções de turismo: camping, hotéis, cidades, roteiros gastronômicos, infantis, família, viagens, vistos e muito mais.
+- name: clima
+  title: Clima e Temperatura
+  excerpt: |
+    Faz muito frio no Canadá, mas também faz muito calor. Durante o ano, os 9000km entre o leste e oeste se transformam e criam as mais belas paisagens do mundo. Conheça as diferenças das estações do ano, o clima, a temperatura e como eles afetam a vida das pessoas.
+- name: economia
+  title: Economia
+  excerpt: |
+    Bolsa de valores, poupança, aposentadoria, investimentos, compra e venda, imóveis. Artigos, dicas e conselhos sobre como gerir o seu dinheiro e sobre a economia do Canadá de um modo geral.
+- name: idiomas
+  title: Idiomas
+  excerpt: |
+    O Canadá é um país com dois idiomas oficiais: o francês e o inglês. Descubra materiais exclusivos sobre aprendizado, IELTS, TOEFL, CELPIP, imigração, melhoria pessoa. e muito mais.
+- name: politica
+  title: Política
+  excerpt: |
+    A vida política do Canadá com assuntos que dizem respeito à você. Eleições, leis, processos, julgamentos e muito mais que afetam diretamente o direcionamento do país. Entenda melhor o sistema político canadense e como ele afeta a sua vida.

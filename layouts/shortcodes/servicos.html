@@ -1,0 +1,12 @@
+<div class="service-entry">
+    <figure class="service-entry-logo"><img width="970" height="390" src="{{ .Get "img" }}" alt="" class="wp-image-13463 lazyloaded" /></figure>
+    <div class="service-entry-description">
+        <h1>{{ .Get "title"}}</h1>
+        <div class="description">
+            {{ .Inner | markdownify }}
+        </div>
+        <div class="service-entry-action">
+            <a class="btn btn-danger btn-lg" href="{{ .Get "href" }}">Saiba Mais</a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,157 @@
+authors:
+- name: Lindoberg Gonçalves
+  title: Lindoberg Gonçalves
+  link: /author/lindoberg-goncalves
+  role: Analista de Sistemas
+  city: Quebec City
+  images:
+    profile: images/lindoberg-goncalves.png
+  excerpt: |
+    "Computeiro" de profissão, brasileiro, imigrante, pai de dois jovens rebentos, morando nas geladas terras canadenses desde 2003.
+  intro: |
+    "Computeiro" de profissão, brasileiro, imigrante, pai de dois jovens rebentos, morando nas geladas terras canadenses desde 2003. Nos últimos anos, gerente de projetos de informática com uma grande tendência a privilegiar a comunicação, a colaboração e uma vontade enorme de melhorar de vida, de saúde, de profissão, de alçar ao próximo nível.
+- name: Masaru Hoshi
+  title: Masaru Hoshi
+  link: /author/masaru-hoshi
+  role: Engenheiro de Software
+  city: Ottawa
+  images:
+    profile: images/masaru-hoshi.png
+  excerpt: |
+    Já gostei muito de estudar, mas descobri que prefiro mesmo é aprender. Acredito que estar vivo é a maior prova de que vencer é possível.
+  intro: |
+    Já gostei muito de estudar, mas descobri que prefiro mesmo é aprender. Acredito que estar vivo é a maior prova de que vencer é possível. Sou nerd desde que me entendo por gente. Atualmente acumulo idiomas e nacionalidades e espero ganhar passe livre a todos os países assim que eles cansarem de me dar passaportes. Me tornei karateka por acaso e sou grato por isso. Amo minha família e considero uma benção poder ajudar aos outros.
+- name: Andrea Zotelli
+  title: Andrea Zotelli
+  link: /author/andrea-zotelli
+  role: Engenheira Civil
+  city: Montreal
+  images:
+    profile: images/andrea-zotelli.jpg
+  excerpt: |
+    Engenheira com mais de 10 anos de experiência no Brasil, resolveu virar estudante novamente no Canadá.
+  intro: |
+    Engenheira com mais de 10 anos de experiência no Brasil, resolveu virar estudante novamente no Canadá. Adora ler, escrever, trocar ideias e experiências. Acredita que devemos viver bem o momento presente, mas sem nos esquecermos de planejar o futuro.
+- name: Alexei Michailowsky
+  title: Alexei Michailowsky
+  link: /author/alexei-michailowsky
+  role: Doutor em Musicologia
+  city: Toronto
+  images:
+    profile: images/alexei-michailowsky.jpg
+  excerpt: |
+    Músico, Doutor em Musicologia e designer de mídia interativa, vivendo em Ottawa desde 2015.
+  intro: |
+    Músico, Doutor em Musicologia e designer de mídia interativa, vivendo em Ottawa desde 2015. Acredito que o sonho canadense não existe, mas sim uma multiplicidade de sonhos diferentes que convergem para o mesmo lugar!
+- name: Alice Bessa Veloso
+  title: Alice Bessa Veloso
+  link: /author/alice-bessa-veloso
+  role: Escritora
+  city: Montreal
+  images:
+    profile: images/alice-bessa-veloso.jpg
+  excerpt: |
+    Conhecida como Alicinha é autora do livro "Poemas Trilíngues" para exercitar o cérebro à pensar em português, francês, inglês.
+  intro: |
+    Conhecida como Alicinha é autora do livro "Poemas Trilíngues" para exercitar o cérebro à pensar em português, francês, inglês e para aquecer o coração, e do livro infantil bilíngue "As aventuras da Capilinda", histórias de uma capivara imigrante. Mora no Canadá, na regiao de Montréal, há 10 anos. Gosta de escrever sobre cultura, política e questões sociais. Formada em educação artística e contabilidade, hoje trabalha em uma das maiores instituições financeiras do Canadá.
+- name: Andrea Britto
+  title: Andrea Britto
+  link: /author/andrea-britto
+  role: Empreendedora
+  city: Toronto
+  images:
+    profile: images/andrea-britto.png
+  excerpt: |
+    Empreendedora, realizadora e conselheira independente en segurança financeira.
+  intro: |
+    Empreendedora, realizadora e conselheira independente en segurança financeira. Imigrou para o Canadá em 2007 e desde então busca encontrar em cada dia novas oportunidades e inspirações. Oferece à seus clientes o melhor serviço para seus investimentos, seguros e gestão financeira.
+- name: João Gonçalves Jr
+  title: João Gonçalves Jr
+  link: /author/joao-goncalves-jr
+  role: Analista de Negócios
+  city: Toronto
+  images:
+    profile: images/joao-goncalves-jr.jpg
+  excerpt: |
+    Administrador e analista de negócios em TI, decidiu abrir mão da estabilidade do serviço público federal em troca de uma perspectiva de vida mais justa e igualitária no Canadá.
+  intro: |
+    Administrador e analista de negócios em TI, decidiu abrir mão da estabilidade do serviço público federal em troca de uma perspectiva de vida mais justa e igualitária no Canadá para a esposa e para os filhos que deseja ter. Acredita que que a verdadeira liberdade está em abrir coração e mente para a diversidade das pessoas, e que exercer cooperação e cidadania é fundamental para a felicidade e progresso de todos.
+- name: Juan Canizares
+  title: Juan Canizares
+  link: /author/juan-canizares
+  role: Psicólogo Industrial
+  city: Quebec City
+  images:
+    profile: images/juan-canizares.png
+  excerpt: |
+    Psicólogo Industrial e consultor em desenvolvimento pessoal e organizacional. Sou equatoriano, brasileiro naturalizado e residente permanente no Canadá (Québec).
+  intro: |
+    Psicólogo Industrial e consultor em desenvolvimento pessoal e organizacional. Sou equatoriano, brasileiro naturalizado e residente permanente no Canadá (Québec). Gosto de assuntos relacionados à cultura organizacional, ao empreendedorismo, à liderança e à transição de carreira.
+- name: Rafael Almeida
+  title: Rafael Almeida
+  link: /author/rafael-almeida
+  role: Consultor de vendas
+  city: Sherbrooke
+  images:
+    profile: images/rafael-almeida.jpg
+  excerpt: |
+    Consultor de vendas de automóveis em Sherbrooke, QC desde 2011 e fundador do site Automóveis Québec
+  intro: |
+    Consultor de vendas de automóveis em Sherbrooke, QC desde 2011 e fundador do site Automóveis Québec, o primeiro site canadense sobre automóveis todo em português.
+partners:
+- name: Energia Seguros
+  title: Energia Seguros
+  link: https://www.energiaseguros.com
+  role: Seguro Saúde
+  city: World
+  images:
+    profile: images/banner-energiaseguros.jpg
+  excerpt: |
+    A melhor equipe de seguro viagem que existe. Simpatia, atenção e qualidade, oferecendo exatamente o que você precisa.
+  intro: |
+    A melhor equipe de seguro viagem que existe. Simpatia, atenção e qualidade, oferecendo exatamente o que você precisa.
+- name: Soraya Quirino
+  title: Soraya Quirino
+  link: /author/soraya-quirino
+  role: Inglês para Imigração
+  city: World
+  images:
+    profile: images/soraya-quirino.png
+  excerpt: |
+    Professora de inglês especialista em exames internacionais, atua na área de educação há 14 anos e não consegue se imaginar fazendo outra coisa.
+  intro: |
+    Professora de inglês especialista em exames internacionais, atua na área de educação há 14 anos e não consegue se imaginar fazendo outra coisa. É proprietária e professora do Soraya Quirino - Inglês para imigração, curso preparatório para IELTS. Apaixonada por idiomas, vinho e gastronomia, curte viajar para fazer novas descobertas nessas áreas. Sobreviveu ao Rio de Janeiro e agora mora em Montreal, desde setembro de 2016.
+# - name: Brotherscast
+#   title: Brotherscast
+#   link: https://www.brotherscast.com.br/
+#   role: Podcast
+#   city: World
+#   images:
+#     profile: images/brotherscast-logo.jpg
+#   excerpt: |
+#     Ciência, cultura e atualidades num podcast repleto de conteúdo de alta qualidade produzida por quem tem verdadeira paixão pelo assunto.
+#   intro: |
+#     Ciência, cultura e atualidades num podcast repleto de conteúdo de alta qualidade produzida por quem tem verdadeira paixão pelo assunto.
+podcasts:
+- name: Podeixar
+  title: Podeixar
+  link: /author/podeixar
+  role: Podcast
+  city: World
+  images:
+    profile: images/podeixar-logo-v3.jpg
+  excerpt: |
+    O melhor podcast sobre o dia-a-dia e a vida no Canadá. Cultura, entretenimento, informação de maneira descontraída, agradável e irreverente, falando sobre assuntos variados sobre o dia-a-dia e a curiosidades da vida no Canadá.
+  intro: |
+    No ar desde 2012, o PoDeixar é o melhor podcast sobre o dia-a-dia e a vida no Canadá. Criado por brasileiros que vivem no Canadá e que adoram papo furado, Lindoberg Gonçalves, Masaru Hoshi e Andrea Zotelli trazem todas as semanas cultura, entretenimento, informação de maneira descontraída, agradável e irreverente, falando sobre assuntos variados sobre o dia-a-dia e a curiosidades da vida no Canadá.
+- name: Franglish MainteNow
+  title: Franglish MainteNow
+  link: /author/franglish-maintenow
+  role: Podcast
+  city: World
+  images:
+    profile: images/franglish-maintenow.png
+  excerpt: |
+    O único podcast totalmente bilíngue, em francês e inglês, apresentando a vida, as peculiaridades e as curiosidades da vida no Brasil e no Canadá.
+  intro: |
+    O único podcast totalmente bilíngue, em francês e inglês, apresentando a vida, as peculiaridades e as curiosidades da vida no Brasil e no Canadá. Apresentado pela mesma equipe do PoDeixar, para um público um pouco mais exclusivo.

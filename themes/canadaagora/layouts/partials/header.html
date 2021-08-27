@@ -1,0 +1,45 @@
+<header class="navigation">
+  <nav class="navbar navbar-expand-lg navbar-light">
+    <a class="navbar-brand" href="{{site.BaseURL}}"><img class="img-fluid" src="{{ site.Params.logo | absURL }}" alt="{{site.Title}}"></a>
+    <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navogation"
+      aria-controls="navogation" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse justify-content-md-center" id="navogation" style="background-color: #dd3333; width: 100%;">
+      <ul class="navbar-nav">
+        {{ range site.Menus.main }}
+        {{ if .HasChildren }}
+        <li class="nav-item dropdown">
+          <a class="nav-link text-uppercase dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+            aria-expanded="false">
+            {{ .Name }}
+          </a>
+          <div class="dropdown-menu" >
+            {{ range .Children }}
+            <a class="dropdown-item text-uppercase" href="{{ .URL | absURL }}">{{ .Name }}</a>
+            {{ end }}
+          </div>
+        </li>
+        {{ else }}
+        <li class="nav-item">
+          <a class="nav-link text-uppercase" href="{{ .URL | absURL }}">{{ .Name }}</a>
+        </li>
+        {{ end }}
+        {{ end }}
+      </ul>
+      {{ if site.Params.search }}
+      {{ "<!-- search -->" | safeHTML }}
+      <div id="search-form">
+        <form class="form-inline position-relative ml-lg-4" action="{{ site.BaseURL }}/search/">
+          <div id="search-box">
+            <input type="text" id="search-query" name="s">
+            <span></span>
+            <!--button class="search-icon" type="submit" id="search-button"><i class="ti-search"></i></button-->
+          </div>
+        </form>
+      </div>
+      {{ end }}
+    </div>
+  </nav>
+</header>
