@@ -8,7 +8,7 @@ categories:
 date: 2018-01-24T08:30:50+00:00
 summary: "Entre le Brésil et le Canada nous trouvons quelques différences de culture. In this episode we' are going to talk about restaurants. En plus, vous allez découvrir comment cela peut influencer votre diner, souper ou déjeuner en sortie, ici ou ailleurs. "
 url: /cotidiano/restaurants.html
-image: images/franglish12-restaurants.jpg
+image: /images/franglish12-restaurants.jpg
 podcast: podeixar
 
 ---

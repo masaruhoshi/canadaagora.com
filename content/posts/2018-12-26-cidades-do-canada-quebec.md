@@ -10,7 +10,7 @@ categories:
 date: 2018-12-26T15:30:00+00:00
 summary: descubra onde morar, os sistemas de transporte, saúde, diversão e entretenimento em Québec no primeiro episódio da série Cidades do Canadá.
 url: /cultura/cidades-do-canada-quebec.html
-image: images/podeixar223-cidades-do-canada-quebec-city.jpg
+image: /images/podeixar223-cidades-do-canada-quebec-city.jpg
 wps_subtitle:
   - Conheça a capital francófona das Américas
 podcast: podeixar

@@ -9,7 +9,7 @@ categories:
 - imigracao
 date: 2017-11-30T14:35:40+00:00
 url: /imigracao/ielts-tudo-o-que-voce-precisa-saber.html
-image: images/IELTS-Logo.jpg
+image: /images/IELTS-Logo.jpg
 
 ---
 Este é o primeiro artigo de uma série na qual vamos explicar tudo, tudo, tudo, TUDO MESMO que você precisa saber sobre o IELTS.  Se você está iniciando o seu projeto de imigração ou pesquisando sobre o exame, você não pode perder esse conteúdo!

@@ -9,7 +9,7 @@ categories:
 date: 2017-07-27T12:22:50+00:00
 summary: Conheça várias informações importantes sobre a segurança no Canadá e descubra qual cidade foi eleita a capital dos homicídios do país.
 url: /noticias/capital-dos-homicidios-no-canada.html
-image: images/Cidades-canadenses-com-mais-homicídios.jpeg
+image: /images/Cidades-canadenses-com-mais-homicídios.jpeg
 wps_subtitle:
   - Pesquisa do Statistics Canadá aponta para longe dos centros urbanos
 format: video

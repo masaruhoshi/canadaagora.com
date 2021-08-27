@@ -8,7 +8,7 @@ categories:
 date: 2017-06-09T11:39:08+00:00
 summary: Exigências cada vez mais rígidas, política, burocracia, lobby e diferenças culturais. Será que a imigração está sendo justa conosco?
 url: /imigracao/imigracao-esta-sendo-justa-conosco.html
-image: images/podeixar149.png
+image: /images/podeixar149.png
 podcast: podeixar
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2017-01-25T15:11:22+00:00
 summary: 'O Salão do Automóvel de Montreal: mais de 41 marcas e 600 veículos, dezenas de expositores. Muito luxo e sofisticação num passeio pra toda a família'
 url: /cotidiano/salao-automovel-montreal-2017.html
-image: images/salon-auto-montreal-2017.png
+image: /images/salon-auto-montreal-2017.png
 syn_post_guid:
   - http://automoveisquebec.com/?p=2101
 syn_source_site_id:

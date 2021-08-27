@@ -8,7 +8,7 @@ categories:
 date: 2015-04-15T16:00:00+00:00
 summary: Onde será que o Japa se meteu e por que não tem programa esta semana?
 url: /cotidiano/japa-fugiu.html
-image: images/O-Japa-é-Massa-Urgente-O-Japa-fugiu.jpeg
+image: /images/O-Japa-é-Massa-Urgente-O-Japa-fugiu.jpeg
 format: video
 
 ---

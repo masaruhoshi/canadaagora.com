@@ -9,7 +9,7 @@ categories:
 date: 2016-09-30T19:38:51+00:00
 summary: Acordo previdenciário entre Québec e Brasil prevê benefícios para quem contribuiu para a previdência no Brasil além de beneficiar dependentes.
 url: /politica/aprovado-acordo-previdenciario-entre-brasil-e-quebec.html
-image: images/acordo-previdenciario-entre-brasil-e-quebec.png
+image: /images/acordo-previdenciario-entre-brasil-e-quebec.png
 
 ---
 ## Aprovado acordo previdenciário entre Brasil e Québec

@@ -8,7 +8,7 @@ categories:
 date: 2018-01-22T10:30:23+00:00
 summary: Curiosidades sobre origens dos nomes e sobrenomes franceses, os sobrenomes mais comuns e como os nomes brasileiros acabam totalmente diferentes quando pronunciados em francês.
 url: /cultura/nomes-e-sobrenomes-franceses.html
-image: images/podeixar177-nome-e-sobrenomes-franceses.jpg
+image: /images/podeixar177-nome-e-sobrenomes-franceses.jpg
 wps_subtitle:
   - Ou como seu nome nunca mais vai ser pronunciado da mesma forma
 podcast: podeixar

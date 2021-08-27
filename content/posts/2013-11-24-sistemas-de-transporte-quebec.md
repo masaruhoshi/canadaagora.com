@@ -8,7 +8,7 @@ categories:
 date: 2013-11-25T04:01:42+00:00
 summary: Carro, ônibus, trem, avião, espaçonave, teletransporte, cabine telefônica. Falamos sobre as opções de transporte público disponíveis na cidade de Québec, onde encontrá-las, como utilizá-las e quem sabe como não pagar muitos micos dentro delas.
 url: /cultura/sistemas-de-transporte-quebec.html
-image: images/programa-2.09-post.png
+image: /images/programa-2.09-post.png
 podcast: podeixar
 
 ---

@@ -7,7 +7,7 @@ categories:
 - trabalho
 date: 2019-10-13T23:00:59+00:00
 url: /trabalho/cacando-emprego-no-canada.html
-image: images/podeixar252-cacando-emprego-no-canada.jpg
+image: /images/podeixar252-cacando-emprego-no-canada.jpg
 podcast: podeixar
 
 ---

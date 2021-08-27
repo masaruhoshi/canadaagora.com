@@ -8,7 +8,7 @@ categories:
 date: 2013-11-03T19:26:09+00:00
 summary: 'O triângulo de tecnologia do Canadá: a região de Waterloo. Conheça um pouco mais sobre as cidades de Kitchener, Waterloo e Cambridge e saiba porque grandes empresas como Google, McAfee, Blackberry, Toyota, entre muitas outras resolveram se estabelecer na região e como ela tem sido uma das que mais tem crescido em todo o Canadá.'
 url: /turismo/canada-por-quem-nao-mora-no-canada-waterloo.html
-image: images/programa-2.06-post.png
+image: /images/programa-2.06-post.png
 post_to_facebook_page:
   - 0
   - 0

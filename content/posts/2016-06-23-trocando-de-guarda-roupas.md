@@ -9,7 +9,7 @@ categories:
 date: 2016-06-24T00:48:06+00:00
 summary: Neste fundo verde, Berg explica a questão da troca de guarda-roupas que acontece algumas vezes no ano, sempre que muda a estação.
 url: /clima/trocando-de-guarda-roupas.html
-image: images/FV006-Duas-Malas-4-Roupas-Trocando-de-guarda-roupas-CAPA.png
+image: /images/FV006-Duas-Malas-4-Roupas-Trocando-de-guarda-roupas-CAPA.png
 format: video
 
 ---

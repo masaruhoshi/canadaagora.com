@@ -8,7 +8,7 @@ categories:
 date: 2018-04-26T13:52:59+00:00
 summary: Confesso que nos últimos anos tenho criado uma idéia muito pessimista do que é o Brasil. O complexo de vira-lata que já era forte em muitos brasileiros, acredito que se intensifica quando moramos em outro país.
 url: /cultura/complexo-de-vira.html
-image: images/complexo-de-vira-lata.jpeg
+image: /images/complexo-de-vira-lata.jpeg
 essb_c_pinterest:
   - 2
 

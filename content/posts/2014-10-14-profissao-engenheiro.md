@@ -9,7 +9,7 @@ categories:
 date: 2014-10-14T12:45:59+00:00
 summary: Em mais uma entrevista especial do PoDeixar, chegou a hora de conhecer como funciona a profissão de engenheiro no Canadá. A validação dos diplomas, os exames da ordem e as vantagens em passar por todo esse processo você descobre neste papo com Marcio Su Jo.
 url: /trabalho/profissao-engenheiro.html
-image: images/programa-3.04.png
+image: /images/programa-3.04.png
 podcast: podeixar
 
 ---

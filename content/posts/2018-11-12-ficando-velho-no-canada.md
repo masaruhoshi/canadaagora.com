@@ -9,7 +9,7 @@ categories:
 date: 2018-11-12T16:00:39+00:00
 summary: 'As estratégias e os planos de quem está ficando velho no Canadá. Onde morar? O que importa mais: saúde ou bem estar? Voltar pro Brasil é uma possibilidade?'
 url: /cultura/ficando-velho-no-canada.html
-image: images/podeixar218-ficando-velho-no-canada.jpg
+image: /images/podeixar218-ficando-velho-no-canada.jpg
 podcast: podeixar
 
 ---

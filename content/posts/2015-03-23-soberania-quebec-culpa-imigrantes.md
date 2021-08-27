@@ -9,7 +9,7 @@ categories:
 date: 2015-03-23T16:52:00+00:00
 summary: Imigrantes culpados pelo não avanço do Québec... de novo!?
 url: /clima/soberania-quebec-culpa-imigrantes.html
-image: images/programa00009.png
+image: /images/programa00009.png
 format: video
 
 ---

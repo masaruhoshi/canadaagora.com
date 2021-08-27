@@ -9,7 +9,7 @@ categories:
 date: 2018-01-21T15:00:10+00:00
 summary: A Sears foi apenas mais uma marca com filiais por todo o Canadá que resolveu abandonar o mercado alegando problemas de faturamento. Isso é um sinal de que o setor de varejo no Canadá é fadado ao esquecimento?
 url: /trabalho/sears-deixa-o-canada.html
-image: images/A-saída-da-Sears-e-a-realidade-do-varejo-no-Canadá.jpeg
+image: /images/A-saída-da-Sears-e-a-realidade-do-varejo-no-Canadá.jpeg
 wps_subtitle:
   - E a realidade do mercado de varejo canadense
 format: video

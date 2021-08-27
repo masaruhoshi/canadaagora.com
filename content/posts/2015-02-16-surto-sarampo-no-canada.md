@@ -10,7 +10,7 @@ summary: |
   Mais uma semana se passou. Eu começo o programa de hoje agradecendo a todo mundo que fez questão de me lembrar que a maldita da marmota prevê o final do INVERNO e não da porcaria da primavera… São lapsos mentais. Desculpe.
   Marmota miserável... Tinha que ser um bicho que lembra Marmita...
 url: /clima/surto-sarampo-no-canada.html
-image: images/programa00004.png
+image: /images/programa00004.png
 format: video
 
 ---

@@ -8,7 +8,7 @@ categories:
 - trabalho
 date: 2013-02-11T03:33:21+00:00
 url: /trabalho/pedro-ii-o-retorno.html
-image: images/2013/02/pilha-de-contas.jpg
+image: /images/2013/02/pilha-de-contas.jpg
 podcast: podeixar
 
 ---

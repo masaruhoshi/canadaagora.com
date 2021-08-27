@@ -7,7 +7,7 @@ categories:
 - cotidiano
 date: 2012-10-09T01:44:16+00:00
 url: /cotidiano/primeiro-programa-2-2.html
-image: images/podeixar_logo_1432x640.png
+image: /images/podeixar_logo_1432x640.png
 podcast: podeixar
 
 ---

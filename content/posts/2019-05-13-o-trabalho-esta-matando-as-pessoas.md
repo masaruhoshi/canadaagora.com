@@ -8,7 +8,7 @@ categories:
 date: 2019-05-14T01:38:02+00:00
 summary: Você sabe identificar que o seu ambiente de trabalho está lhe fazendo mal? É possível trabalhar e ter um ambiente saudável? Como ter uma vida equilibrada?
 url: /trabalho/o-trabalho-esta-matando-as-pessoas.html
-image: images/podeixar238-trabalho-esta-matando-as-pessoas.jpg
+image: /images/podeixar238-trabalho-esta-matando-as-pessoas.jpg
 podcast: podeixar
 
 ---

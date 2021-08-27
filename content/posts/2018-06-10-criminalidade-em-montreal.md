@@ -8,7 +8,7 @@ categories:
 date: 2018-06-10T15:11:06+00:00
 summary: A criminalidade em Montreal. O risco de ser vítima de um crime em Montreal é pequeno. Mas a cidade oculta muito mais problemas do que se imagina.
 url: /cotidiano/criminalidade-em-montreal.html
-image: images/criminalidade-em-montreal-1.jpg
+image: /images/criminalidade-em-montreal-1.jpg
 
 ---
 O risco de sermos vítimas de um crime em Montreal é relativamente pequeno, menos ainda de um crime violento. Mas algumas regiões atraem mais criminosos do que outras.

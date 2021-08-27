@@ -9,7 +9,7 @@ categories:
 date: 2018-07-09T15:00:24+00:00
 summary: Não parecer com um canadense pode ser um problema? Existe racismo com quem não é branco? Existe alguma vantagem em fazer parte de uma minoria étnica?
 url: /cultura/minorias-etnicas.html
-image: images/podeixar201-minoria-etnica.jpg
+image: /images/podeixar201-minoria-etnica.jpg
 wps_subtitle:
   - Ou vivendo com cara de imigrante
 amp_status:

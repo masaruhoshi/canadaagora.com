@@ -8,7 +8,7 @@ categories:
 date: 2019-04-22T00:00:21+00:00
 summary: A história de como ela quebrou a perna, o tratamento e a recuperação numa história que poderia ter acontecido com qualquer um de nós.
 url: /cotidiano/minha-esposa-quebrou-perna.html
-image: images/podeixar235-minha-esposa-quebrou-a-perna.jpg
+image: /images/podeixar235-minha-esposa-quebrou-a-perna.jpg
 podcast: podeixar
 
 ---

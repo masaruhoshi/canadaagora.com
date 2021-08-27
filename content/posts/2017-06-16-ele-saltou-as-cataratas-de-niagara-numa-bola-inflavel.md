@@ -9,7 +9,7 @@ categories:
 date: 2017-06-16T22:07:13+00:00
 summary: Há 10 anos ele saltou as cataratas e sobreviveu. Mas ao tentar saltar as cataratas de Niagara numa bola inflável, ele não teve tanta sorte.
 url: /noticias/ele-saltou-as-cataratas-de-niagara-numa-bola-inflavel.html
-image: images/homem-morre-ao-se-jogar-nas-cataratas-de-niagara.jpg
+image: /images/homem-morre-ao-se-jogar-nas-cataratas-de-niagara.jpg
 
 ---
 Em 2003, Kirk R. Jones resolveu desafiar a morte (e principalmente o bom senso) e resolveu saltar as cataratas de Niagara numa bola inflável.

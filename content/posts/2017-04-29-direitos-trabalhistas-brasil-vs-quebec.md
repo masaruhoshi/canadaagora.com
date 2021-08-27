@@ -9,7 +9,7 @@ categories:
 date: 2017-04-29T05:24:45+00:00
 summary: Ser empregado no Canadá é bem diferente. Conheça as diferenças entre a legislação, as normas e os direitos trabalhistas entre o Brasil e o Québec.
 url: /cultura/direitos-trabalhistas-brasil-vs-quebec.html
-image: images/direitos-trabalhistas-brasil-vs-canada-quebec.png
+image: /images/direitos-trabalhistas-brasil-vs-canada-quebec.png
 
 ---
 # Direitos trabalhistas: Brasil vs Québec

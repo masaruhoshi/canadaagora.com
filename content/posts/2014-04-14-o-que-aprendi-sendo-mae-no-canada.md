@@ -6,7 +6,7 @@ type: post
 date: 2014-04-14T23:52:56+00:00
 summary: 'Você resolve morar no Canadá e junto com você seu maior tesouro: seus filhos. Como é vir com filhos pequenos, adolescentes ou ainda se tornar mãe ao mesmo tempo que você deixa pra trás seu país, seus amigos e sua família? Neste programa entrevistamos não uma, mas três mães que nos contam como foi viver essas experiências ao mesmo tempo.'
 url: /artigos/o-que-aprendi-sendo-mae-no-canada.html
-image: images/programa-2.22-post.png
+image: /images/programa-2.22-post.png
 podcast: podeixar
 
 ---

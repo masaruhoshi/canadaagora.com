@@ -8,7 +8,7 @@ categories:
 date: 2017-03-15T19:08:53+00:00
 summary: Considerado o 8o país mais seguro do mundo, o Canadá começa a passar por uma crise de superlotação. Descubra como são as cadeias do Canadá
 url: /cultura/cadeias-do-canada.html
-image: images/cadeias-do-canada.png
+image: /images/cadeias-do-canada.png
 essb_pc_twitter:
   - 1
 essb_c_twitter:

@@ -10,7 +10,7 @@ categories:
 date: 2013-05-16T03:09:54+00:00
 summary: Montamos um top 10 com 11 items que esclarecem alguns mitos que as pessoas têm quando pensam em morar no Canadá.
 url: /trabalho/11-mitos-sobre-o-canada.html
-image: images/true-false.jpg
+image: /images/true-false.jpg
 
 ---
 # 11 Mitos sobre o Canadá

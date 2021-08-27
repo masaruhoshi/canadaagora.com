@@ -9,7 +9,7 @@ categories:
 date: 2013-11-22T18:08:10+00:00
 summary: Conheças alguns do mais diferentes tipos e sabores deste prato tão canadense
 url: /cotidiano/10-poutines-a-experimentar.html
-image: images/Poutine-Fork.jpg
+image: /images/Poutine-Fork.jpg
 
 ---
 Apesar de ter uma origem não muito clara, esse prato à base de batata-frita, queijo borrachudo e molho gravy se espalhou por todos os cantos pela sua praticidade.

@@ -8,7 +8,7 @@ categories:
 date: 2018-02-12T12:30:20+00:00
 summary: Por mais que você tente ser uma pessoa centrada, que pondera tudo com parcimônia e bom senso, tem sempre algo que te tira do sério. É como se o universo conspirasse para que o caos tenha algum lugar. Ou como diziam os antigos, é simplesmente o diabos fazendo das suas. Isso me tira do sério!
 url: /cotidiano/isso-me-tira-do-serio.html
-image: images/podeixar180-isso-me-tira-do-serio.png
+image: /images/podeixar180-isso-me-tira-do-serio.png
 podcast: podeixar
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2013-09-02T20:42:56+00:00
 summary: Detalhamos as diferenças entre os sistemas educacionais canadenses adotados por cada uma das províncias no primário, secundário, superior e pós-superior.
 url: /educacao/sistemas-educacionais-canadenses.html
-image: images/2398473217_203bbce70b.jpg
+image: /images/2398473217_203bbce70b.jpg
 post_to_facebook_page:
   - 0
   - 0

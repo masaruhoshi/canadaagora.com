@@ -9,7 +9,7 @@ categories:
 date: 2017-02-15T23:36:09+00:00
 summary: Vir para o Canadá para estudar, depois de muitos anos fora da sala de aula. Será que serei discriminado? Será que conseguirei um emprego depois? Vou conseguir imigrar para o Canadá mesmo tendo mais de 40 anos? Estas são dúvidas de muitos que me escrevem, por isso resolvi compartilhar minhas ideias sobre o tema aqui com vocês.
 url: /trabalho/imigrar-apos-os-40-anos.html
-image: images/s_ed_adult_ed-1.jpg
+image: /images/s_ed_adult_ed-1.jpg
 
 ---
 # Imigrar após os 40 anos através dos estudos

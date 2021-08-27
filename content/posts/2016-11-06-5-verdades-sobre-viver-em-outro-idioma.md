@@ -9,7 +9,7 @@ categories:
 date: 2016-11-07T02:52:20+00:00
 summary: Neste post descrevemos algumas situações que passamos quando falamos outro idioma. Qual a influência disso na sua vida? Em que isso pode fazer a diferença?
 url: /cultura/5-verdades-sobre-viver-em-outro-idioma.html
-image: images/5-verdades-outro-idioma-e1478569210951.jpg
+image: /images/5-verdades-outro-idioma-e1478569210951.jpg
 instant_articles_submission_id:
   - 1179347378810768
 

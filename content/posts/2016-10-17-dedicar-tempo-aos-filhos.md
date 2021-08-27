@@ -6,7 +6,7 @@ type: post
 date: 2016-10-17T17:26:10+00:00
 summary: Eu não tive filhos no Brasil, mas posso dizer que ter filhos aqui exige grande dedicação. Neste post eu explico a razão dos meus pensamentos.
 url: /artigos/dedicar-tempo-aos-filhos.html
-image: images/Cuidar-Dos-Filhos-Momento-Lindo-e1477316606670.jpg
+image: /images/Cuidar-Dos-Filhos-Momento-Lindo-e1477316606670.jpg
 
 ---
 <h2 style="text-align: justify;">

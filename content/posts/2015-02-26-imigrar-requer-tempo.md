@@ -8,7 +8,7 @@ categories:
 date: 2015-02-26T17:56:43+00:00
 summary: A excitação em imigrar é normal em todo mundo. Mas, tem como tirar algo de bom nesse tempo de espera?
 url: /imigracao/imigrar-requer-tempo.html
-image: images/ML000003_Imigrar-requer-tempo_CAPA.png
+image: /images/ML000003_Imigrar-requer-tempo_CAPA.png
 format: video
 
 ---

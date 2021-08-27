@@ -8,7 +8,7 @@ categories:
 date: 2016-06-17T16:00:53+00:00
 summary: Governo federal finalmente resolveu dar atenção à categoria de imigração do reagrupamento familiar.
 url: /imigracao/reagrupamento-familiar-reducao-do-tempo-de-espera.html
-image: images/reagrupamento-familiar.png
+image: /images/reagrupamento-familiar.png
 syn_post_guid:
   - http://mjconsultoria.com.br/?p=2828
 syn_source_site_id:

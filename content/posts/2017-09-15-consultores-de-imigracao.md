@@ -8,7 +8,7 @@ categories:
 date: 2017-09-15T11:30:31+00:00
 summary: Descubra como trabalha um consultor de imigração para o Canadá, quais suas responsabilidades, quando você deve ou não deve contratá-lo e muito mais.
 url: /imigracao/consultores-de-imigracao.html
-image: images/podeixar162.png
+image: /images/podeixar162.png
 essb_c_pinterest:
   - 1
 podcast: podeixar

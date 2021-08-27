@@ -11,7 +11,7 @@ summary: |
   Continuando o papo sobre as cidades, fazemos um tour rápido sobre as principais cidades canadenses. Abordamos alguns aspectos como o clima, população e mercado.
   Descubra mais neste artigo.
 url: /trabalho/principais-cidades-canadenses.html
-image: images/ML19-Principais-CIDADES-canadenses.jpeg
+image: /images/ML19-Principais-CIDADES-canadenses.jpeg
 format: video
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2017-01-22T13:27:31+00:00
 summary: Alguns conselhos de quem mora há 10 anos no Canadá para o brasileiro que escolhe vir para o Canadá e imigra para Montréal
 url: /imigracao/a-decepcao-de-quem-imigra-para-montreal.html
-image: images/a-decepcao-de-quem-imigra-para-montreal.png
+image: /images/a-decepcao-de-quem-imigra-para-montreal.png
 
 ---
 # A decepção de quem imigra para Montreal

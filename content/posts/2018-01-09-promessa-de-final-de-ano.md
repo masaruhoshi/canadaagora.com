@@ -5,7 +5,7 @@ authors:
 type: post
 date: 2018-01-10T01:48:05+00:00
 url: /artigos/promessa-de-final-de-ano.html
-image: images/ca-ml-promessa-capa-1.png
+image: /images/ca-ml-promessa-capa-1.png
 format: video
 
 ---

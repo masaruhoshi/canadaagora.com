@@ -8,7 +8,7 @@ categories:
 date: 2013-06-03T03:28:33+00:00
 summary: Um programa descontraído, lembrando da infância e dos desenhamos animados que nos faziam ficar grudados na frente da televisão. De graça você ganha um pitaco sobre alguns clássicos das cantigas de roda.
 url: /cultura/desenhos-anos-60.html
-image: images/cartoons.png
+image: /images/cartoons.png
 podcast: podeixar
 
 ---

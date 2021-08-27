@@ -8,7 +8,7 @@ categories:
 date: 2017-09-22T11:31:10+00:00
 summary: Mais de 50% das canadenses já sofreu com violência física ou sexual. Descubra este lado sombrio do Canadá e conheça como se ver livre desta triste realidade
 url: /cultura/violencia-domestica.html
-image: images/podeixar163-violencia-domestica.png
+image: /images/podeixar163-violencia-domestica.png
 podcast: podeixar
 
 ---

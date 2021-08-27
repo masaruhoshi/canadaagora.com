@@ -8,7 +8,7 @@ categories:
 date: 2015-04-17T16:59:41+00:00
 summary: O que aconteceu com o Japa? Ele saiu do PoDeixar? Só o Berg vai continuar o site agora?
 url: /cotidiano/muda-tudo-nada-muda.html
-image: images/OLEM-1-Muda-tudo-nada-muda.jpeg
+image: /images/OLEM-1-Muda-tudo-nada-muda.jpeg
 format: video
 
 ---

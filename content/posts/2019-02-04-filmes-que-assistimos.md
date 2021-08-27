@@ -8,7 +8,7 @@ categories:
 date: 2019-02-04T15:00:57+00:00
 summary: Ficção científica, drama, ação, aventura, cachorros, risos e muito choro neste episódio sobre os filmes que assistimos e gostamos de ver e rever.
 url: /cotidiano/filmes-que-assistimos.html
-image: images/podeixar224-coisas-que-assistimos.jpg
+image: /images/podeixar224-coisas-que-assistimos.jpg
 podcast: podeixar
 
 ---

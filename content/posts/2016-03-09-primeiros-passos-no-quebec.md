@@ -10,7 +10,7 @@ categories:
 date: 2016-03-09T08:40:00+00:00
 summary: 'Uau! Você  chegou ao Québec! Mas e agora? O que fazer?'
 url: /trabalho/primeiros-passos-no-quebec.html
-image: images/primeiros-passos-no-quebec.png
+image: /images/primeiros-passos-no-quebec.png
 syn_post_guid:
   - http://purehotdog.com/?p=735
 syn_source_site_id:

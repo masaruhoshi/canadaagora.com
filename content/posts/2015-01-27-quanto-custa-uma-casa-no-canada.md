@@ -9,7 +9,7 @@ categories:
 date: 2015-01-27T19:00:22+00:00
 summary: Seja bem vindo ao primeiro vídeo do Japa no canal do PoDeixar. A partir de hoje, seu amigo nipo-brasilo-canadense vai trazer pra vocês notícias atualizadas do que acontece no Canadá, no melhor estilo que gosta ao ouvir o PoDeixar.
 url: /trabalho/quanto-custa-uma-casa-no-canada.html
-image: images/programa00001.png
+image: /images/programa00001.png
 format: video
 
 ---

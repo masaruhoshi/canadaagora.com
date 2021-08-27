@@ -8,7 +8,7 @@ categories:
 date: 2013-04-01T01:08:59+00:00
 summary: 'Mudanças nas regras e pilotos errando onde deveriam ir fazem o circo da F1 pegar fogo. Enquanto isso, um relatório condena: Montreal, capital das drogas?'
 url: /cotidiano/troca-de-pneus-f1-montreal-capital-das-drogas.html
-image: images/2013/03/spring-bunny.jpg
+image: /images/2013/03/spring-bunny.jpg
 podcast: podeixar
 
 ---

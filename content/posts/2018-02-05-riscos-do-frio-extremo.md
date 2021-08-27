@@ -8,7 +8,7 @@ categories:
 date: 2018-02-05T16:30:13+00:00
 summary: O Canadá tem um dos invernos mais intensos e impiedosos do mundo. Canadenses por todo o país tem que conviver com os riscos do frio extremo que muitas vezes podem afetar sua saúde e por sua vida em perigo.
 url: /cultura/riscos-do-frio-extremo.html
-image: images/riscos-do-frio.jpg
+image: /images/riscos-do-frio.jpg
 format: video
 
 ---

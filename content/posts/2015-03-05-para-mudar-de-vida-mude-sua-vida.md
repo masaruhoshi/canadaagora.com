@@ -6,7 +6,7 @@ type: post
 date: 2015-03-05T17:52:24+00:00
 summary: Muito em breve você passará por uma grande mudança ao imigrar. Mas, será que só isso importa?
 url: /artigos/para-mudar-de-vida-mude-sua-vida.html
-image: images/ML000004_Pra-mudar-de-vida-mude-sua-vida_CAPA.png
+image: /images/ML000004_Pra-mudar-de-vida-mude-sua-vida_CAPA.png
 format: video
 
 ---

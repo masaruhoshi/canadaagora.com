@@ -8,7 +8,7 @@ categories:
 date: 2017-02-21T15:45:48+00:00
 summary: O Canadá investe fortemente em esportes e não surpreendentemente produz grande atletas. Conheça alguns dos atletas québequences e canadenses.
 url: /cultura/atletas-quebequences.html
-image: images/atletas-quebequences.png
+image: /images/atletas-quebequences.png
 
 ---
 Hoje eu decidi escrever um pouco sobre esporte e esportistas locais.

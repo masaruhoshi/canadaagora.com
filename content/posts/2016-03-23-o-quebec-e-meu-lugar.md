@@ -10,7 +10,7 @@ categories:
 date: 2016-03-23T07:58:00+00:00
 summary: Você acredita que o Québec é o seu lugar? Talvez esse post possa fazer você repensar e até mesmo ter que refletir sobre alguns (pré)conceitos
 url: /cultura/o-quebec-e-meu-lugar.html
-image: images/quebec-e-meu-lugar.png
+image: /images/quebec-e-meu-lugar.png
 syn_post_guid:
   - http://purehotdog.com/?p=933
 syn_source_site_id:

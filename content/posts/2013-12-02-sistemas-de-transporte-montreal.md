@@ -8,7 +8,7 @@ categories:
 date: 2013-12-02T05:29:01+00:00
 summary: Montréal, a segunda maior cidade do Canadá. Cortada por centenas de quilômetros de rodovidas, 28 pontes e túneis, mais de 70 km de linhas de metrôs, 350km de ciclovias e 250 mil vôos anualmente, o sistema de transporte da cidade é amplo e cheio de opções que vão desde o aluguel de bicicletas, passando por ônibus, trens, metrôs e carros. Mas será que isso tudo é suficiente?
 url: /cultura/sistemas-de-transporte-montreal.html
-image: images/programa-2.10-post.png
+image: /images/programa-2.10-post.png
 podcast: podeixar
 
 ---

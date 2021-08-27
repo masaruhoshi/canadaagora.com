@@ -8,7 +8,7 @@ categories:
 date: 2018-05-14T12:18:52+00:00
 summary: As dificuldades de adaptação dos filhos. Ensinar as disciplinas em português ou no idioma local? Existe apoio nas escolas para os filhos dos expatriados? E quando as próprias crianças perdem o interesse de falar português?
 url: /educacao/educando-em-outro-idioma.html
-image: images/podeixar193-educando-em-outro-idioma.jpg
+image: /images/podeixar193-educando-em-outro-idioma.jpg
 podcast: podeixar
 
 ---

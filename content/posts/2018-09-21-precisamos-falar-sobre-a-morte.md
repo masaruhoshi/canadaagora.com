@@ -8,7 +8,7 @@ categories:
 date: 2018-09-21T14:17:39+00:00
 summary: Quando mudamos para o exterior a busca por uma vida melhor é o objetivo de muita gente. Mas infelizmente, precisamos falar sobre a morte também.
 url: /cotidiano/precisamos-falar-sobre-a-morte.html
-image: images/precisamos-falar-sobre-a-morte.jpg
+image: /images/precisamos-falar-sobre-a-morte.jpg
 essb_pc_twitter:
   - 1
 essb_c_twitter:

@@ -7,7 +7,7 @@ categories:
 - cotidiano
 date: 2012-10-15T01:50:11+00:00
 url: /cotidiano/materia-especial-falando-do-frances.html
-image: images/falando-mal-do-frances.png
+image: /images/falando-mal-do-frances.png
 
 podcast: podeixar
 

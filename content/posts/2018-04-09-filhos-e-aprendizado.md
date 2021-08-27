@@ -8,7 +8,7 @@ categories:
 date: 2018-04-09T11:27:47+00:00
 summary: A experiência de criar os filhos no Canadá, as diferenças no sistemas de ensino, deveres de casa, sites de apoio e as disciplinas. Como incentivar os filhos a estudar? É preciso fazer aulas de reforço? E a participação dos pais na educação é realmente importante ou é exagero?
 url: /educacao/filhos-e-aprendizado.html
-image: images/podeixar188-filhos-e-aprendizado-a-importancia-e-o-incentivo.jpg
+image: /images/podeixar188-filhos-e-aprendizado-a-importancia-e-o-incentivo.jpg
 wps_subtitle:
   - A importância de incentivar
 podcast: podeixar

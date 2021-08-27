@@ -8,7 +8,7 @@ categories:
 date: 2017-09-16T22:55:25+00:00
 summary: Uma comparação das empresas e das pessoas mais ricas do Canadá e do Brasil. Onde se concentra a economia e riqueza desses países.
 url: /economia/economia-e-riqueza-no-canada.html
-image: images/economia-e-riqueza-no-canada.jpg
+image: /images/economia-e-riqueza-no-canada.jpg
 wps_subtitle:
   - Quais as maiores empresas e as pessoas mais ricas do Canadá
 

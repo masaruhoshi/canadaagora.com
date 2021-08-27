@@ -8,7 +8,7 @@ categories:
 date: 2019-09-29T23:00:45+00:00
 summary: Em mais um programa sobre as cidades do Canadá, falamos sobre o mercado de trabalho, estudo, saúde e diversão na ensolarada Saskatoon.
 url: /turismo/cidades-do-canada-saskatoon.html
-image: images/podeixar250-cidades-do-canada-saskatoon.jpg
+image: /images/podeixar250-cidades-do-canada-saskatoon.jpg
 wps_subtitle:
   - Apaixone-se pela ensolarada Saskatoon
 podcast: podeixar

@@ -8,7 +8,7 @@ categories:
 - clima
 date: 2012-11-12T02:04:30+00:00
 url: /clima/acabou-a-brincadeira-ta-frio.html
-image: images/2012/11/thumbs-up-low-res.jpg
+image: /images/2012/11/thumbs-up-low-res.jpg
 
 
 podcast: podeixar

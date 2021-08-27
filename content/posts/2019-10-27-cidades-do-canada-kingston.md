@@ -8,7 +8,7 @@ categories:
 date: 2019-10-27T23:00:13+00:00
 summary: Chegou a hora de explorar Kingston, a primeira capital do Canadá e aprender sobre trabalho, educação, qualidade de vida e seu papel na história no país.
 url: /turismo/cidades-do-canada-kingston.html
-image: images/podeixar254-cidades-do-canada-kingston-1.jpg
+image: /images/podeixar254-cidades-do-canada-kingston-1.jpg
 podcast: podeixar
 
 ---

@@ -9,7 +9,7 @@ categories:
 date: 2018-04-02T10:00:54+00:00
 summary: 'Cultura, integração e conflitos de gerações, e como tudo isso tem lugar em uma sociedade como o Canadá que prega a igualdade de gênero e o multiculturalismo. Um papo cheio de paralelos e experiências pessoais que fecha a participação do PoDeixar no #OPodcastÉDelas de 2018. '
 url: /cultura/igualdade-de-genero-e-o-multiculturalismo.html
-image: images/podeixar187-igualdade-de-generos-e-multiculturalismo.jpg
+image: /images/podeixar187-igualdade-de-generos-e-multiculturalismo.jpg
 podcast: podeixar
 
 ---

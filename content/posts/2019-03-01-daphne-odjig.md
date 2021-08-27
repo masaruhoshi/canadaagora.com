@@ -8,7 +8,7 @@ categories:
 date: 2019-03-01T14:00:00+00:00
 summary: Conheça a história, as influências e as contribuições à arte canadense da célebre artista das Primeiras Nações, Daphne Odjig.
 url: /cultura/daphne-odjig.html
-image: images/daphne-odjig.jpg
+image: /images/daphne-odjig.jpg
 
 ---
 A célebre artista das Primeiras Nações, Daphne Odjig, conhecida como a avó da arte indígena canadense, nasceu em 1919 na Reserva Wikwemikong, na Ilha Manitoulin. Sua herança era composta de Odawa, Potawatomi e raízes inglesas, que foram reveladas a Daphne Odjig quando criança em esboços de excursões com seu avô de esculturas, Jonas. Ele ensinou-lhe as lendas de seus ancestrais e o uso do desenho curvilíneo pelo qual ela se tornou reverenciada.

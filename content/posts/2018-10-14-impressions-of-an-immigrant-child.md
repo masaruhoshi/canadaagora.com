@@ -8,7 +8,7 @@ categories:
 date: 2018-10-14T05:51:20+00:00
 summary: 'Yumi, 12 years old: I moved with my parents from Brazil to Canada when I was 9. I will share with you my impressions about being an immigrant child.'
 url: /imigracao/impressions-of-an-immigrant-child.html
-image: images/My-impressions-to-CANADA-coloured.jpg
+image: /images/My-impressions-to-CANADA-coloured.jpg
 wps_subtitle:
   - 'Ou: Minhas impressões sobre minha mudança para o Canadá'
 mashsb_pinterest_description:

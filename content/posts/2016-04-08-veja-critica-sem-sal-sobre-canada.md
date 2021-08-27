@@ -8,7 +8,7 @@ categories:
 date: 2016-04-08T14:48:02+00:00
 summary: Revista VEJA denigre o primeiro ministro do Canadá chamando-o de deslumbrado e terrorista e critica o país como sendo chato e desequilibrado.
 url: /politica/veja-critica-sem-sal-sobre-canada.html
-image: images/revista-veja-canada-sem-sal.png
+image: /images/revista-veja-canada-sem-sal.png
 
 ---
 Uma vez meu amigo e jornalista Rogério Tanganelli me disse que qualquer um pode ser jornalista desde que se atenha a buscar a verdade, trazendo fatos e argumentos que se contraponham em direção de uma discussão construtiva. Assim com o Rogério, eu tenho muitos amigos que são jornalistas e apesar de ser engenheiro de software, eu sempre fui apaixonado de maneira platônica por essa profissão. É simplesmente deprimente ver exatamente o contrário sendo exercido por alguém com tantos anos de jornalismo, tal qual como aconteceu na <a href="http://veja.abril.com.br/blog/mundialista/justin-trudeau-e-bonitinho-mas-altamente-ordinario/" target="_blank">matéria publicada</a> pela jornalista e ex-diretora chefe da revista VEJA, Vilma Gryzinski à respeito do primeiro ministro do Canadá, Justin Trudeau.

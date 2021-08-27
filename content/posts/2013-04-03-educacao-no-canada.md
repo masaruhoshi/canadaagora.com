@@ -7,7 +7,7 @@ categories:
 - educacao
 date: 2013-04-04T03:57:18+00:00
 url: /educacao/educacao-no-canada.html
-image: images/2013/04/china-migrant-schools.jpg
+image: /images/2013/04/china-migrant-schools.jpg
 podcast: podeixar
 
 ---

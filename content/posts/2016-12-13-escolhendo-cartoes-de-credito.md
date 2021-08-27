@@ -8,7 +8,7 @@ categories:
 date: 2016-12-13T12:00:35+00:00
 summary: Escolher um cartão de crédito não pode ser uma tarefa trivial e deixada ao acaso. Descubra como escolher um cartão adequado para as suas necessidades.
 url: /economia/escolhendo-cartoes-de-credito.html
-image: images/escolhendo-cartoes-de-credito.png
+image: /images/escolhendo-cartoes-de-credito.png
 
 ---
 ## Escolhendo entre cartões de crédito

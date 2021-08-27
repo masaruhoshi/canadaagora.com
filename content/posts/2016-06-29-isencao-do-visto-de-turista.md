@@ -9,7 +9,7 @@ categories:
 date: 2016-06-29T14:00:00+00:00
 summary: Sabe aquele purê temperadinho que faltava pro seu dogão? Então ele chama AVE para brasileiros e significa finalmente a isenção de visto de turista. Se liga!
 url: /politica/isencao-do-visto-de-turista.html
-image: images/canada-visto-turismo-para-brasileiros-eta.png
+image: /images/canada-visto-turismo-para-brasileiros-eta.png
 syn_post_guid:
   - http://purehotdog.com/?p=1619
 syn_source_site_id:

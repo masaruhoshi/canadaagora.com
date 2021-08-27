@@ -9,7 +9,7 @@ categories:
 date: 2015-04-09T15:52:53+00:00
 summary: 'Temperaturas abaixo de zero: o medo #1 de grande parte dos que imigram. Mas será ele tão ruim assim?'
 url: /clima/frio-no-canada.html
-image: images/ML000008_Frio-no-Canada_CAPA.png
+image: /images/ML000008_Frio-no-Canada_CAPA.png
 format: video
 
 ---

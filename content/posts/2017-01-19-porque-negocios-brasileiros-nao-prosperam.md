@@ -8,7 +8,7 @@ categories:
 date: 2017-01-19T11:30:48+00:00
 summary: Qual a principal razão de empreendimentos e negócios brasileiros sofrerem tanto para se firmar e se desenvolverem principalmente no exterior
 url: /economia/porque-negocios-brasileiros-nao-prosperam.html
-image: images/porque-negocios-brasileiros-nao-prosperam.png
+image: /images/porque-negocios-brasileiros-nao-prosperam.png
 
 ---
 # Porque negócios brasileiros não prosperam

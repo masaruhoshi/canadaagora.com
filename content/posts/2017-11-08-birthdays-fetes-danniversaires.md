@@ -8,7 +8,7 @@ categories:
 date: 2017-11-08T11:30:51+00:00
 summary: "On parle d'un sujet très commun à tout le monde and how it's so different: Birthdays / Fêtes d'anniversaire. Welcome and bienvenue ao Franglish MainteNow!"
 url: /cultura/birthdays-fetes-danniversaires.html
-image: images/franglish005-birthdays-fete-danniversaire.jpg
+image: /images/franglish005-birthdays-fete-danniversaire.jpg
 podcast: podeixar
 
 ---

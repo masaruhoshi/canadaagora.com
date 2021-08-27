@@ -8,7 +8,7 @@ categories:
 date: 2018-01-17T08:30:44+00:00
 summary: Dans cette émission de Franglish MainteNow Masaru et Berg discutent de leur perceptions. Their experience with the cold and their remarks about the Canadian winter and also compare with what they lived in Brazil.
 url: /cotidiano/the-cold-le-froid.html
-image: images/franglish-11-cold-froid.jpg
+image: /images/franglish-11-cold-froid.jpg
 podcast: podeixar
 
 ---

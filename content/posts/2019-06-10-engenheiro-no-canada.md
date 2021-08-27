@@ -8,7 +8,7 @@ categories:
 date: 2019-06-10T12:00:20+00:00
 summary: O processo de Professional Engineer, as possibilidades de trabalho sem o registro na Associações Profissionais das províncias e muito mais.
 url: /trabalho/engenheiro-no-canada.html
-image: images/podeixar242-engenharia-no-canada.jpg
+image: /images/podeixar242-engenharia-no-canada.jpg
 podcast: podeixar
 
 ---

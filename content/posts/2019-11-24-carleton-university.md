@@ -8,7 +8,7 @@ categories:
 date: 2019-11-25T01:00:00+00:00
 summary: A infraestrutura, os cursos, os professores, a convivência com os alunos canadenses e internacionais em mais um episódio sobre colleges e universidades do Canadá.
 url: /educacao/carleton-university.html
-image: images/podeixar258-estudar-no-canada-carleton-university.jpg
+image: /images/podeixar258-estudar-no-canada-carleton-university.jpg
 podcast: podeixar
 
 ---

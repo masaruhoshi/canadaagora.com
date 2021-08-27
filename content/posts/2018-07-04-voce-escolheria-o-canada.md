@@ -8,7 +8,7 @@ categories:
 date: 2018-07-04T07:00:52+00:00
 summary: 'Se você pudesse escolher qualquer lugar no mundo para morar, você escolheria o Canadá? Uma análise de problemas do país e exemplos de como poderia melhorar. '
 url: /imigracao/voce-escolheria-o-canada.html
-image: images/di45GMK5T.jpg
+image: /images/di45GMK5T.jpg
 mashsb_pinterest_description:
   - Se pudesse escolher qualquer lugar no mundo, você escolheria o Canadá?
 mashsb_custom_tweet:

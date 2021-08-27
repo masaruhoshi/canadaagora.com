@@ -8,7 +8,7 @@ categories:
 date: 2015-02-19T10:39:40+00:00
 summary: É possível ter medo de imigrar? O que temos a aprender com isso? Com o quê devemos nos preocupar?
 url: /imigracao/medos-da-imigracao.html
-image: images/ML000002_Medos_CAPA.png
+image: /images/ML000002_Medos_CAPA.png
 format: video
 
 ---

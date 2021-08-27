@@ -9,7 +9,7 @@ categories:
 date: 2018-02-14T19:30:46+00:00
 summary: A revista Forbes publicou a lista das 300 melhores empresas do Canadá. Foram mais de 8.000 pessoas consultadas, que trabalham em empresas com 500 ou mais funcionários, em 25 setores diferentes.
 url: /noticias/as-melhores-empresas-do-canada-2018.html
-image: images/forbes-best-employers.jpg
+image: /images/forbes-best-employers.jpg
 
 ---
 A revista Forbes publicou <a href="https://www.forbes.com/sites/karstenstrauss/2018/02/06/canadas-best-employers-2018/" target="_blank" rel="noopener">a lista das 300 melhores empresas</a> do Canadá.

@@ -8,7 +8,7 @@ categories:
 date: 2017-07-07T20:15:00+00:00
 summary: A gente tem o costume de deixar tudo pra última hora. Que tal aproveitar e colocar a casa em ordem? Confira 5 dicas para organizar suas finanças neste verão
 url: /economia/5-dicas-para-organizar-suas-financas-neste-verao.html
-image: images/5-dicas-para-organizar-suas-financas-neste-verao.jpg
+image: /images/5-dicas-para-organizar-suas-financas-neste-verao.jpg
 
 ---
 No verão, poucas pessoas querem falar sobre dinheiro. No entanto, é talvez a época do ano

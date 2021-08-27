@@ -8,7 +8,7 @@ categories:
 date: 2018-06-11T11:22:52+00:00
 summary: Por que temos dificuldade de lembrar das coisas? Dispositivos eletrônicos nos tornam mais preguiçosos? Afinal, o que você precisa guardar na cabeça?
 url: /cultura/o-que-voce-precisa-guardar-na-cabeca.html
-image: images/podeixar197-usando-a-memoria.jpg
+image: /images/podeixar197-usando-a-memoria.jpg
 podcast: podeixar
 
 ---

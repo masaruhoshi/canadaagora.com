@@ -8,7 +8,7 @@ categories:
 date: 2016-08-08T19:12:07+00:00
 summary: Berg descreve sua primeira experiência em um terreno de camping. Como é acampar, quais os pontos positivos e negativos de um acampamento ?
 url: /turismo/7-dicas-sobre-camping-em-quebec.html
-image: images/Momento-Lindo-Camping-2.jpg
+image: /images/Momento-Lindo-Camping-2.jpg
 
 ---
 <h2 style="text-align: justify;">

@@ -10,7 +10,7 @@ categories:
 date: 2016-09-04T13:53:49+00:00
 summary: Governo canadense impõe novas regras para todos os canadenses que possuem dupla nacionalidade a partir de Setembro de 2016
 url: /politica/novas-regras-para-quem-tem-dupla-nacionalidade.html
-image: images/canadian-passport-novas-regras-canadenses-com-dupla-nacionalidade.png
+image: /images/canadian-passport-novas-regras-canadenses-com-dupla-nacionalidade.png
 syn_post_guid:
   - http://mjconsultoria.com.br/?p=3088
 syn_source_site_id:

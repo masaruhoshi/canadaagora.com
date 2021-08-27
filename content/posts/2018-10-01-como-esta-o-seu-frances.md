@@ -8,7 +8,7 @@ categories:
 date: 2018-10-01T15:00:23+00:00
 summary: Quando você chama um garçon? O que você faz com dois chiffres? Aprenda, divirta-se e descubra como está o seu francês neste programa hilário.
 url: /idiomas/como-esta-o-seu-frances.html
-image: images/podeixar212-como-esta-seu-frances.jpg
+image: /images/podeixar212-como-esta-seu-frances.jpg
 podcast: podeixar
 
 ---

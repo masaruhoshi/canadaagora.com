@@ -9,7 +9,7 @@ categories:
 date: 2016-07-09T00:10:00+00:00
 summary: Conheça algumas dicas muito interessantes de como viver praticando o francês québecois no seu dia-a-dia
 url: /cultura/praticando-o-frances-no-dia-a-dia.html
-image: images/praticandos-o-frances-quebecois-no-dia-a-dia.png
+image: /images/praticandos-o-frances-quebecois-no-dia-a-dia.png
 syn_post_guid:
   - http://purehotdog.com/?p=1731
 syn_source_site_id:

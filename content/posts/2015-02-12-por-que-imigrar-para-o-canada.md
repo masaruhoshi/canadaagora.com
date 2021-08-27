@@ -8,7 +8,7 @@ categories:
 date: 2015-02-12T20:22:31+00:00
 summary: 'Série nova! O quê está em jogo quando o assunto é imigração para o Canadá? '
 url: /imigracao/por-que-imigrar-para-o-canada.html
-image: images/ML000001_Porque-morar-no-canada_CAPA.png
+image: /images/ML000001_Porque-morar-no-canada_CAPA.png
 format: video
 
 ---

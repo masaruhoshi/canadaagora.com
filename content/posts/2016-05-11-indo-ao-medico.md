@@ -6,7 +6,7 @@ type: post
 date: 2016-05-11T20:02:34+00:00
 summary: Neste fundo verde Berg aproveita de uma história de visita a um hospital de Quebec para falar um pouco mais sobre o sistema de saúde e de como funciona a questão da triagem, segundo o sistema canadense de atendimento de urgência.
 url: /artigos/indo-ao-medico.html
-image: images/FV-4-Indo-ao-médico.jpeg
+image: /images/FV-4-Indo-ao-médico.jpeg
 format: video
 
 ---

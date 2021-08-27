@@ -8,7 +8,7 @@ categories:
 date: 2017-04-24T22:52:25+00:00
 summary: Em uma decisão inédita do Supremo Tribunal de Justiça, uma mulher perdeu o direito à sua nacionalidade brasileira. Qual o impacto dessa decisão para você?
 url: /politica/perder-nacionalidade-brasileira.html
-image: images/perder-nacionalidade-brasileira.png
+image: /images/perder-nacionalidade-brasileira.png
 
 ---
 # Mulher perde sua nacionalidade brasileira

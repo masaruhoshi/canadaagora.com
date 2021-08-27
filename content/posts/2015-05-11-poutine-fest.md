@@ -8,7 +8,7 @@ categories:
 date: 2015-05-11T15:00:00+00:00
 summary: Conheça o Festival da Poutine de Ottawa e os diferentes tipos de sabores de prato do Canadá
 url: /turismo/poutine-fest.html
-image: images/programa00013.png
+image: /images/programa00013.png
 format: video
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2019-09-09T12:00:14+00:00
 summary: O que faz as grandes cidades canadense não serem ideais para os recém-chegados? Por quê as pessoas acabam se mudando de lá? E quais seriam as alternativas?
 url: /imigracao/cidades-grandes.html
-image: images/podeixar247-fique-longe-das-cidades-grandes.jpg
+image: /images/podeixar247-fique-longe-das-cidades-grandes.jpg
 wps_subtitle:
   - Armadilhas para cidades grandes
 podcast: podeixar

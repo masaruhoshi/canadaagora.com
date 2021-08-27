@@ -9,7 +9,7 @@ categories:
 date: 2017-07-19T13:32:48+00:00
 summary: Depois de 10 anos, Governo anuncia novo Food Guide. Conheça 8 motivos para comemorar o novo Guia de Alimentação e porque você deveria ser importar.
 url: /noticias/8-motivos-para-comemorar-o-novo-guia-de-alimentacao.html
-image: images/8-motivos-para-comemorar-o-novo-guia-de-alimentacao-4.jpg
+image: /images/8-motivos-para-comemorar-o-novo-guia-de-alimentacao-4.jpg
 wps_subtitle:
   - Nova versão traz mudanças importantes que favorecem a alimentação saudável
 

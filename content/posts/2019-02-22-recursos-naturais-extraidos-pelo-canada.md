@@ -8,7 +8,7 @@ categories:
 - politica
 date: 2019-02-22T14:00:56+00:00
 url: /politica/recursos-naturais-extraidos-pelo-canada.html
-image: images/recursos-naturais-extraidos-pelo-canada.jpg
+image: /images/recursos-naturais-extraidos-pelo-canada.jpg
 wps_subtitle:
   - E pelo mundo afora
 

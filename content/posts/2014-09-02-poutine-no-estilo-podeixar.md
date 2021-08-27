@@ -8,7 +8,7 @@ categories:
 date: 2014-09-02T15:45:12+00:00
 summary: Você já nos ouviu falando sobre comidas várias e várias vezes. Agora chegou a vez de aprender como fazer uma poutine!
 url: /cotidiano/poutine-no-estilo-podeixar.html
-image: images/dia.de_.poutine.png
+image: /images/dia.de_.poutine.png
 format: video
 
 ---

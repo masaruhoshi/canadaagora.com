@@ -8,7 +8,7 @@ categories:
 date: 2017-01-15T16:45:54+00:00
 summary: 'REER / RRSP: você já ouviu falar, até pode ser que já tenha, mas ainda tem dúvidas. Afinal de contas: o que é e por que você deveria se preocupar com isso?'
 url: /economia/7-perguntas-reer-rrsp.html
-image: images/7-perguntas-reer-rrsp.png
+image: /images/7-perguntas-reer-rrsp.png
 
 ---
 ## As 7 perguntas fundamentais sobre o REER / RRSP {.font_5}

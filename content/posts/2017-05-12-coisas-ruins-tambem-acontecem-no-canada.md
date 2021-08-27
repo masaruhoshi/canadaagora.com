@@ -9,7 +9,7 @@ categories:
 date: 2017-05-12T15:43:50+00:00
 summary: 'A busca pela qualidade de vida esconde a realidade que muita gente ignora: coisas ruins também acontecem no Canadá e a violência é sim, uma delas.'
 url: /cultura/coisas-ruins-tambem-acontecem-no-canada.html
-image: images/podeixar145.png
+image: /images/podeixar145.png
 podcast: podeixar
 
 ---

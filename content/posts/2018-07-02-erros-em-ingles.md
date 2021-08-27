@@ -8,7 +8,7 @@ categories:
 date: 2018-07-02T15:00:29+00:00
 summary: Quais os erros em inglês que todo mundo comete quando está aprendendo? A Conjugação dos verbos, as perguntas, pronúncias e muito mais.
 url: /idiomas/erros-em-ingles.html
-image: images/ohmyenglish2-erros-comuns-em-ingles.jpg
+image: /images/ohmyenglish2-erros-comuns-em-ingles.jpg
 wps_subtitle:
   - que todo mundo comete
 podcast: podeixar

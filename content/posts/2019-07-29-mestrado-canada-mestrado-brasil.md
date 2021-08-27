@@ -8,7 +8,7 @@ categories:
 date: 2019-07-29T04:15:59+00:00
 summary: Posso fazer mestrado no Canadá se já fiz mestrado no Brasil? Essa foi a dúvida de um seguidor do PoDeixar. Confira a resposta aqui.
 url: /imigracao/mestrado-canada-mestrado-brasil.html
-image: images/questioning1.jpg
+image: /images/questioning1.jpg
 wps_subtitle:
   - 'Respondendo a pergunta dos seguidores #1'
 

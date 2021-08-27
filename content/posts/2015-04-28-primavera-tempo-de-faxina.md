@@ -8,7 +8,7 @@ categories:
 date: 2015-04-28T11:00:12+00:00
 summary: 'Depois de meses debaixo de metros e mais metros dessa coisa branca que ocupa todos os cantos da cidade, finalmente chegou a  primavera! '
 url: /cotidiano/primavera-tempo-de-faxina.html
-image: images/programa-4.02.png
+image: /images/programa-4.02.png
 podcast: podeixar
 
 ---

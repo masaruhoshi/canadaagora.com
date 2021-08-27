@@ -7,7 +7,7 @@ categories:
 - clima
 date: 2012-12-13T04:04:56+00:00
 url: /clima/sobrevivendo-ao-inverno.html
-image: images/2012/12/SnowCar.jpg
+image: /images/2012/12/SnowCar.jpg
 podcast: podeixar
 
 ---

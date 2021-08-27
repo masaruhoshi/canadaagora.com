@@ -9,7 +9,7 @@ categories:
 date: 2016-09-22T12:25:32+00:00
 summary: Neste artigo abordamos 5 considerações importantes sobre sua estratégia para conseguir se colocar no mercado. Sem pressa, bem pensado, planejado. Algumas profissões são mais difíceis. O que você pode fazer a respeito ? Sobre qual ângulo você deve abordar esta questão. Esteja preparado !
 url: /trabalho/profissao-ou-dinheiro.html
-image: images/Profissao-ou-Dinheiro-Momento-Lindo.png
+image: /images/Profissao-ou-Dinheiro-Momento-Lindo.png
 
 ---
 <h2 style="text-align: justify;">

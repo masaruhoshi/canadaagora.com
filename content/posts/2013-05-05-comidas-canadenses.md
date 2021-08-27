@@ -8,7 +8,7 @@ categories:
 date: 2013-05-05T21:56:38+00:00
 summary: Obviamente que a distância que separa o extremo norte do extremo sul das Américas, as coisas são bem diferentes do que estamos acosumtados a ver no Brasil, mas nem por isso menos deliciosas.
 url: /cultura/comidas-canadenses.html
-image: images/canada-food.jpg
+image: /images/canada-food.jpg
 
 ---
 Como todo povo neste mundão aí fora, o canadense também desenvolveu sua culinária com base no que mais havia disponível na terra. Obviamente que com a distância que separa o extremo norte do extremo sul das Américas, as coisas são bem diferentes do que estamos acosumtados a ver no Brasil. Nem por isso menos deliciosas.

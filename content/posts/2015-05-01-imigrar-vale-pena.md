@@ -9,7 +9,7 @@ categories:
 date: 2015-05-01T05:03:37+00:00
 summary: Será que abandonar sua vida, seus amigos, sua carreira e seu país realmente valem a pena?
 url: /cultura/imigrar-vale-pena.html
-image: images/ML000011_Imigrar-vale-a-pena_CAPA.png
+image: /images/ML000011_Imigrar-vale-a-pena_CAPA.png
 format: video
 
 ---

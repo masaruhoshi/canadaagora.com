@@ -8,7 +8,7 @@ categories:
 date: 2017-01-23T14:00:00+00:00
 summary: Você sempre ouve falar que o inverno e a neve são a coisa mais linda? E diz que quer morar no Québec porque ama o inverno? Conheça o lado negro do frio!
 url: /clima/a-parte-noir-do-inverno.html
-image: images/o-lado-negro-do-inverno.jpg
+image: /images/o-lado-negro-do-inverno.jpg
 syn_post_guid:
   - http://purehotdog.com/?p=2182
 syn_source_site_id:

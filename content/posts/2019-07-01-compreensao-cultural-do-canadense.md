@@ -8,7 +8,7 @@ categories:
 date: 2019-07-01T13:49:44+00:00
 summary: Embarque nesta jornada de compreensão cultural do canadense. Cultivando amizades, entrevistas de emprego, o ambiente corporativo, networking e muito mais.
 url: /cultura/compreensao-cultural-do-canadense.html
-image: images/podeixar245-compreensao-cultural-dos-canadenses.jpg
+image: /images/podeixar245-compreensao-cultural-dos-canadenses.jpg
 podcast: podeixar
 
 ---

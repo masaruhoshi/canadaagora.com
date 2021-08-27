@@ -8,7 +8,7 @@ categories:
 date: 2019-10-21T18:30:05+00:00
 summary: Os partidos que tem chances de eleger um candidato, as propostas, as orientações políticas e os possíveis cenários das eleições no Canadá 2019.
 url: /politica/eleicoes-no-canada-2019.html
-image: images/podeixar-especial-sistema-eleicoes-2019.jpg
+image: /images/podeixar-especial-sistema-eleicoes-2019.jpg
 podcast: podeixar
 
 ---

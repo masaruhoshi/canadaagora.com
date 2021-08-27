@@ -9,7 +9,7 @@ categories:
 date: 2017-05-29T00:22:22+00:00
 summary: Conheça a realidade da pobreza no Canadá, porquê quase 8% da população é de baixa renda e o que o Governo tem feito para mudar essa realidade.
 url: /cultura/pobreza-no-canada.html
-image: images/pobreza-no-canada.png
+image: /images/pobreza-no-canada.png
 
 ---
 ## Dados sobre a pobreza no Canadá e comparação com o Brasil

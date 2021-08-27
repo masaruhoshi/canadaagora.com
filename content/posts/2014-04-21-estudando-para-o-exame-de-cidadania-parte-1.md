@@ -8,7 +8,7 @@ categories:
 date: 2014-04-22T02:43:25+00:00
 summary: Programa em 3 partes sobre todo o conteúdo do Guia da Cidadania do Canadá, interpretado e discutido em português. Ideal para quem está estudando para o exame de cidadania do Canadá.
 url: /cultura/estudando-para-o-exame-de-cidadania-parte-1.html
-image: images/programa-2.23-post.png
+image: /images/programa-2.23-post.png
 podcast: podeixar
 
 ---

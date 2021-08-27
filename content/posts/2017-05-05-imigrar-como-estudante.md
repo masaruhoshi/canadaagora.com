@@ -10,7 +10,7 @@ categories:
 date: 2017-05-05T14:33:22+00:00
 summary: Desencorajado pelo Express Entry e com pressa, várias pessoas tem optado por imigrar como estudante para o Canadá. Mas isso pode acabar saindo alto demais.
 url: /trabalho/imigrar-como-estudante.html
-image: images/podeixar144-imigrar-como-estudante.png
+image: /images/podeixar144-imigrar-como-estudante.png
 podcast: podeixar
 
 ---

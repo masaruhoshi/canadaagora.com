@@ -9,7 +9,7 @@ categories:
 date: 2017-03-31T05:59:47+00:00
 summary: Divergências políticas e insatisfação acontecem em todo o mundo. Confira esta série de vídeos sob manifestações no Canadá sob os mais diferentes assuntos.
 url: /politica/politica-e-manifestacoes-no-canada.html
-image: images/canada-montreal-relatorio-da-manifestacao-antifa-1.jpg
+image: /images/canada-montreal-relatorio-da-manifestacao-antifa-1.jpg
 
 ---
 # Política e manifestações no Canadá

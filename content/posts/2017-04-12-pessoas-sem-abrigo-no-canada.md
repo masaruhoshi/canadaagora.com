@@ -8,7 +8,7 @@ categories:
 date: 2017-04-12T07:24:23+00:00
 summary: A realidade das pessoas sem teto poderia ser resolvida com pequenas ações de solidariedade. Entenda a realidade das pessoas sem abrigo no Canadá
 url: /cotidiano/pessoas-sem-abrigo-no-canada.html
-image: images/pessoas-sem-abrigo-no-canada.png
+image: /images/pessoas-sem-abrigo-no-canada.png
 podcast: podeixar
 
 ---

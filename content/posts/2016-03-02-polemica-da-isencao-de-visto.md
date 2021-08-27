@@ -8,7 +8,7 @@ categories:
 date: 2016-03-03T01:05:00+00:00
 summary: A grande polêmica da isenção do visto canadense para brasileiros explicado de forma simples.
 url: /imigracao/polemica-da-isencao-de-visto.html
-image: images/polemica-isencao-de-visto.png
+image: /images/polemica-isencao-de-visto.png
 syn_post_guid:
   - http://purehotdog.com/?p=415
 syn_source_site_id:

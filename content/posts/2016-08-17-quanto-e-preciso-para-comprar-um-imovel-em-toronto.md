@@ -8,7 +8,7 @@ categories:
 date: 2016-08-17T16:23:13+00:00
 summary: Muito se fala da bolha imobiliária que existe principalmente em Vancouver e Toronto. Mas de fato quanto é preciso para comprar um imóvel em Toronto?
 url: /economia/quanto-e-preciso-para-comprar-um-imovel-em-toronto.html
-image: images/toronto-quanto-voce-precisa-ganhar-para-comprar-um-imovel-em-toronto.png
+image: /images/toronto-quanto-voce-precisa-ganhar-para-comprar-um-imovel-em-toronto.png
 essb_pc_pinterest:
   - 1
 

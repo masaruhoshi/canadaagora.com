@@ -8,7 +8,7 @@ categories:
 date: 2017-10-11T11:27:23+00:00
 summary: Le premier bilingual podcast, au même temps in English et en Français, fait pour two Brazilian guys. Come and profitez-en MainteNOW!
 url: /cotidiano/welcome-and-bienvenue.html
-image: images/welcome-bienvenue-franglish-maintenow.jpg
+image: /images/welcome-bienvenue-franglish-maintenow.jpg
 podcast: podeixar
 
 ---

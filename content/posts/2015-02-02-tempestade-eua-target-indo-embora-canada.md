@@ -9,7 +9,7 @@ categories:
 date: 2015-02-02T18:56:08+00:00
 summary: Onda de frio e tempestades nos Estados Unidos fecham aeroportos, ruas e estradas de trem. No Canadá, redes de lojas abrem, fecham e ninguém entende o que aconteceu. E em Mississauga, mais respeito aos animais.
 url: /clima/tempestade-eua-target-indo-embora-canada.html
-image: images/programa00002.png
+image: /images/programa00002.png
 format: video
 
 ---

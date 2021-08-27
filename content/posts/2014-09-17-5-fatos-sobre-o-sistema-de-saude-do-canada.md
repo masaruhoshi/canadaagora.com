@@ -6,7 +6,7 @@ type: post
 date: 2014-09-17T04:34:18+00:00
 summary: O sistema de saúde do Canadá é um dos melhores do mundo e como vários países tentam copiá-lo. Mas será que tudo é de graça como você pensa?
 url: /artigos/5-fatos-sobre-o-sistema-de-saude-do-canada.html
-image: images/6793819699_3f83264775_o.jpg
+image: /images/6793819699_3f83264775_o.jpg
 
 ---
 ## 1. Médicos e enfermeiras são autônomos, não são funcionários do governo

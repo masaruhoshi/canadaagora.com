@@ -9,7 +9,7 @@ categories:
 date: 2016-05-23T11:15:10+00:00
 summary: Os desafios, as dificuldades, os benefícios e as grandes vantagens de se viver a terceira idade para quem mora no Canadá
 url: /trabalho/terceira-idade-fora-do-brasil.html
-image: images/podeixar-130-terceira-idade-fora-do-brasil.jpg
+image: /images/podeixar-130-terceira-idade-fora-do-brasil.jpg
 podcast: podeixar
 
 ---

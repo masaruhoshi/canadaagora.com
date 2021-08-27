@@ -8,7 +8,7 @@ categories:
 date: 2019-07-08T12:00:57+00:00
 summary: Conheça Windsor, a capital automotiva do Canadá. Aprenda sobre o mercado de trabalho, as oportunidade de educação, saúde, entretenimento e muito mais.
 url: /turismo/cidades-do-canada-windsor.html
-image: images/podeixar246-cidades-do-canada-windsor.jpg
+image: /images/podeixar246-cidades-do-canada-windsor.jpg
 podcast: podeixar
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2017-02-14T13:41:03+00:00
 summary: Com medo das novas políticas de imigração do governo Trump, pessoas decidam se tornam imigrantes ilegais no Canadá. Conheça as repercussões disso.
 url: /imigracao/imigrantes-ilegais-no-canada.html
-image: images/imigrantes-ilegais-no-canada.png
+image: /images/imigrantes-ilegais-no-canada.png
 
 ---
 # Um pouco sobre imigrantes ilegais no Canadá

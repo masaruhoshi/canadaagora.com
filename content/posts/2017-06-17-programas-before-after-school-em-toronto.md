@@ -8,7 +8,7 @@ categories:
 date: 2017-06-17T18:34:40+00:00
 summary: 'Quando mudamos com filhos para o Canadá, temos muitas preocupações sobre como será a adaptação das crianças e também, como faremos pra compatibilizar a rotina de todos. Neste post, falo um pouco disso e compartilho com vocês uma ferramenta que achei muito útil, não apenas para aqueles que estão se mudando para cá, mas para todos aqueles que vão buscar nova residência na cidade. '
 url: /educacao/programas-before-after-school-em-toronto.html
-image: images/before-after-school1.jpg
+image: /images/before-after-school1.jpg
 podcast: podeixar
 
 ---

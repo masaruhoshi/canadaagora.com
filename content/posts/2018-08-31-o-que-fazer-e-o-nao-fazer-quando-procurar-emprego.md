@@ -8,7 +8,7 @@ categories:
 date: 2018-08-31T17:04:32+00:00
 summary: Procurar emprego é uma tarefa que pra muita gente é extremamente ingrata. Conheça então 5 dicas sobre o que fazer e o não fazer quando procurar emprego.
 url: /trabalho/o-que-fazer-e-o-nao-fazer-quando-procurar-emprego.html
-image: images/o-que-fazer-e-o-nao-fazer-quando-procurar-emprego.jpg
+image: /images/o-que-fazer-e-o-nao-fazer-quando-procurar-emprego.jpg
 
 ---
 Procurar emprego é uma tarefa que pra muita gente é extremamente ingrata. Quantos não são os relatos de quem já mandou 20, 30, 50, até mesmo 100 currículos sem conseguir uma oferta. A pergunta que todo mundo se faz é: &#8220;o que eu estou fazendo de errado&#8221;. Se esse é o seu caso, então talvez este artigo seja para você. Conheça 5 dicas sobre o que fazer e o não fazer quando procurar emprego.

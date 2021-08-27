@@ -8,7 +8,7 @@ categories:
 date: 2013-12-31T01:00:31+00:00
 summary: No último programa de 2013, o Japa relembra onde morou, seus amigos, sua família e abre seu coração compartilhando um pouco das decisões que o fizeram decidir se mudar do Brasil e morar no extremo norte das Américas.
 url: /imigracao/lembrancas-e-licoes.html
-image: images/programa-2.14-post.png
+image: /images/programa-2.14-post.png
 podcast: podeixar
 
 ---

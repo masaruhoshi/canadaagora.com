@@ -8,7 +8,7 @@ categories:
 date: 2017-03-20T09:00:00+00:00
 summary: Depois das mudanças do MIDI você deixou de ser elegível e perdeu as esperanças? Então leia este post pra ontem e conheça o programa de experiência québécoise!
 url: /imigracao/programa-de-experiencia-quebecoise-peq.html
-image: images/programa-de-experiencia-quebecoise-peq.png
+image: /images/programa-de-experiencia-quebecoise-peq.png
 syn_post_guid:
   - http://purehotdog.com/?p=2509
 syn_source_site_id:

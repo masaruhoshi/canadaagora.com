@@ -8,7 +8,7 @@ categories:
 date: 2019-02-25T15:00:07+00:00
 summary: Venha com a gente descobrir como tudo pode ficar complicado e nem tudo é o que parece quando o assunto são falsos cognatos em francês.
 url: /idiomas/falsos-cognatos-em-frances.html
-image: images/podeixar227-falsos-cognatos-em-frances.jpg
+image: /images/podeixar227-falsos-cognatos-em-frances.jpg
 podcast: podeixar
 
 ---

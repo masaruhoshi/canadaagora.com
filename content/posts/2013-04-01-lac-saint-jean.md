@@ -7,7 +7,7 @@ categories:
 - turismo
 date: 2013-04-02T03:13:25+00:00
 url: /turismo/lac-saint-jean.html
-image: images/2013/04/lac-st-jean-camelo.png
+image: /images/2013/04/lac-st-jean-camelo.png
 podcast: podeixar
 
 ---

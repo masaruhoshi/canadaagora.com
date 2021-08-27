@@ -8,7 +8,7 @@ categories:
 date: 2016-03-08T21:09:35+00:00
 summary: Uma breve homenagem do Berg neste dia internacional da mulher
 url: /cultura/feliz-dia-internacional-da-mulher.html
-image: images/ML-17-Dia-internacional-da-muher-Canada-Agora.jpeg
+image: /images/ML-17-Dia-internacional-da-muher-Canada-Agora.jpeg
 format: video
 
 ---

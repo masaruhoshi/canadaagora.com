@@ -8,7 +8,7 @@ categories:
 date: 2016-03-30T15:05:08+00:00
 summary: Fundo Verde é a mais nova série do Canadá Agora. Neste primeiro vídeo piloto, Berg explica a proposta e conta a história da dinâmica "25 anos no futuro.
 url: /cotidiano/fundo-verde-25-anos-no-futuro.html
-image: images/FV001-25-Anos-No-Futuro.png
+image: /images/FV001-25-Anos-No-Futuro.png
 format: video
 
 ---

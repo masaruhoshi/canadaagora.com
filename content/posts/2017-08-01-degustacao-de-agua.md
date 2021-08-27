@@ -8,7 +8,7 @@ categories:
 date: 2017-08-01T12:43:18+00:00
 summary: 'Começamos a explorar o que tem pra vender nos mercados do Canadá. Neste primeiro episódios partimos do básico: fizemos uma degustação de água!'
 url: /cotidiano/degustacao-de-agua.html
-image: images/DEGUSTAÇÃO-DE-ÁGUA-Explorando-os-Mercados.jpeg
+image: /images/DEGUSTAÇÃO-DE-ÁGUA-Explorando-os-Mercados.jpeg
 wps_subtitle:
   - Começando a explorar o que os mercados do Canadá tem por aí
 format: video

@@ -8,7 +8,7 @@ categories:
 date: 2017-08-04T11:00:24+00:00
 summary: Neste programa, conheças dicas e técnicas de quem está criando filhos bilíngues e descubra porquê educá-los é uma tarefa mais simples do que parece.
 url: /cotidiano/criando-filhos-bilingues.html
-image: images/podeixar157.png
+image: /images/podeixar157.png
 wps_subtitle:
   - Educá-los é mais simples do que parece
 podcast: podeixar

@@ -9,7 +9,7 @@ categories:
 date: 2016-03-14T10:00:08+00:00
 summary: Qual o verdadeiro impacto do uso dos smartphones na nossa vida diária? Estamos utilizando essa tecnologia da melhor forma possível ou somos apenas escravos de aplicativos e "sifões de vida" sem qualquer utilidade?
 url: /cultura/podeixar-128-smartphone-ferramenta-vicio.html
-image: images/podeixar128-smartphone-ferramenta-ou-vicio.png
+image: /images/podeixar128-smartphone-ferramenta-ou-vicio.png
 podcast: podeixar
 
 ---

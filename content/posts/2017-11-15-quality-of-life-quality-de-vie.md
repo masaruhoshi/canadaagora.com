@@ -8,7 +8,7 @@ categories:
 date: 2017-11-15T11:30:43+00:00
 summary: "What is quality of life / qualité de vie? Pourquoi quelqu'un quitterait-il le climat chaud pour la neige? Discover why so many people are coming to Canada."
 url: /cultura/quality-of-life-quality-de-vie.html
-image: images/franglish006-quality-of-life-qualite-de-vie.jpg
+image: /images/franglish006-quality-of-life-qualite-de-vie.jpg
 podcast: podeixar
 
 ---

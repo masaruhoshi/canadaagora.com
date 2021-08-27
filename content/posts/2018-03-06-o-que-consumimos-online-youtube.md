@@ -8,7 +8,7 @@ categories:
 date: 2018-03-06T12:11:36+00:00
 summary: O que torna o YouTube tão atrativo? Que tipo de material realmente dá pra encontrar? Vale a pena investir em criar o seu canal? Quais os desafios e o que está por trás disso tudo?
 url: /cotidiano/o-que-consumimos-online-youtube.html
-image: images/podeixar183-o-que-consumimos-online-youtube.jpg
+image: /images/podeixar183-o-que-consumimos-online-youtube.jpg
 podcast: podeixar
 
 ---

@@ -12,7 +12,7 @@ summary: |
   No texto anterior, comentei quais as maiores dificuldades que encontro, morando sozinha com meus dois filhos pequenos aqui no Canadá.
   Hoje vou falar um pouco sobre as estratégias que fui adotando ao longo do tempo para tornar esta rotina possível, reservando, inclusive, um pouco de tempo para o lazer.
 url: /imigracao/rotina-mamae-estudante-no-canada.html
-image: images/rotina-mamae-estudante.jpg
+image: /images/rotina-mamae-estudante.jpg
 instant_articles_submission_id:
   - 1791866914395510
 

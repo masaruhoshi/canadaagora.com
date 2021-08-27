@@ -8,7 +8,7 @@ categories:
 date: 2018-07-27T13:09:40+00:00
 summary: O Canadá é um dos maiores exportadores de armas do mundo. Espalhar o terror no mundo é algo muito lucrativo e parte importante da economia canadense.
 url: /politica/desarmamento-no-canada.html
-image: images/desarmamento-no-canada-arma-amarrada.jpg
+image: /images/desarmamento-no-canada-arma-amarrada.jpg
 wps_subtitle:
   - Como um dos países mais pacíficos do mundo vem alimentando as principais guerras e lucrando com todas elas
 

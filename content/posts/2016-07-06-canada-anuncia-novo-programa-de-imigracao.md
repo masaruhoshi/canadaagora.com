@@ -9,7 +9,7 @@ categories:
 date: 2016-07-06T16:00:51+00:00
 summary: Governo Federal do Canadá anuncia novo programa de imigração com foco nas províncias do Atlântico
 url: /imigracao/canada-anuncia-novo-programa-de-imigracao.html
-image: images/provincias-atlantico-do-canada.png
+image: /images/provincias-atlantico-do-canada.png
 syn_post_guid:
   - http://mjconsultoria.com.br/?p=2936
 syn_source_site_id:

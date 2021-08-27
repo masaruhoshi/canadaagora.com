@@ -8,7 +8,7 @@ categories:
 date: 2015-07-17T17:28:52+00:00
 summary: Como funcionam os concursos públicos no Canadá? Existem cursinhos preparatórios?
 url: /trabalho/concursos-publicos-canada.html
-image: images/Perguntas-Respostas-3-Concursos-públicos-no-Canadá-1.jpeg
+image: /images/Perguntas-Respostas-3-Concursos-públicos-no-Canadá-1.jpeg
 format: video
 
 ---

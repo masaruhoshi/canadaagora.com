@@ -8,7 +8,7 @@ categories:
 date: 2014-11-04T17:44:28+00:00
 summary: 'Será que nossa vida, nossas fotos, nossos dados e tudo o mais que compartilhamos na Internet é seguro? Será que não podem recuperar seus dados quando você vende seu celular? Existe uma rede social segura? '
 url: /cotidiano/seguranca-digital-estamos-protegidos.html
-image: images/programa-3.07.png
+image: /images/programa-3.07.png
 podcast: podeixar
 
 ---

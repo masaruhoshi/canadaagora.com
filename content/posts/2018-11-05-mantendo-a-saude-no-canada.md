@@ -8,7 +8,7 @@ categories:
 date: 2018-11-05T15:00:16+00:00
 summary: Como é possível ficar mantendo a saúde no Canadá? Atividades físicas, alimentação, mercado e muitas dicas sobre esse tema que está sempre em alta.
 url: /cotidiano/mantendo-a-saude-no-canada.html
-image: images/podeixar217-mantendo-a-saude-no-canada.jpg
+image: /images/podeixar217-mantendo-a-saude-no-canada.jpg
 podcast: podeixar
 
 ---

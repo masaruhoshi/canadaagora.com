@@ -9,7 +9,7 @@ categories:
 date: 2019-04-15T01:00:32+00:00
 summary: Morar numa cidade tão pequena não é ruim? Tem o que fazer num lugar desses? E, valeu a pena trocar Toronto por Bridgewater?
 url: /imigracao/cidades-do-canada-bridgewater.html
-image: images/podeixar234-cidades-do-canada-bridgewater.jpg
+image: /images/podeixar234-cidades-do-canada-bridgewater.jpg
 podcast: podeixar
 
 ---

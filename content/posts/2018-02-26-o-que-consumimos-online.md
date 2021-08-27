@@ -8,7 +8,7 @@ categories:
 date: 2018-02-26T12:00:46+00:00
 summary: Para quem cresceu em um tempo onde as principais fontes de informação eram livros e jornais, as últimas décadas representam uma mudança e tanto. Nessa montueira de opções, o que consumimos online? Quais os sites, os podcasts, livros e outros bichos que fazem parte do nosso cotidiano?
 url: /cultura/o-que-consumimos-online.html
-image: images/podeixar182-o-que-consumimos-online-icon.jpg
+image: /images/podeixar182-o-que-consumimos-online-icon.jpg
 podcast: podeixar
 
 ---

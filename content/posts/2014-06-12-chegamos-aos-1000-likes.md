@@ -8,7 +8,7 @@ categories:
 date: 2014-06-12T12:20:14+00:00
 summary: 'Interrompemos esta ausência inesperada pra comunicar algo de extrema importância pra todo mundo que acompanha o nosso podcast: CHEGAMOS AOS 1000 LIKES!'
 url: /cotidiano/chegamos-aos-1000-likes.html
-image: images/1000-likes-post.png
+image: /images/1000-likes-post.png
 
 ---
 ## Chegamos aos 1000 LIKES!!!

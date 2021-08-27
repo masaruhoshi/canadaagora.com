@@ -9,7 +9,7 @@ categories:
 date: 2014-04-01T04:37:22+00:00
 summary: 'Pra variar um pouco, voltamos a falar de comida, mais especificamente onde vamos para comprar os ingredientes: mercados! Contamos das dificuldades em encontrar produtos brasileiros e como "nos viramos" para achar um equivalente. Conheça também os atacados, os mercados chineses, coreanos, africanos e tudo o mais. E mais: a volta de José Roberto Barros, oficialmente como nosso comentarista sobre Investimentos e Finanças a partir desta edição do PoDeixar!'
 url: /economia/fazendo-compras.html
-image: images/programa-2.20.png
+image: /images/programa-2.20.png
 podcast: podeixar
 
 ---

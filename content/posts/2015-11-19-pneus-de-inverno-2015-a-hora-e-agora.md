@@ -9,7 +9,7 @@ categories:
 date: 2015-11-20T01:00:00+00:00
 summary: '<p>As terras geladas n&atilde;o perdoam, 2015 est&aacute; sendo um ano generoso em termos meteorol&oacute;gicos, pelo menos na minha regi&atilde;o hehe, mesmo assim as noites j&aacute; est&atilde;o mais frias, e cedo j&aacute; encontramos um pouco de gelo no para-brisa. Nada comparado ao inverno rigoroso, e algumas tempestades de neve que j&aacute; nos fazem pensar nas horas [&hellip;]</p>'
 url: /clima/pneus-de-inverno-2015-a-hora-e-agora.html
-image: images/uso-de-pneus-de-inverno.png
+image: /images/uso-de-pneus-de-inverno.png
 syn_post_guid:
   - http://automoveisquebec.com/?p=2023
 syn_source_site_id:

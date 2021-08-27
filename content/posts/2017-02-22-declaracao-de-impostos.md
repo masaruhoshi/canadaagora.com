@@ -8,7 +8,7 @@ categories:
 date: 2017-02-22T16:02:07+00:00
 summary: Começo de ano é época de acertar as contas com o Governo. Confira algumas dicas de como preparar a sua declaração de impostos no Canadá
 url: /economia/declaracao-de-impostos.html
-image: images/chegou-epoca-da-declaracao-de-impostos.png
+image: /images/chegou-epoca-da-declaracao-de-impostos.png
 
 ---
 # Chegou a época da declaração de impostos

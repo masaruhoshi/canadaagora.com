@@ -8,7 +8,7 @@ categories:
 date: 2017-12-18T11:30:35+00:00
 summary: O tempo passou e a tecnologia, as piadas, os hábitos, os modismos e muito mais deixam claro que novas gerações estão por aí e que estamos ficando velhos. Mas, e daí?
 url: /cultura/estamos-ficando-velhos.html
-image: images/podeixar174-estamos-ficando-velhos.jpg
+image: /images/podeixar174-estamos-ficando-velhos.jpg
 podcast: podeixar
 
 ---

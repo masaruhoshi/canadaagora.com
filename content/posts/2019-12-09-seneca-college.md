@@ -8,7 +8,7 @@ categories:
 date: 2019-12-09T11:00:00+00:00
 summary: O Seneca College, um dos maiores colleges da região de Toronto. Os cursos, a vida dentro e fora do campus e as oportunidade para estudantes internacionais
 url: /educacao/seneca-college.html
-image: images/podeixar263-estudar-no-canada-seneca-college.jpg
+image: /images/podeixar263-estudar-no-canada-seneca-college.jpg
 podcast: podeixar
 
 ---
@@ -26,14 +26,14 @@ Neste episódio [Masaru Hoshi][1] e <a rel="noopener noreferrer" target="_blank"
 
 <div class="wp-block-embed__wrapper">
   <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div></figure> 
+</div></figure>
 
 ## Referências
 
   * Seneca College: <a rel="noreferrer noopener" aria-label="https://www.senecacollege.ca/ (opens in a new tab)" href="https://www.senecacollege.ca/" target="_blank">https://www.senecacollege.ca/</a>
   * Studying in Canada: Choosing a school, college or university: <a rel="noreferrer noopener" aria-label="https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/choose-school-college-university.html (opens in a new tab)" href="https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/choose-school-college-university.html" target="_blank">https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/choose-school-college-university.html</a>
   * Colleges Ontario 2019 &#8211; Key Performance Indicators: <a rel="noreferrer noopener" aria-label="https://www.collegesontario.org/en/resources/2019-kpi-results (opens in a new tab)" href="https://www.collegesontario.org/en/resources/2019-kpi-results" target="_blank">https://www.collegesontario.org/en/resources/2019-kpi-results</a>
-  * Colleges Ontario 2017-18 &#8211; Key Performance Indicators &#8211; Apprenticeship: <a rel="noreferrer noopener" aria-label="https://www.collegesontario.org/en/resources/2017-18-kpi-apprenticeship (opens in a new tab)" href="https://www.collegesontario.org/en/resources/2017-18-kpi-apprenticeship" target="_blank">https://www.collegesontario.org/en/resources/2017-18-kpi-apprenticeship</a> 
+  * Colleges Ontario 2017-18 &#8211; Key Performance Indicators &#8211; Apprenticeship: <a rel="noreferrer noopener" aria-label="https://www.collegesontario.org/en/resources/2017-18-kpi-apprenticeship (opens in a new tab)" href="https://www.collegesontario.org/en/resources/2017-18-kpi-apprenticeship" target="_blank">https://www.collegesontario.org/en/resources/2017-18-kpi-apprenticeship</a>
   * European Union Aviation Safety Agency: <a rel="noreferrer noopener" aria-label="https://www.easa.europa.eu/ (opens in a new tab)" href="https://www.easa.europa.eu/" target="_blank">https://www.easa.europa.eu/</a>
   * Morcare: <a rel="noreferrer noopener" aria-label="https://morcare.ca/ (opens in a new tab)" href="https://morcare.ca/" target="_blank">https://morcare.ca/</a>
   * We Speak Student: <a rel="noreferrer noopener" aria-label="https://wespeakstudent.com/ (opens in a new tab)" href="https://wespeakstudent.com/" target="_blank">https://wespeakstudent.com/</a>

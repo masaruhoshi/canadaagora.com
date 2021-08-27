@@ -8,7 +8,7 @@ categories:
 date: 2016-03-08T03:34:30+00:00
 summary: Conheça a história de Marie Quatdoigts e descubra se francês está no mesmo nível de uma criança de 12 anos.
 url: /cultura/historia-de-marie-quatdoigts.html
-image: images/draw-my-life.jpg
+image: /images/draw-my-life.jpg
 format: video
 
 ---

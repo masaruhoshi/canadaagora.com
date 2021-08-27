@@ -6,7 +6,7 @@ type: post
 date: 2013-08-13T03:35:53+00:00
 summary: Em um programa especial, Berg faz uma homenagem aos pais recordando sua própria infância e contando da sua própria experiência em ser pai.
 url: /artigos/vida-de-pai.html
-image: images/programa-70-post.png
+image: /images/programa-70-post.png
 post_to_facebook_page:
   - 0
   - 0

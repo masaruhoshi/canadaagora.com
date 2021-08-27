@@ -8,7 +8,7 @@ categories:
 date: 2013-11-18T03:50:03+00:00
 summary: Já parou pra pensar que o seu ator preferido de Hollywood ou aquele personagem da série que você acompanha há 20 anos ou que mesmo aquele ator que você jurava ser americano poder ser na verdade um verdadeiro Canuck? E que raios é um Canuck pra começo de história? Neste programa começamos a desvendar as grandes personalidades canadenses.
 url: /cultura/canadenses-famosos.html
-image: images/programa-2.08-post.png
+image: /images/programa-2.08-post.png
 podcast: podeixar
 
 ---

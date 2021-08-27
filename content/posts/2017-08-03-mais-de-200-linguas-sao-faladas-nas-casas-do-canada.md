@@ -8,7 +8,7 @@ categories:
 date: 2017-08-03T15:15:01+00:00
 summary: Censo mostra um novo padrão nos idiomas falando pelo país e mais de 200 línguas são faladas nas casas do Canadá como idiomas nativo.
 url: /noticias/mais-de-200-linguas-sao-faladas-nas-casas-do-canada.html
-image: images/mais-de-200-linguas-sao-faladas-nas-casas-do-canada.jpg
+image: /images/mais-de-200-linguas-sao-faladas-nas-casas-do-canada.jpg
 wps_subtitle:
   - Inglês e francês ainda são maioria mas um em cada quatro pessoas afirma ter outra língua nativa
 podcast: podeixar

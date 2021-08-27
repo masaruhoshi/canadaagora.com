@@ -6,7 +6,7 @@ type: post
 date: 2016-03-22T18:28:50+00:00
 summary: A cobrança por melhorar a performance parece ter se tornado o objetivo de pessoas, máquinas, mercado.É possível aumentá-la? Como medir a sua performance?
 url: /artigos/performance.html
-image: images/Momento-Lindo-Performance-1440.jpg
+image: /images/Momento-Lindo-Performance-1440.jpg
 
 ---
 ## **Performance tá na moda**

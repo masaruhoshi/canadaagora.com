@@ -8,7 +8,7 @@ categories:
 date: 2014-10-06T11:12:33+00:00
 summary: Deixar seu país é uma decisão que pode ter inúmeras razões e cada pessoa vai ter a sua. No meu caso o problema foi muito mais embaixo do que parece, porque eu mesmo era parte do problema. Descubra porquê neste ótimo texto falando sobre o comportamento do brasileiro.
 url: /imigracao/motivos-de-sobra.html
-image: images/man-wallet.jpg
+image: /images/man-wallet.jpg
 
 ---
 Têm algumas perguntas que as pessoas sempre te fazem quando descobrem que você saiu do Brasil para morar em um lugar tão distante quanto o Canadá: &#8220;você sente fanta da família? E seu amigos? Seus pais não foram contra? Por que você largou tudo o que você já tinha por lá?&#8221; Mas sem dúvida, aquela que mais aparece é sempre a mesma: &#8220;por que você saiu do Brasil?&#8221; Sempre que eu escuto isso me vêm no mínimo uma meia-dúzia de respostas prontas mas que não expressam de fato o que eu penso. Até hoje.

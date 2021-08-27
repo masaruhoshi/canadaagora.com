@@ -8,7 +8,7 @@ categories:
 date: 2018-06-11T12:00:35+00:00
 summary: A publicidade voltada totalmente voltada para o público infantil. Qual o efeito sobre as crianças? Como isto afeta seus filhos e os seus hábitos de consumo?
 url: /cultura/publicidade-infantil.html
-image: images/DROPS-Ao-Vivo-2018-06-03.jpeg
+image: /images/DROPS-Ao-Vivo-2018-06-03.jpeg
 wps_subtitle:
   - Drops ao vivo – 2018-06-03
 

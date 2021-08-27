@@ -8,7 +8,7 @@ categories:
 date: 2014-01-04T01:12:36+00:00
 summary: Você é daqueles que adora viajar, conhecer as paisagens e atrações de um local e ainda por cima aproveitar para comer um ótima comida? Confira a lista dos melhores restaurantes do Canadá para o ano de 2014.
 url: /cotidiano/os-melhores-restaurantes-do-canada-2014.html
-image: images/best-canada-restaurants.png
+image: /images/best-canada-restaurants.png
 
 ---
 Existem duas coisas que eu poderia fazer a vida inteiro e não ficaria enjoado: viajar e comer. Melhor que isso só combinando os dois e fazendo uma viagem gastronômica. Então, que tal viajar pelo Canadá visitando os melhores restaurantes do país?

@@ -10,7 +10,7 @@ categories:
 date: 2015-07-09T20:58:31+00:00
 summary: Deixando suas emoções de lado, você já parou para pensar se está realmente pronto para o que vai encontrar no Canadá?
 url: /cultura/riscos-na-imigracao.html
-image: images/ML000014_Riscos_CAPA.png
+image: /images/ML000014_Riscos_CAPA.png
 format: video
 
 ---

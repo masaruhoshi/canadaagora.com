@@ -8,7 +8,7 @@ categories:
 date: 2019-05-06T00:00:19+00:00
 summary: Neste episódio conheça como é a qualidade de vida, saúde, educação, trabalho, transporte e muito mais que Ottawa realmente tem a oferecer
 url: /turismo/cidades-do-canada-ottawa.html
-image: images/podeixar237-cidades-do-canada-ottawa.jpg
+image: /images/podeixar237-cidades-do-canada-ottawa.jpg
 podcast: podeixar
 
 ---

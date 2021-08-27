@@ -10,7 +10,7 @@ categories:
 date: 2018-09-18T13:43:15+00:00
 summary: No Writing Test do IELTS, você terá 60 minutos para escrever duas redações. Serão avaliados os seus conhecimentos sobre vocabulário e gramática da língua inglesa, além da capacidade de colocar no papel ideias coerentes e bem organizadas. Além disso, é importante não fugir do tema abordado e responder aquilo que o enunciado pede. 
 url: /imigracao/ielts-writing-test.html
-image: images/correction.jpg
+image: /images/correction.jpg
 
 ---
 Este é o último artigo da série [**IELTS 101: tudo o que você precisa saber sobre o exame**][1] na qual vamos explicar, em detalhes, como funciona essa prova que é simplesmente um dos requesitos mais importantes para a pontuação no _Express_ _Entry_. No artigo de hoje vamos falar sobre o **Writing Test**.

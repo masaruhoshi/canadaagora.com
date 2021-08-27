@@ -8,7 +8,7 @@ categories:
 date: 2018-02-13T13:49:48+00:00
 summary: Enquanto do lado de lá a pressão popular exige o fim da energia nuclear, aqui no Canadá nós temos uma das maiores usinas nucleares do mundo a menos de meia hora da maior cidade do país. Até onde isso é seguro e o quanto estamos prontos no caso de um desastre nuclear?
 url: /cultura/o-canada-esta-preparado-para-um-desastre-nuclear.html
-image: images/O-Canadá-está-preparado-para-um-desastre-nuclear.jpeg
+image: /images/O-Canadá-está-preparado-para-um-desastre-nuclear.jpeg
 format: video
 
 ---

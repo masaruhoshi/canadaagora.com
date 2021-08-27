@@ -8,7 +8,7 @@ categories:
 date: 2018-10-02T14:49:06+00:00
 summary: A província francófona do Canadá foi às urnas e elegeu um novo representante. Mas o que esperar do novo primeiro-ministro do Québec?
 url: /politica/o-que-esperar-do-novo-primeiro-ministro-do-quebec.html
-image: images/o-que-esperar-do-novo-primeiro-ministro-do-quebec.jpg
+image: /images/o-que-esperar-do-novo-primeiro-ministro-do-quebec.jpg
 
 ---
 O que esperar do novo primeiro-ministro do Québec? François Legualt, fundador da companhia aérea Air Transat é o novo primeiro-ministro do Québec. A CAQ, partido de centro-direita que não propoe a separação do Quebec, ganhou as eleições formando um governo maioritário. Vamos ficar de olho no que foi prometido durante a campanha e torcer que as nossas vidas sejam afetadas de forma positiva. Segue algumas das principais promessas feitas pelo Sr. Legualt, como ele mesmo repetiu mais de 1 milhão de vezes, os quebequenses queriam uma mudança.

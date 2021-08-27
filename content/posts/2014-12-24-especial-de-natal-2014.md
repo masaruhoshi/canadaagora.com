@@ -8,7 +8,7 @@ categories:
 date: 2014-12-24T16:27:17+00:00
 summary: Final de ano e temos o intervalo do meio da temporada (porque ninguém é de ferro, galera!). E pra fechar esta etapa do ano, nada melhor do que falar de Natal! Neste programa super especial nós conversamos sobre como é o Natal deste lado do hemisfério, tão distante do verão de 30C graus que acontece no Brasil mas que parece ter muito mais sentido com tudo branco e coberto de neve.
 url: /cotidiano/especial-de-natal-2014.html
-image: images/programa-3.13.png
+image: /images/programa-3.13.png
 podcast: podeixar
 
 ---

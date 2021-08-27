@@ -8,7 +8,7 @@ categories:
 date: 2016-01-29T11:00:53+00:00
 summary: As mudanças propostas pelo Governo progressista de Alberta vão mudar a forma com que o Canadá (e o mundo) tratam identidades sexuais
 url: /cultura/canada-vai-mudar-em-qual-banheiro-voce-vai.html
-image: images/como-o-canada-vai-afetar-em-que-banheiro-voce-vai.png
+image: /images/como-o-canada-vai-afetar-em-que-banheiro-voce-vai.png
 
 ---
 <p class="p1">

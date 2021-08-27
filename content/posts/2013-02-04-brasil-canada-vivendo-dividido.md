@@ -8,7 +8,7 @@ categories:
 - imigracao
 date: 2013-02-05T01:38:36+00:00
 url: /imigracao/brasil-canada-vivendo-dividido.html
-image: images/2013/02/snowman_on_beach-e1343573426628.jpg
+image: /images/2013/02/snowman_on_beach-e1343573426628.jpg
 podcast: podeixar
 
 ---

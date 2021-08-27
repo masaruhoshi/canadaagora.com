@@ -8,7 +8,7 @@ categories:
 date: 2015-03-10T11:00:30+00:00
 summary: Mundos colidem no PoDeixar! Em uma entrevista mais do que animada, Japa e Berg Lindo, juntos com seu amigo Pedro Perna, recebem as mentes, braços, pernas e todo o resto dos idealizadores do Montreal na Real.
 url: /cotidiano/entrevista-montreal-na-real.html
-image: images/programa-3.15.png
+image: /images/programa-3.15.png
 podcast: podeixar
 
 ---

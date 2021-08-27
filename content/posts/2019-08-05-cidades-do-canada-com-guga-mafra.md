@@ -8,7 +8,7 @@ categories:
 date: 2019-08-06T00:27:13+00:00
 summary: Contribuindo brilhantemente para a nossa série "Cidades do Canadá", Guga Mafra compartilha suas experiências em Vancouver, Toronto, Montreal e Quebec.
 url: /turismo/cidades-do-canada-com-guga-mafra.html
-image: images/podeixar-especial-cidades-do-canada-guga-mafra.jpg
+image: /images/podeixar-especial-cidades-do-canada-guga-mafra.jpg
 wps_subtitle:
   - Guga Mafra no PoDeixar especial!
 podcast: podeixar

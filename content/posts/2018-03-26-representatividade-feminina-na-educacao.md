@@ -8,7 +8,7 @@ categories:
 date: 2018-03-26T10:00:11+00:00
 summary: O meio acadêmico no Brasil e no Canadá. As profissões são orientadas por gênero? O Canadá incentiva a igualdade de gêneros nas escolas? Existe representatividade feminina na educação?
 url: /educacao/representatividade-feminina-na-educacao.html
-image: images/podeixar186-representatividade-feminina-na-educacao.jpg
+image: /images/podeixar186-representatividade-feminina-na-educacao.jpg
 podcast: podeixar
 
 ---

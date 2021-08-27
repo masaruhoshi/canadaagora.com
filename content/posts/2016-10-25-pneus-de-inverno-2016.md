@@ -8,7 +8,7 @@ categories:
 date: 2016-10-26T03:12:45+00:00
 summary: 'O verão foi muito bom, quente e agradável mas agora é só ano que vem. Enquanto isso, está chegando a hora de novamente pensar nos pneus de inverno. '
 url: /cotidiano/pneus-de-inverno-2016.html
-image: images/pneus-inverno-2016.png
+image: /images/pneus-inverno-2016.png
 syn_post_guid:
   - http://automoveisquebec.com/?p=2076
 syn_source_site_id:

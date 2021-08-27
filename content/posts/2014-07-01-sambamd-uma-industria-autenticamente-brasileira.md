@@ -8,7 +8,7 @@ categories:
 date: 2014-07-01T19:57:18+00:00
 summary: Enquanto muitos pensam em abrir um comércio ao chegar no Canadá, eles pensaram maior e resolveram abrir uma indústria e levar os quitutes da comida brasileira para os lares dos canadenses. Conheça a SambaMD e como esse casal de brasileiros encarou mais este desafio nas suas vidas.
 url: /trabalho/sambamd-uma-industria-autenticamente-brasileira.html
-image: images/programa-2.28-post.png
+image: /images/programa-2.28-post.png
 podcast: podeixar
 
 ---

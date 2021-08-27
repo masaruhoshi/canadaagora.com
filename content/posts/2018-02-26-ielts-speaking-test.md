@@ -10,7 +10,7 @@ categories:
 date: 2018-02-26T14:37:15+00:00
 summary: O teste de speaking nada mais é que uma entrevista oral realizada por um examinador treinado para realizar o exame no padrão Cambridge. Seu objetivo principal é avaliar a capacidade do candidato de usar o inglês falado para lidar com diversas situações e discutir temas diferentes.
 url: /imigracao/ielts-speaking-test.html
-image: images/canada-agora-post-6.jpg
+image: /images/canada-agora-post-6.jpg
 
 ---
 Este artigo é uma continuação da série [**IELTS 101: tudo o que você precisa saber sobre o exame**][1] na qual vamos explicar, em detalhes, como funciona essa prova que é simplesmente um dos requisitos mais importantes para a pontuação no _Express_ _Entry_. No artigo de hoje vamos falar sobre a parte mais temida pelos alunos: o **Speaking Test. **

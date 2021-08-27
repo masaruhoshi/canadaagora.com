@@ -11,7 +11,7 @@ categories:
 date: 2015-01-08T18:24:13+00:00
 summary: Morar no Canadá não é apenas conseguir um visto e se mudar. É preciso balancear a vida. Conheça 10 mandamentos para viver bem no Canadá.
 url: /cultura/10-mandamentos-para-viver-bem-no-canada.html
-image: images/10-mandamentos-viver-bem-canada.png
+image: /images/10-mandamentos-viver-bem-canada.png
 
 ---
 Quando a gente pensa em morar fora do país vem logo aquela empolgação de novos lugares a conhecer, pessoas diferentes, culturas e tudo o mais. A gente chega, se encanta, quebra a cara e percebe que no fundo, no fundo, a vida segue seu curso e naturalmente temos que nos adaptar ao cotidiano. É assim em todo lugar, mesmo aqui, onde a temperatura em Fahrenheit às vezes chega ao ponto de ser a mesma em Celsius.

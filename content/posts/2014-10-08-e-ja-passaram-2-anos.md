@@ -8,7 +8,7 @@ categories:
 date: 2014-10-08T15:11:06+00:00
 summary: A gente comemora hoje mais um ano de vida. Pra gente isso é muito mais do que uma data, é um motivo e tanto para celebrar. E a gente quer compartilhar isso com você, que acompanha e prestigia o nosso trabalho.
 url: /cotidiano/e-ja-passaram-2-anos.html
-image: images/dois-anos.png
+image: /images/dois-anos.png
 
 ---
 <p style="color: #222222;">

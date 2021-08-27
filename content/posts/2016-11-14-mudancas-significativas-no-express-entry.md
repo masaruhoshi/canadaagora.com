@@ -9,7 +9,7 @@ categories:
 date: 2016-11-15T01:52:35+00:00
 summary: O ministério da imigração comunicou mudanças significativas no Express Entry que devem privilegiar muita gente. Confira o que muda!
 url: /imigracao/mudancas-significativas-no-express-entry.html
-image: images/express-entry-mudancas-2017.png
+image: /images/express-entry-mudancas-2017.png
 syn_post_guid:
   - http://mjconsultoria.com.br/?p=3252
 syn_source_site_id:

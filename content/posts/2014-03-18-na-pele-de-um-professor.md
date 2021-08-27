@@ -10,7 +10,7 @@ categories:
 date: 2014-03-18T04:30:07+00:00
 summary: Uma entrevista completa em francês com um professor que trabalha no Québec falando sobre o dia-a-dia da profissão, a rotina das aulas e os alunos.
 url: /cultura/na-pele-de-um-professor.html
-image: images/programa-2.18-post.png
+image: /images/programa-2.18-post.png
 podcast: podeixar
 
 ---

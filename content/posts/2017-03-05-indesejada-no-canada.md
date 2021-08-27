@@ -8,7 +8,7 @@ categories:
 date: 2017-03-06T00:00:25+00:00
 summary: Nem sempre o sonho da imigração acontece e tudo pode se tornar um pesadelo. Conheça a história de uma brasileira que teve sua entrada negada no Canadá.
 url: /imigracao/indesejada-no-canada.html
-image: images/malvinda-ao-canada.png
+image: /images/malvinda-ao-canada.png
 
 ---
 # Indesejada no Canadá

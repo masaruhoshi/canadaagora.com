@@ -8,7 +8,7 @@ categories:
 date: 2016-11-09T06:13:34+00:00
 summary: Com a apuração das eleições para presidente nos Estados Unidos, a Internet mostra que nada é mais rápido do que a ironia e sarcasmo.
 url: /politica/internet-resume-eleicao-nos-estados-unidos.html
-image: images/canada-for-president.png
+image: /images/canada-for-president.png
 instant_articles_force_submit:
   - 1
 instant_articles_submission_id:

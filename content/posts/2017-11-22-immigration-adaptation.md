@@ -8,7 +8,7 @@ categories:
 date: 2017-11-22T11:30:40+00:00
 summary: 'Dans cette émission de Franglish MainteNow we discuss le changement de pays et the main factor of success in this very difficult chalenge: adaptation.'
 url: /imigracao/immigration-adaptation.html
-image: images/franglish-7-immigration-adaptation.jpg
+image: /images/franglish-7-immigration-adaptation.jpg
 podcast: podeixar
 
 ---

@@ -13,7 +13,7 @@ summary: |
 
   Confira o que mudou!
 url: /noticias/mudancas-no-processo-de-cidadania.html
-image: images/mudancas-no-processo-de-cidadania-passaporte-canadense.jpg
+image: /images/mudancas-no-processo-de-cidadania-passaporte-canadense.jpg
 
 ---
 &#8220;Nós queremos que todos os residentes, se possível, tornem-se canadenses&#8221;, afirmou o Ministro da Imigração, Ahmed Hussen. Em uma conferência em Toronto no último dia 19 de Junho, o ministro afirmou que várias mudanças virão com a Bill C-6 que irão favorecer os residentes permanentes. Entre elas, o tempo necessário para novos imigrantes serem elegíveis para obter a cidadania canadense.

@@ -8,7 +8,7 @@ categories:
 date: 2017-02-02T19:41:09+00:00
 summary: Aprenda um pouco sobre como funciona a política canadense, os partidos políticos, as ações e repercussões dos governos Harper e Trudeau
 url: /politica/voce-conhece-politica-canadense.html
-image: images/voce-conhece-politica-canadense.png
+image: /images/voce-conhece-politica-canadense.png
 
 ---
 # Você conhece a política canadense?

@@ -8,7 +8,7 @@ categories:
 date: 2018-02-07T12:30:36+00:00
 summary: Dans cette émission, nous parlons de la manière dont nous traitons la technologie dans nos vies. In Are we finally putting aside socializing and assuming that we can no longer survive without smart phones or is it all just conspiracy theory?
 url: /cultura/cyberdependence-cyberdependance.html
-image: images/franglish14-cyberdependence-cyberdépendance.jpg
+image: /images/franglish14-cyberdependence-cyberdépendance.jpg
 podcast: podeixar
 
 ---

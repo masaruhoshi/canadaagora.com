@@ -8,7 +8,7 @@ categories:
 - trabalho
 date: 2017-12-06T05:48:39+00:00
 url: /trabalho/busca-de-emprego-toronto-vs-vancouver.html
-image: images/looking-for-a-job.jpg
+image: /images/looking-for-a-job.jpg
 wps_subtitle:
   - Minha experiência procurando por emprego nestas duas cidades
 

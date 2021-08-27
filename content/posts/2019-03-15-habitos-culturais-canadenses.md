@@ -8,7 +8,7 @@ categories:
 date: 2019-03-15T12:00:13+00:00
 summary: Conheça um pouco sobre os hábitos culturais canadense e o quanto eles investe em leitura, museus, espetáculos e outras atividades
 url: /cultura/habitos-culturais-canadenses.html
-image: images/O6R96F0-e1552493026392.jpg
+image: /images/O6R96F0-e1552493026392.jpg
 
 ---
 ## Os Canadenses lêem muito

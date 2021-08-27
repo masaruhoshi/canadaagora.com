@@ -8,7 +8,7 @@ categories:
 date: 2018-01-20T14:03:50+00:00
 summary: Quem diria que ligar o carro a distância seria algo assim super útil, necessário mesmo ? Durante o período mais frio, não precisar sair de casa para ligar o carro é além de prático. Conheça então o Remote Car Starter ou Démarreur à distance.
 url: /cotidiano/ligar-o-carro-a-distancia.html
-image: images/ca-ml-demarreur-capa-5.png
+image: /images/ca-ml-demarreur-capa-5.png
 wps_subtitle:
   - A experiência de ter o carro quentinho quando faz -30C lá fora
 format: video

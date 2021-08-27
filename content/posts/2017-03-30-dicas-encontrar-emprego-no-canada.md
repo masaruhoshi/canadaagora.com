@@ -8,7 +8,7 @@ categories:
 date: 2017-03-30T15:35:36+00:00
 summary: Entrar no mercado de trabalho é a maior dificuldade do imigrante que chega praticamente desconhecido. Confira 17 dicas de como encontrar emprego no Canadá.
 url: /trabalho/dicas-encontrar-emprego-no-canada.html
-image: images/16-dicas-encontrar-emprego-canada.png
+image: /images/16-dicas-encontrar-emprego-canada.png
 podcast: podeixar
 
 ---

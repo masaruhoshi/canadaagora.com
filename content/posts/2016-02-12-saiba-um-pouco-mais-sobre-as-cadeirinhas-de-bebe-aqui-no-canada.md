@@ -8,7 +8,7 @@ categories:
 date: 2016-02-13T00:11:00+00:00
 summary: Quais devem ser os devidos cuidados que devemos ter ao instalar e utilizar cadeirinhas para crianças nos carros e o que diz a regulamentação?
 url: /cotidiano/saiba-um-pouco-mais-sobre-as-cadeirinhas-de-bebe-aqui-no-canada.html
-image: images/mae-escolhe-cadeira-de-bebe.png
+image: /images/mae-escolhe-cadeira-de-bebe.png
 syn_post_guid:
   - http://automoveisquebec.com/?p=2040
 syn_source_site_id:

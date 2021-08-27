@@ -8,7 +8,7 @@ categories:
 date: 2014-11-18T17:52:22+00:00
 summary: Querendo investir em uma profissão para se trabalhar no Canadá? Pois talvez seja melhor você dar uma olhada nesta lista de profissões.
 url: /trabalho/qual-a-melhor-profissao-para-trabalhar-no-canada.html
-image: images/13903379060_65bd06a926_k.jpg
+image: /images/13903379060_65bd06a926_k.jpg
 
 ---
 Em uma pesquisa feita com base nas vagas oferecidas no LinkedIn Canadá, ao contrário da área de exploração de petróleo e afins, descobrimos que 7 das 10 especialidades mais buscadas pelos empregadores estão na área de programação e mídia digital. O LinkedIn tem uma base de usuários que ultrapassa 10 milhões de pessoas somente no Canadá.

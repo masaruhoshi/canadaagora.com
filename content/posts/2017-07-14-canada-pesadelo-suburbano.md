@@ -8,7 +8,7 @@ categories:
 date: 2017-07-14T11:15:53+00:00
 summary: Morar no Canadá pra muita gente é sinônimo de uma casinha no subúrbio, sem cerca e tranquila. Mas esse sonho pode estar sendo virando um pesadelo suburbano.
 url: /cotidiano/canada-pesadelo-suburbano.html
-image: images/podeixar154.png
+image: /images/podeixar154.png
 wps_subtitle:
   - Por que os subúrbios são um a péssima ideia para as cidades canadenses?
 podcast: podeixar

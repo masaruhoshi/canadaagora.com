@@ -9,7 +9,7 @@ categories:
 date: 2014-10-10T13:14:50+00:00
 summary: Morar no exterior não isenta os brasileiros de exercerem sua obrigação como eleitores. Mas, o que fazer quando você perde o dia da eleição? Como justificar o seu voto?
 url: /politica/como-justificar-voto-exterior.html
-image: images/como-justificar-voto-exterior.png
+image: /images/como-justificar-voto-exterior.png
 
 ---
 ## Como justificar o voto no exterior?

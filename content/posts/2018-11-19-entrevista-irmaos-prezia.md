@@ -8,7 +8,7 @@ categories:
 date: 2018-11-19T16:00:46+00:00
 summary: Entrevista com os Irmãos Prezia, fundadores do Canadá para Brasileiros. Como eles vivem de conteúdo na Internet, a trajetória e os planos para o futuro. Imperdível!
 url: /trabalho/entrevista-irmaos-prezia.html
-image: images/podeixar219-entrevista-irmaos-prezia.jpg
+image: /images/podeixar219-entrevista-irmaos-prezia.jpg
 
 ---
 <div>

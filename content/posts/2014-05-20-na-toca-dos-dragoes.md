@@ -8,7 +8,7 @@ categories:
 date: 2014-05-20T16:00:41+00:00
 summary: "Conheça a história da Navut, uma start-up de tecnologia fundada por brasileiros cuja série de conquistas os levou a conquistar a simpatia dos investidores do programa Dragon's Den da CBC."
 url: /economia/na-toca-dos-dragoes.html
-image: images/programa-2.27-post.png
+image: /images/programa-2.27-post.png
 podcast: podeixar
 
 ---

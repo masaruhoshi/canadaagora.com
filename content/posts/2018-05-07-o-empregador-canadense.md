@@ -8,7 +8,7 @@ categories:
 date: 2018-05-07T10:00:12+00:00
 summary: Como é o empregador canadense. Eles são cordiais? Se importam com sua cor, sua origem, sua língua? Eles valorizam o seu trabalho ou você é apenas uma peça no tabuleiro?
 url: /trabalho/o-empregador-canadense.html
-image: images/podeixar192-empregador-canadense.jpg
+image: /images/podeixar192-empregador-canadense.jpg
 podcast: podeixar
 
 ---

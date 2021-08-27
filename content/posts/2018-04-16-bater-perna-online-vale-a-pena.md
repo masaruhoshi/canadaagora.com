@@ -8,7 +8,7 @@ categories:
 date: 2018-04-16T12:20:53+00:00
 summary: Compras online e tentam descobrir se bater perna online vale a pena. Será que ficar pulando de site em site vale o esforço? Criar contas em vários lugares é interessante? E será que é interessante confiar em sites de pesquisa de preços? E uso de cupons facilita realmente a vida?
 url: /economia/bater-perna-online-vale-a-pena.html
-image: images/podeixar189-bater-perna-online-vale-a-pena.jpg
+image: /images/podeixar189-bater-perna-online-vale-a-pena.jpg
 podcast: podeixar
 
 ---

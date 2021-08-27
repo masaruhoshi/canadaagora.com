@@ -9,7 +9,7 @@ categories:
 date: 2019-02-18T16:18:03+00:00
 summary: Mudar por trabalho vale a pena? Trocar de província é um problema? Não se adaptar à cidade é um bom motivo? Afinal, está na hora de mudar de cidade?
 url: /trabalho/esta-na-hora-de-mudar-de-cidade.html
-image: images/podeixar226-esta-na-hora-de-mudar-de-cidade.jpg
+image: /images/podeixar226-esta-na-hora-de-mudar-de-cidade.jpg
 
 ---
 O projeto de morar no Canadá é uma estrada cheia de várias dúvidas e questionamentos. A mais conhecida é a famigerada &#8220;onde eu vou morar?&#8221; Complicada de responder, ainda mais porque a distância só mostra uma idealização de lá. Ao chegar, nos primeiros anos tudo é novidade, mas uma hora a natureza crítica de cada uma começa a pontar que nem tudo eram flores e todo lugar tem seus problemas e nem tudo é como se esperava. Ou ainda, que a &#8220;grama do vizinho parece mais verde&#8221; e aquela outra cidade que todo mundo fala parece ser mais interessante. No fim das contas, quando se sabe que está na hora de mudar de cidade?

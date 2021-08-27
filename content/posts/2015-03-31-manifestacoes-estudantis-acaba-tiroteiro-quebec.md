@@ -9,7 +9,7 @@ categories:
 date: 2015-03-31T16:00:00+00:00
 summary: Manifestação estudantil terminal com tiros e repreensão da polícia em Québec
 url: /politica/manifestacoes-estudantis-acaba-tiroteiro-quebec.html
-image: images/programa00010.png
+image: /images/programa00010.png
 format: video
 
 ---

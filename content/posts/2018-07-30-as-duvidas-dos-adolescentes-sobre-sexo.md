@@ -8,7 +8,7 @@ categories:
 date: 2018-07-30T15:00:14+00:00
 summary: As dúvidas dos adolescentes sobre a vida sexual. Conversando com seus filhos sobre a primeira vez, o namoro, os métodos contraceptivos e muito mais.
 url: /educacao/as-duvidas-dos-adolescentes-sobre-sexo.html
-image: images/podeixar204-o-que-seus-filhos-realmente-querem-saber-sobre-sexo.jpg
+image: /images/podeixar204-o-que-seus-filhos-realmente-querem-saber-sobre-sexo.jpg
 podcast: podeixar
 
 ---

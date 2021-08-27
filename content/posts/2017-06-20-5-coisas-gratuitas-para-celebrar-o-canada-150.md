@@ -10,7 +10,7 @@ categories:
 date: 2017-06-20T11:39:53+00:00
 summary: Em 2017 o Canadá comemora 150 anos. Descubra 5 coisas gratuitas para celebrar o Canada 150 com estilo e ter ótimas recordações.
 url: /noticias/5-coisas-gratuitas-para-celebrar-o-canada-150.html
-image: images/6-coisas-gratuitas-celebrar-canada-150.jpg
+image: /images/6-coisas-gratuitas-celebrar-canada-150.jpg
 
 ---
 # 5 coisas gratuitas para celebrar o Canada 150

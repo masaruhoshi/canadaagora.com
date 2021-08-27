@@ -9,7 +9,7 @@ categories:
 date: 2014-09-30T13:23:56+00:00
 summary: O que fazer para manter seu filhos ativos mental e fisicamente? O que são atividades para-escolares? Vale a pena investir em cursos em centros comunitários? Conversamos sobre estes e outros assuntos num papo descontraído e totalmente "nada a ver" junto com Henrique, Matsuru e Luiz Henrique que vivem a realidade de ser uma criança no Canadá.
 url: /educacao/vida-alem-da-escola.html
-image: images/programa-3.02.png
+image: /images/programa-3.02.png
 podcast: podeixar
 
 ---

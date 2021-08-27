@@ -9,7 +9,7 @@ categories:
 date: 2019-03-18T13:00:08+00:00
 summary: 'Conheça a capital da província de British Columbia por quem conhece a cidade como ninguém. No ar Cidades do Canadá: Victoria.'
 url: /imigracao/cidades-do-canada-victoria.html
-image: images/podeixar230-cidades-do-canada-victoria.jpg
+image: /images/podeixar230-cidades-do-canada-victoria.jpg
 wps_subtitle:
   - Participação da Priscila, do Embarque com a Pri
 podcast: podeixar

@@ -8,7 +8,7 @@ categories:
 date: 2019-04-29T00:00:05+00:00
 summary: IEC e o Working Holiday Visa. Conheça outras formas de imigrar oferecidas pelo Governo do Canadá que podem ser opções para seu projeto de imigração.
 url: /imigracao/outras-forma-de-imigrar-iec-whv.html
-image: images/podeixar236-outras-formas-de-imigrar.jpg
+image: /images/podeixar236-outras-formas-de-imigrar.jpg
 wps_subtitle:
   - 'IEC: Working Holiday Visa, Young Professionals and International Co-op Internship'
 essb_pc_twitter:

@@ -8,7 +8,7 @@ categories:
 date: 2019-05-28T14:25:06+00:00
 summary: O que é preciso para oficializar o casamento e a separação no Canadá? Quais a restrições? É possível obter a cidadania casando com um canadense?
 url: /cultura/casamento-e-separacao.html
-image: images/podeixar240-casamento-e-divorcio-no-canada-icon.jpg
+image: /images/podeixar240-casamento-e-divorcio-no-canada-icon.jpg
 podcast: podeixar
 
 ---

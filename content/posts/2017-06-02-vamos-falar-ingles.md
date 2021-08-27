@@ -10,7 +10,7 @@ categories:
 date: 2017-06-02T11:20:49+00:00
 summary: Vamos falar inglês! Descubra como se preparar para conseguir uma boa nota no TOELF e IELTS, e aumentar suas chances de morar no Canadá
 url: /cultura/vamos-falar-ingles.html
-image: images/podeixar148.png
+image: /images/podeixar148.png
 podcast: podeixar
 
 ---

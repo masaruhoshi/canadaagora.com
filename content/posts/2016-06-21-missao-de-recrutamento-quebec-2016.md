@@ -8,7 +8,7 @@ categories:
 date: 2016-06-21T16:00:00+00:00
 summary: Tá com bastante purê pra colocar no seu dogão? Não?! Então prepara um pra ficar bem alimentado antes da missão de recrutamento do Québec en tête! Peraí! Você não sabe o que é e nem conhece? Nossa! Já vai separando batata-palha, milho verde e ervilha pra não perder essa.
 url: /trabalho/missao-de-recrutamento-quebec-2016.html
-image: images/quebec-en-tete-missao-recrutamento-2016.png
+image: /images/quebec-en-tete-missao-recrutamento-2016.png
 syn_post_guid:
   - http://purehotdog.com/?p=1471
 syn_source_site_id:

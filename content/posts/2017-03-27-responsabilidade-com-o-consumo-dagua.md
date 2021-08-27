@@ -9,7 +9,7 @@ categories:
 date: 2017-03-27T12:55:34+00:00
 summary: "No Canadá, ainda existem pessoas sem acesso ao consumo d'água potável. Por que isso ainda acontece e por que isso não é um problema isolado?"
 url: /politica/responsabilidade-com-o-consumo-dagua.html
-image: images/responsabilidade-com-o-consumo-dagua.png
+image: /images/responsabilidade-com-o-consumo-dagua.png
 
 ---
 # A responsabilidade do consumo d&#8217;água

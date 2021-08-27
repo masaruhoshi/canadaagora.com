@@ -9,7 +9,7 @@ categories:
 date: 2017-08-13T13:29:05+00:00
 summary: '"Investimento" e "crise" parecem não combinar, mas é aí que você se engana. Conheça 3 atitudes em caso de crise no mercado financeiro.'
 url: /trabalho/3-atitudes-em-caso-de-crise.html
-image: images/3-atitudes-em-caso-de-crise-financeira.png
+image: /images/3-atitudes-em-caso-de-crise-financeira.png
 
 ---
 Excelente texto do nosso Fiscalista Dany Provost. Tradução livre para atuais e futuros investidores.
@@ -42,7 +42,7 @@ Claro, não devemos investir em uma única empresa porque corremos o risco de pe
 
 Depois de terminar de investir, pare de ficar acompanhando o mercado financeiro. A crise pode não acabar e você pode se poupar do estresse. Tenha a audácia de não olhar o desempenho do seu portfólio nos 12 meses seguintes (pelo menos). Eventualmente, você terá uma surpresa agradável. Algo do gênero: &#8220;Ei, querida! Por acaso você contribuiu no meu REER/RRSP no ano passado?&#8221;
 
-Traduzido e adaptado por Andrea Britto – A sua parceira e conselheira em segurança financeira  
+Traduzido e adaptado por Andrea Britto – A sua parceira e conselheira em segurança financeira
 2017-08-11
 
 **Fonte:** <a href="http://www.lesaffaires.com/blogues/dany-provost/3-choses-a-faire-en-cas-de-crise-boursiere/596504" target="_blank" rel="noopener">Les Affaires</a>

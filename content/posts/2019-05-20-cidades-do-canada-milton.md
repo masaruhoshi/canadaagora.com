@@ -8,7 +8,7 @@ categories:
 date: 2019-05-20T13:56:15+00:00
 summary: Conheça a cidade de Milton e descubra quanto custa para morar, a qualidade de vida e como é possível viver com tranquilidade próximo de Toronto.
 url: /turismo/cidades-do-canada-milton.html
-image: images/podeixar239-cidades-do-canada-milton.jpg
+image: /images/podeixar239-cidades-do-canada-milton.jpg
 podcast: podeixar
 
 ---

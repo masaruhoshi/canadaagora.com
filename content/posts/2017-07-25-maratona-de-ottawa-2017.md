@@ -8,7 +8,7 @@ categories:
 date: 2017-07-25T12:00:05+00:00
 summary: Um dia de verão, de muito sol e calor, recebendo a maratona de Ottawa 2017! Perfeito para passear a pé, apreciar a paisagem urbana e curtir uma pizza!
 url: /cotidiano/maratona-de-ottawa-2017.html
-image: images/O-Japa-é-Massa-14.jpeg
+image: /images/O-Japa-é-Massa-14.jpeg
 format: video
 
 ---

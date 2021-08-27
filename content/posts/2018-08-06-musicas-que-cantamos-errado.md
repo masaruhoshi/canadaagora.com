@@ -8,7 +8,7 @@ categories:
 date: 2018-08-06T14:50:17+00:00
 summary: A criatividade, a originalidade e a completa falta de bom senso estão neste programa onde analisamos músicas que cantamos errado.
 url: /cotidiano/musicas-que-cantamos-errado.html
-image: images/podeixar205-musicas-que-cantamos-errado-vol1.jpg
+image: /images/podeixar205-musicas-que-cantamos-errado-vol1.jpg
 podcast: podeixar
 
 ---

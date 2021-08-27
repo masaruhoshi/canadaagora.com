@@ -8,7 +8,7 @@ categories:
 date: 2016-10-10T23:25:29+00:00
 summary: Olá! Meu nome é Andréa e neste post conto como tomei a decisão de vir estudar no Canadá. Falo também um pouco sobre minha experiência profissional no Brasil e como foi que conheci o Berg e o Masaru, criadores do Podeixar e produtores de conteúdo do "Canadá Agora".
 url: /imigracao/cheguei-no-canada.html
-image: images/canada-flag-e1475463249113.jpg
+image: /images/canada-flag-e1475463249113.jpg
 podcast: podeixar
 
 ---

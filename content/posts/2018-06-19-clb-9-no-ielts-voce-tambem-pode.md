@@ -9,7 +9,7 @@ categories:
 date: 2018-06-19T22:00:07+00:00
 summary: Buscando CLB 9 no IELTS? Veja aqui como fiz pra atingir o meu, na 1a tentativa em que fiz o teste com este objetivo. Leia e comente como foi pra você.
 url: /imigracao/clb-9-no-ielts-voce-tambem-pode.html
-image: images/keep-calm-and-ace-ielts-1.png
+image: /images/keep-calm-and-ace-ielts-1.png
 wps_subtitle:
   - 'Ou: ter um professor especialista faz toda a diferença'
 mashsb_custom_tweet:

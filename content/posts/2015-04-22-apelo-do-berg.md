@@ -8,7 +8,7 @@ categories:
 date: 2015-04-22T17:58:17+00:00
 summary: Desde o desaparecimento do Japa, Berg tem dormido pouco e faz um pequeno apelo a quem acompanha o canal
 url: /cotidiano/apelo-do-berg.html
-image: images/OLEM-2-Enquanto-isso-....jpeg
+image: /images/OLEM-2-Enquanto-isso-....jpeg
 format: video
 
 ---

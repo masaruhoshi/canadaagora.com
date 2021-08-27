@@ -8,7 +8,7 @@ categories:
 - turismo
 date: 2013-04-29T04:18:31+00:00
 url: /cotidiano/comendo-em-quebec.html
-image: images/restaurants-girls-night.png
+image: /images/restaurants-girls-night.png
 podcast: podeixar
 
 ---

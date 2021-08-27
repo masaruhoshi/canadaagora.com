@@ -9,7 +9,7 @@ categories:
 date: 2017-11-13T11:30:07+00:00
 summary: O que realmente representa a qualidade de vida, antes e depois de morar no Canadá. Como a percebemos e o que de fato importa.
 url: /cultura/qualidade-de-vida-no-canada.html
-image: images/podeixar170-qualidade-de-vida.jpg
+image: /images/podeixar170-qualidade-de-vida.jpg
 podcast: podeixar
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2016-03-09T00:09:57+00:00
 summary: Com plano ambicioso da imigração Governo do Canadá quer 300 mil novos residentes permanentes ainda em 2016, incluindo imigrantes e refugiados
 url: /imigracao/canada-anuncia-plano-imigracao-2016.html
-image: images/john-mccallum-ministro-da-imigracao-do-canada.jpg
+image: /images/john-mccallum-ministro-da-imigracao-do-canada.jpg
 
 ---
 Quando o atual primeiro ministro, Justin Trudeau, afirmou que seu plano de Governo envolvia principalmente estimular a imigração para o Canadá, muita gente ficou com o pé atrás, achando que era promessa de campanha e coisas do gênero. Mas as medidas que o Governo vêm tomando desde que assumiu levam a crer que isso é sério. Ou pelo menos nas palavras.

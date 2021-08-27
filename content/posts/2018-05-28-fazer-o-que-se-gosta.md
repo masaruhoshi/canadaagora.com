@@ -9,7 +9,7 @@ categories:
 date: 2018-05-28T15:50:42+00:00
 summary: É muito difícil trabalhar com o que se gosta? É preciso abrir mão de ganhar bem para isso? Existe uma data limite para mudar de carreira? Qual o segredo do emprego perfeito? Afinal, o que importa é fazer o que se gosta ou gostar do que se faz?
 url: /cultura/fazer-o-que-se-gosta.html
-image: images/podeixar195-fazer-o-que-se-gosta.jpg
+image: /images/podeixar195-fazer-o-que-se-gosta.jpg
 wps_subtitle:
   - Ou gostar do que se faz?
 mashsb_og_type:

@@ -9,7 +9,7 @@ categories:
 date: 2017-02-10T15:27:15+00:00
 summary: Desvendamos alguns mitos sobre viagem. Viajar sem passaporte? Brasileiro precisa de visto para o Canadá? E como funciona a autorização de menores no Canadá?
 url: /imigracao/viajando-quase-sem-problemas.html
-image: images/podeixar-133-viajando-quase-sem-problemas.png
+image: /images/podeixar-133-viajando-quase-sem-problemas.png
 podcast: podeixar
 
 ---

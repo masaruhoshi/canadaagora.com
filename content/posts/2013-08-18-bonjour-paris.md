@@ -8,7 +8,7 @@ categories:
 date: 2013-08-18T16:00:23+00:00
 summary: Nosso querido Pedro volta neste programa acompanhado da sua querida esposa e nos conta como foi passear no Velho Mundo e conhecer cidades como Paris, Londres e Luxemburgo numa viagem apaixonante e cheia de histórias pra contar.
 url: /turismo/bonjour-paris.html
-image: images/programa-71-post.png
+image: /images/programa-71-post.png
 post_to_facebook_page:
   - 0
   - 0

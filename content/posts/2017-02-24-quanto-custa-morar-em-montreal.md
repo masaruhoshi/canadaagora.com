@@ -9,7 +9,7 @@ categories:
 date: 2017-02-24T16:37:40+00:00
 summary: Montréal é a maior cidade do Québec e a segunda maior do Canadá. Destino de milhares de pessoas todos os anos, descubra quanto custa morar em Montréal.
 url: /cultura/quanto-custa-morar-em-montreal.html
-image: images/quanto-custa-morar-em-montreal.png
+image: /images/quanto-custa-morar-em-montreal.png
 
 ---
 # Quanto custa morar em Montréal

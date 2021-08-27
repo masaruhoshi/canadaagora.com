@@ -8,7 +8,7 @@ categories:
 date: 2018-04-23T12:28:27+00:00
 summary: Os defeitos brasileiros e onde eles podem te levar. Qual o maior defeito dos brasileiros aos olhos do canadense? Quando o brasileiro deixa de ser simpático e passa a ser um problema? O que é exagero e o que temos que deixar de fazer a todo custo?
 url: /cultura/defeitos-brasileiros.html
-image: images/podeixar190-defeitos-brasileiros.jpg
+image: /images/podeixar190-defeitos-brasileiros.jpg
 podcast: podeixar
 
 ---

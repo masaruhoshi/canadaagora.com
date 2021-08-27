@@ -9,7 +9,7 @@ categories:
 date: 2017-07-06T12:52:52+00:00
 summary: Papel é algo que não acaba e nunca temos coragem de jogar com medo de precisar no futuro. Confira algumas dicas para organizar documentos e papéis em geral.
 url: /economia/dicas-para-organizar-documentos-e-papeladas-em-geral.html
-image: images/dicas-para-organizar-documentos-e-papeladas-em-geral-1.jpg
+image: /images/dicas-para-organizar-documentos-e-papeladas-em-geral-1.jpg
 
 ---
 Você provavelmente deve ter mais papéis do que precisa em casa. Recibos, notas fiscais, diplomas, certidões, etc. Um monte de papel que não acaba mais que você não tem coragem de jogar fora porque não sabe se vai precisar. Se você se sente assim, este artigo é para você. Confira algumas dicas para organizar documentos e papeladas em geral.

@@ -8,7 +8,7 @@ categories:
 date: 2015-03-24T12:05:50+00:00
 summary: Imigrar por si só já é uma tarefa e tanto por conta de todas as coisas diferentes que se encontra ao chegar no país. Mas e o que acontece antes disso, quando resolvemos avisar aos nossos pais e parentes que não estaremos por perto tanto quanto antes? Chegou a hora de falar sobre o que é viver longe da família.
 url: /cotidiano/vivendo-longe-da-familia.html
-image: images/programa-4.01.png
+image: /images/programa-4.01.png
 podcast: podeixar
 
 ---

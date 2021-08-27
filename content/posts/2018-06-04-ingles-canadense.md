@@ -9,7 +9,7 @@ categories:
 date: 2018-06-04T17:37:15+00:00
 summary: Seja bem vindo ao "Oh My English!", um programa exclusivo produzido pelo Canadá Agora. Neste episódio, vamos falar sobre o Inglês Canadense. Ele é muito diferente do americano? Como se falam os nomes das cidades canadense? E qual a influência do francês nisso tudo?
 url: /educacao/ingles-canadense.html
-image: images/ohmyenglish1-ingles-canadense.jpg
+image: /images/ohmyenglish1-ingles-canadense.jpg
 wps_subtitle:
   - e outras curiosidades
 podcast: podeixar

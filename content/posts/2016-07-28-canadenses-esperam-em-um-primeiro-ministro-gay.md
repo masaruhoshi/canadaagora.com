@@ -9,7 +9,7 @@ categories:
 date: 2016-07-28T13:22:05+00:00
 summary: Uma nova pesquisa revelou que a maioria dos Canadenses acreditam que é provável que um primeiro-ministro gay seja eleito na próxima década.
 url: /politica/canadenses-esperam-em-um-primeiro-ministro-gay.html
-image: images/canada-gay-flags.jpg
+image: /images/canada-gay-flags.jpg
 syn_post_guid:
   - http://mjconsultoria.com.br/?p=3025
 syn_source_site_id:

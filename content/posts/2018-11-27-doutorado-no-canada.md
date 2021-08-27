@@ -8,7 +8,7 @@ categories:
 date: 2018-11-27T15:00:52+00:00
 summary: Entenda como funciona, onde procurar, quanto custa, quais os requisitos e tudo o mais que envolve fazer um doutorado no Canadá.
 url: /educacao/doutorado-no-canada.html
-image: images/podeixar220-doutorado-no-canada.jpg
+image: /images/podeixar220-doutorado-no-canada.jpg
 podcast: podeixar
 
 ---

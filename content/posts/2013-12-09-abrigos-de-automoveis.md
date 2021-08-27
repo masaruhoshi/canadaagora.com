@@ -10,7 +10,7 @@ date: 2013-12-09T05:21:27+00:00
 summary: |
   Símbolos do inverno, essas estruturas de metal e lona são presentes cada vez mais em cidades por toda a província do Québec e alguns cantos de Ontario. Mas, será que o tal abri d'auto realmente é algo que se vale a pena investir ou é "tapar o sol com a paneira" e esperar que o melhor aconteça?
 url: /clima/abrigos-de-automoveis.html
-image: images/programa-2.11-post.png
+image: /images/programa-2.11-post.png
 podcast: podeixar
 
 ---

@@ -9,7 +9,7 @@ categories:
 date: 2017-10-16T12:27:37+00:00
 summary: Acidentes no trânsito podem ocorrer com qualquer um. Mas e quando isso é a -25C e o socorro vai demorar? Conheça o Kit de emergência de inverno.
 url: /clima/kit-de-emergencia-de-inverno.html
-image: images/podeixar166-kit-de-emergencia-de-inverno.jpg
+image: /images/podeixar166-kit-de-emergencia-de-inverno.jpg
 podcast: podeixar
 
 ---

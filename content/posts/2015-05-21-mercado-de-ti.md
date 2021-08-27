@@ -8,7 +8,7 @@ categories:
 date: 2015-05-21T16:06:09+00:00
 summary: Como está e como funciona o mercado de tecnologia de informação no Canadá?
 url: /trabalho/mercado-de-ti.html
-image: images/Perguntas-e-Respostas-2-Mercado-de-TI.jpeg
+image: /images/Perguntas-e-Respostas-2-Mercado-de-TI.jpeg
 format: video
 
 ---

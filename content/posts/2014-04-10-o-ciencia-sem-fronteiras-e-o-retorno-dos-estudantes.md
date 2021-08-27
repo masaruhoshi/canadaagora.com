@@ -8,7 +8,7 @@ categories:
 date: 2014-04-10T15:06:28+00:00
 summary: 'Alunos inscritos no programa Ciência sem Fronteiras são obrigados a voltar ao Brasil por não obterem nota mínima necessária no exame de proficiência em inglês. '
 url: /cultura/o-ciencia-sem-fronteiras-e-o-retorno-dos-estudantes.html
-image: images/estudante-triste-mochila.jpg
+image: /images/estudante-triste-mochila.jpg
 
 ---
 Galera, francamente. Hoje vindo trabalhar, conversando com a Mar ela me contou que o programa Ciência sem Fronteiras do Governo do Brasil estaria obrigando retornar ao país algumas centenas de estudantes que foram selecionados para o processo e que já estão estudando nos países para onde foram selecionados há cerca de alguns meses.

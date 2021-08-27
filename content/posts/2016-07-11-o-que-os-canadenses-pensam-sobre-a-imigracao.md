@@ -9,7 +9,7 @@ categories:
 date: 2016-07-11T23:07:03+00:00
 summary: O Governo do Canadá quer saber o que os canadenses pensam sobre a imigração, o seu significado para o Canadá, e como a Nação pode continuar a crescer.
 url: /imigracao/o-que-os-canadenses-pensam-sobre-a-imigracao.html
-image: images/bandeira-canada-multi-cultural.png
+image: /images/bandeira-canada-multi-cultural.png
 syn_post_guid:
   - http://mjconsultoria.com.br/?p=2960
 syn_source_site_id:

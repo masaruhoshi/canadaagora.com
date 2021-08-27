@@ -8,7 +8,7 @@ categories:
 date: 2016-09-19T12:00:10+00:00
 summary: Cotidiano, compras, transporte, trabalho. O programa desta semana traz uma série de curiosidades sobre diversos assunto sobre a vida no Canadá
 url: /cotidiano/curiosidades-da-vida-no-canada.html
-image: images/podeixar131.png
+image: /images/podeixar131.png
 
 podcast: podeixar
 

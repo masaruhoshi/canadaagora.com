@@ -8,7 +8,7 @@ categories:
 date: 2016-08-19T13:31:26+00:00
 summary: Fomos passar as férias no parque de Sandbanks e aproveitamos para conhecer as paradisíacas e deliciosas praias de Sandbanks
 url: /turismo/sandbanks-praia-e-natureza-em-harmonia.html
-image: images/ontario-prince-edward-county-sandbanks-outlet-beach.png
+image: /images/ontario-prince-edward-county-sandbanks-outlet-beach.png
 
 ---
 No verão deste ano resolvemos conhecer o que está se tornando o paraíso para muitos brasileiros que querem aproveitar bons dias de praia sem ter que pegar um avião para ir ao México, Jamaica, República Dominicana nem encarar as águas não tão quentes do Maine. Estamos falando da praia de Sandbanks, em Prince Edward County, Ontário.

@@ -8,7 +8,7 @@ categories:
 date: 2014-02-25T05:21:25+00:00
 summary: Falar sobre dinheiro é um assunto que interessa a todo mundo. Afinal de contas, todo mundo precisa dele pra viver e qualquer forma de economizar ou de fazer os seu suados dólares renderem um pouco mais é informação que vale ouro. Conheça José Roberto Barros Junior, consultor financeiro e morador do Canadá, que vai nos contar algumas das formas de investimentos e de maximar sua renda por aqui.
 url: /economia/investindo-no-canada.html
-image: images/programa-2.17-post.png
+image: /images/programa-2.17-post.png
 podcast: podeixar
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2017-02-02T13:00:30+00:00
 summary: Há quem pense que mudar de país é a solução de todos os problemas e esquece do principal. Como ser feliz no Canadá (ou em qualquer outro lugar)?
 url: /cultura/como-ser-feliz-no-canada.html
-image: images/como-ser-feliz-no-canada.png
+image: /images/como-ser-feliz-no-canada.png
 
 ---
 # Como ser feliz no Canadá (ou em qualquer lugar)

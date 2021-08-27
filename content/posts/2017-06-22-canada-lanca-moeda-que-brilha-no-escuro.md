@@ -9,7 +9,7 @@ categories:
 date: 2017-06-22T19:39:19+00:00
 summary: Além das inúmeras festividades e celebrações para comemorar os 150 anos do país, o Canadá lança moeda que brilha no escuro!
 url: /noticias/canada-lanca-moeda-que-brilha-no-escuro.html
-image: images/Proudly-Canadian-Hold-the-Moment.jpeg
+image: /images/Proudly-Canadian-Hold-the-Moment.jpeg
 format: video
 
 ---

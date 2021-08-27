@@ -8,7 +8,7 @@ categories:
 date: 2013-11-11T03:08:29+00:00
 summary: No último capítulo da série "O Canadá por quem não mora no Canadá", visitamos a cidade de Calgary, juntamente com um casal de amigos que moram por lá há 5 anos, com quem tivemos o prazer de passar ótimos dias juntos. Conheça a capital do petróleo do Canadá. Descubra porquê tanta gente tem ido morar por lá e saiba se realmente esse é o novo El Dorado da imigração.
 url: /turismo/o-canada-por-quem-nao-mora-no-canada-calgary.html
-image: images/programa-2.07-post.png
+image: /images/programa-2.07-post.png
 post_to_facebook_page:
   - 0
   - 0

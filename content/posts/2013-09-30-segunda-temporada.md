@@ -8,7 +8,7 @@ categories:
 date: 2013-10-01T02:55:27+00:00
 summary: Parece que foi mês passado que gravamos aquele primeiro programa, com quase 2 horas de duração, sem qualquer preparo, somente com a vontade de fazer algo que fosse útil para as pessoas, algo que lhes permitisse conhecerem um pouco sobre como é a vida neste norte tão distante e quem sabe fazer a diferença nas suas vidas. Foram 365 dias, mais de 100 horas de programas, 350 GB de conteúdos baixados e mais de 100,000 visitas. E isto é apenas o começo! Esta segunda temporada vai ser incrível e você não pode perder!
 url: /cotidiano/segunda-temporada.html
-image: images/programa-2.01-post.png
+image: /images/programa-2.01-post.png
 post_to_facebook_page:
   - 0
   - 0

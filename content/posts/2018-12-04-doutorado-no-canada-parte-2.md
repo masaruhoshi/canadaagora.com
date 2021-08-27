@@ -8,7 +8,7 @@ categories:
 date: 2018-12-04T15:00:04+00:00
 summary: Ainda falando sobre doutorado no Canadá, a pesquisa científica no Canadá, a imagem do brasileiro no exterior, as perspectivas e o retorno para o Brasil.
 url: /educacao/doutorado-no-canada-parte-2.html
-image: images/podeixar221-doutorado-no-canada-parte-2.jpg
+image: /images/podeixar221-doutorado-no-canada-parte-2.jpg
 podcast: podeixar
 
 ---

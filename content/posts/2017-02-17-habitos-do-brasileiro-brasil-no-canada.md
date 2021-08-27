@@ -9,7 +9,7 @@ categories:
 date: 2017-02-17T16:16:15+00:00
 summary: Mudança de país, mudança de hábitos. Neste programa exploramos comportamentos de brasileiros no Brasil e no Canadá e como a nossa percepção também muda.
 url: /cultura/habitos-do-brasileiro-brasil-no-canada.html
-image: images/podeixar134.png
+image: /images/podeixar134.png
 podcast: podeixar
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2019-09-23T10:59:15+00:00
 summary: Como é trabalhar como arquiteto no Canadá e as possibilidades de trabalho mesmo sem ter esse registro nas Associações de Profissionais de arquitetura.
 url: /trabalho/arquitetura-no-canada.html
-image: images/podeixar249-arquitetura-no-canada.jpg
+image: /images/podeixar249-arquitetura-no-canada.jpg
 podcast: podeixar
 
 ---

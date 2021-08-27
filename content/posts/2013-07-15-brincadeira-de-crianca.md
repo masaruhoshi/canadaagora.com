@@ -9,7 +9,7 @@ categories:
 date: 2013-07-15T04:18:24+00:00
 summary: O que é a vida no Canadá no olhar de uma criança que nem sabia o que era o país quando seus pais resolveram imigrar para lá? Ninguém melhor pra responder essa pergunta do que (de fato) uma criança! Nosso entrevistado-miriam responde dezenas de perguntas que contam o que é a sua vida e como ele enxerga este lugar onde ele mora agora.
 url: /educacao/brincadeira-de-crianca.html
-image: images/podeixar66-brincadeira-de-crianca.png
+image: /images/podeixar66-brincadeira-de-crianca.png
 post_to_facebook_page:
   - 0
   - 0

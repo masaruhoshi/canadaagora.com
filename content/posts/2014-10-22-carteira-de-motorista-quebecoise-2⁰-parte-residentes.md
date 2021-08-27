@@ -6,7 +6,7 @@ type: post
 date: 2014-10-22T18:20:00+00:00
 summary: Continuando o nosso post sobre carteira de motorista, vamos explicar agora como é o sistema para residentes permanentes.
 url: /cotidiano/carteira-de-motorista-quebecoise-2⁰-parte-residentes.html
-image: images/carteira-motorista-quebec.png
+image: /images/carteira-motorista-quebec.png
 syn_post_guid:
   - http://automoveisquebec.com/?p=1603
 syn_source_site_id:

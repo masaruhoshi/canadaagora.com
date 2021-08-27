@@ -9,7 +9,7 @@ categories:
 date: 2017-07-04T17:27:07+00:00
 summary: Existe uma grande diferença entre manter sua cultura e tentar impô-la aos outros. Conheça 7 atitudes brasileiras que dificultam a vida no exterior.
 url: /cultura/7-atitudes-brasileiras-que-dificultam-vida-no-exterior.html
-image: images/7-atitudes-brasileiras-que-dificultam-vida-no-exterior.jpg
+image: /images/7-atitudes-brasileiras-que-dificultam-vida-no-exterior.jpg
 
 ---
 Salut, salut!

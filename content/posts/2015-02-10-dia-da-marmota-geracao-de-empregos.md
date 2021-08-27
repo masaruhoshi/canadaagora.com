@@ -9,7 +9,7 @@ categories:
 date: 2015-02-10T19:00:08+00:00
 summary: 'No dia da marmota deste ano nem Willie nem Sam se entenderam e parece que a neve não vai dar descanso tão cedo. Ainda: os primeiros aprovados no Express Entry. Nova Scotia lança seu novo processo de imigração e o Québec revê seus planos para novos imigrantes.'
 url: /cultura/dia-da-marmota-geracao-de-empregos.html
-image: images/programa00003.png
+image: /images/programa00003.png
 format: video
 
 ---

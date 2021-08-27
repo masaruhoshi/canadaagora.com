@@ -9,7 +9,7 @@ categories:
 date: 2017-02-02T03:22:04+00:00
 summary: Apesar de não ser imune à corrupção, Canadá fica em nono lugar no ranking mundial de combate à corrupção e à impunidade, o melhor das Américas.
 url: /politica/canada-um-dos-melhores-na-luta-contra-corrupcao.html
-image: images/canada-um-dos-melhores-na-luta-contra-corrupcao.png
+image: /images/canada-um-dos-melhores-na-luta-contra-corrupcao.png
 syn_post_guid:
   - http://mjconsultoria.com.br/?p=3297
 syn_source_site_id:

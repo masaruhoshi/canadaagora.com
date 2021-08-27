@@ -8,7 +8,7 @@ categories:
 date: 2017-12-25T11:30:20+00:00
 summary: Ver seus planos indo por água abaixo não é nada agradável. Mas aprender a virar a página e seguir em frente pode ser tão importante quanto simplesmente vencer.
 url: /cultura/virar-pagina-e-seguir-em-frente.html
-image: images/podeixar175-virar-a-pagina-e-seguir-em-frente.jpg
+image: /images/podeixar175-virar-a-pagina-e-seguir-em-frente.jpg
 podcast: podeixar
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2014-08-27T00:21:20+00:00
 summary: 'Você já conhece seu médico, já começou a receber as orientações do centro de saúde e tudo corre conforme o esperado. A barriga vai crescendo e a futura mamãe se prepara para a chegada do seu  bebê canadense. Será que dá pra fazer ginástica, yoga, natação, meditação e coisas do gênero? O que é uma doula? É possível ter uma? E quando? E ainda: dicas sobre como fazer suas compras e ainda economizar!'
 url: /cotidiano/se-preparando-para-o-parto.html
-image: images/podeixetes.3.01-post.png
+image: /images/podeixetes.3.01-post.png
 podcast: podeixar
 
 ---

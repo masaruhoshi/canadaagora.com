@@ -8,7 +8,7 @@ categories:
 date: 2017-01-06T23:55:01+00:00
 summary: Uma lista de músicos, cineastas, dramaturgos, escritos, livros e muito mais recomendada para quem quer se aprofundar na cultura do Québec
 url: /cultura/mergulhando-na-cultura-do-quebec.html
-image: images/mergulhando-na-cultura-do-quebec.png
+image: /images/mergulhando-na-cultura-do-quebec.png
 
 ---
 # Mergulhando na cultura do Québec

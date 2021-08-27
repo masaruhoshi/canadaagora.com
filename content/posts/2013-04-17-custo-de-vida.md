@@ -7,7 +7,7 @@ categories:
 - economia
 date: 2013-04-18T02:52:29+00:00
 url: /economia/custo-de-vida.html
-image: images/budget-canada-pig-bank.jpg
+image: /images/budget-canada-pig-bank.jpg
 podcast: podeixar
 
 ---

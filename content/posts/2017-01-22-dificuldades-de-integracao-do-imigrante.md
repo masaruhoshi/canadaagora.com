@@ -8,7 +8,7 @@ categories:
 date: 2017-01-23T04:33:15+00:00
 summary: Descubra porque os principais problemas enfrentados por imigrantes estão relacionados com as dificuldades de integração à sociedade que os acolhem
 url: /imigracao/dificuldades-de-integracao-do-imigrante.html
-image: images/dificuldades-da-integracao-do-imigrante.png
+image: /images/dificuldades-da-integracao-do-imigrante.png
 
 ---
 # Dificuldades de integração do imigrante

@@ -8,7 +8,7 @@ categories:
 date: 2019-10-04T16:06:34+00:00
 summary: Conheça o que é o Amber Alert, porque ele não pode ser ignorado e como você pode contribuir para ajudar a encontrar crianças desaparecidas.
 url: /cultura/voce-sabe-o-que-e-o-amber-alert.html
-image: images/ambert-alert.jpg
+image: /images/ambert-alert.jpg
 wps_subtitle:
   - 'A importância do Amber Alert '
 

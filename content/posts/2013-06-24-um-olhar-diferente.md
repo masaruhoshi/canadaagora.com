@@ -8,7 +8,7 @@ categories:
 date: 2013-06-24T16:26:50+00:00
 summary: 'O programa desta semana fala sobre como é o Canadá do ponto de vista de uma pessoa que vem conhecê-lo pela primeira vez e que não a intenção de viver aqui. E mais: nada de passeios de turista. A idéia é conhecer realmente como a gente vive e como a gente se adaptou nesses anos por aqui. E de lambuja: conheça o toque de celular do Japa.'
 url: /cotidiano/um-olhar-diferente.html
-image: images/programa-63.png
+image: /images/programa-63.png
 podcast: podeixar
 
 ---

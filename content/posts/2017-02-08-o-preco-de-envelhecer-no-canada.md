@@ -8,7 +8,7 @@ categories:
 date: 2017-02-08T12:29:52+00:00
 summary: A população canadense já é em sua maioria de idosos. Descubra seus benefícios e como se preparar para envelhecer no Canadá
 url: /cultura/o-preco-de-envelhecer-no-canada.html
-image: images/o-preco-de-envelhecer-no-canada.png
+image: /images/o-preco-de-envelhecer-no-canada.png
 podcast: podeixar
 
 ---

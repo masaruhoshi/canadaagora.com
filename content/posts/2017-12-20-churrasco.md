@@ -8,7 +8,7 @@ categories:
 date: 2017-12-20T11:00:55+00:00
 summary: Comme nous disons en portugais, le churrasco est une passion nationale. In this episode we talk about what makes it so different and so unique.
 url: /cultura/churrasco.html
-image: images/franglish-9-churrasco.jpg
+image: /images/franglish-9-churrasco.jpg
 podcast: podeixar
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2013-07-01T03:11:11+00:00
 summary: Sempre trazendo novidades e buscando o melhor conteúdo pra todo mundo, o programa de hoje conta com a presença e a introdução da nossa mais nova integrante, contando tudo o que há de bom e de furada na grande cidade de Montréal. Senhoras e senhores, com vocês, Priscilla Fogiato.
 url: /cotidiano/em-montreal.html
-image: images/programa-64.png
+image: /images/programa-64.png
 post_to_facebook_page:
   - 0
   - 0

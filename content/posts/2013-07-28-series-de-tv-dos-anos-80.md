@@ -9,7 +9,7 @@ categories:
 date: 2013-07-29T01:27:37+00:00
 summary: 'Programa nada a ver onde a gente fala sobre as séries que marcaram a nossa infância e que ainda hoje insistimos em dizer que são legais mesmo com efeitos especiais que a gente pode fazer com papel alumínio e isopor, com orçamento que daria pra comprar um pizza pra 8 pessoas. '
 url: /cultura/series-de-tv-dos-anos-80.html
-image: images/programa-68-site.png
+image: /images/programa-68-site.png
 post_to_facebook_page:
   - 0
   - 0

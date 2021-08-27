@@ -10,7 +10,7 @@ categories:
 date: 2017-06-14T02:41:24+00:00
 summary: Um novo programa do Governo do Canadá facilita o processo para contratar trabalhadores estrangeiros. Descubra como você pode ganhar com isso!
 url: /noticias/contratar-trabalhadores-estrangeiros-fica-mais-facil.html
-image: images/contratar-trabalhadores-estrangeiros-fica-mais-facil.jpg
+image: /images/contratar-trabalhadores-estrangeiros-fica-mais-facil.jpg
 
 ---
 # Contratar trabalhadores estrangeiros fica mais fácil

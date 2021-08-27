@@ -9,7 +9,7 @@ categories:
 date: 2017-10-11T05:47:14+00:00
 summary: 'Depois de muito tempo sumida, voltei pra contar pra vocês como foi arranjar o meu primeiro emprego, na minha área de forma, em Vancouver, depois de ter feito College em Toronto. Fugindo do meu usual, este texto não está muito longo - mas só porque deixei muitas coisas pra contar nos próximos capítulos. Bora começar?'
 url: /trabalho/pgwp-o-primeiro-emprego-apos-o-college.html
-image: images/Vancouver-townhomes.jpg
+image: /images/Vancouver-townhomes.jpg
 wps_subtitle:
   - Como foi conseguir o primeiro trabalho após concluir o College no Canadá
 mashsb_custom_tweet:

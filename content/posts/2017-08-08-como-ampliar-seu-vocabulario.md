@@ -9,7 +9,7 @@ categories:
 date: 2017-08-09T02:44:33+00:00
 summary: Aprenda estratégias para ampliar o seu vocabulário e melhorar o seu inglês de forma simples e prática.
 url: /cultura/como-ampliar-seu-vocabulario.html
-image: images/english-2.png
+image: /images/english-2.png
 wps_subtitle:
   - Estratégias para aprender novas palavras
 

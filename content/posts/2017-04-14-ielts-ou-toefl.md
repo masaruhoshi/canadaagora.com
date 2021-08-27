@@ -9,7 +9,7 @@ categories:
 date: 2017-04-14T15:53:51+00:00
 summary: Neste post vamos tentar esclarecer uma das dúvidas que mais aflige os interessados em estudar no Canadá.
 url: /cotidiano/ielts-ou-toefl.html
-image: images/dúvida.png
+image: /images/dúvida.png
 
 ---
 ## **Qual exame fazer? **

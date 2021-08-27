@@ -8,7 +8,7 @@ categories:
 date: 2016-02-08T11:10:02+00:00
 summary: 'PoDeixar 126 - Uber no Canadá, Walmart cobrando por sacolas plástica e o estrago da neve nos EUA'
 url: /clima/podeixar-126-uber-no-canada-cobranca-por-sacolas-plasticas-e-neve-nos-eua.html
-image: images/podeixar126.png
+image: /images/podeixar126.png
 podcast: podeixar
 
 ---

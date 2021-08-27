@@ -8,7 +8,7 @@ categories:
 date: 2017-10-09T18:49:46+00:00
 summary: Como os imigrantes acabam afetados pelo consumo? E o tal do minimalismo é para qualquer um? E você? Se acha uma pessoa minimalista ou consumista?
 url: /cultura/minimalismo-e-consumismo.html
-image: images/podeixar165-minimalismo-consumismo.png
+image: /images/podeixar165-minimalismo-consumismo.png
 podcast: podeixar
 
 ---

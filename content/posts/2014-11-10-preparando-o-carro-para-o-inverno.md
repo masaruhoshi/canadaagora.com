@@ -9,7 +9,7 @@ categories:
 date: 2014-11-11T00:23:00+00:00
 summary: O inverno está chegando, algumas cidades já receberam os primeiros flocos de neve e se existe uma coisa que é certa aqui nas terras geladas é o frio. Mas quais os cuidados que devemos ter com nossos carros?
 url: /clima/preparando-o-carro-para-o-inverno.html
-image: images/retrovisor-carro-congelado.png
+image: /images/retrovisor-carro-congelado.png
 syn_post_guid:
   - http://automoveisquebec.com/?p=1666
 syn_source_site_id:

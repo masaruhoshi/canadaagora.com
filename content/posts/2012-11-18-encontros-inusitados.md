@@ -7,7 +7,7 @@ categories:
 - cotidiano
 date: 2012-11-19T02:50:31+00:00
 url: /cotidiano/encontros-inusitados.html
-image: images/2012/11/crying-baby.jpg
+image: /images/2012/11/crying-baby.jpg
 podcast: podeixar
 
 ---

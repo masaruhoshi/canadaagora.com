@@ -8,7 +8,7 @@ categories:
 date: 2019-05-03T13:00:43+00:00
 summary: O Governo Trudeau assinou 366 compromissos quando assumiu o poder. Como estão essas promessas hoje? Acompanhe um panorama do Governo Trudeau
 url: /politica/um-panorama-do-governo-trudeau.html
-image: images/governo-trudeau.jpg
+image: /images/governo-trudeau.jpg
 
 ---
 O governo liberal de Justin Trudeau assinou 366 compromissos com o povo canadense desde o início do seu mandato. É o governo que mais fez promessas aos canadenses.

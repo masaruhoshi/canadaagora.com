@@ -9,7 +9,7 @@ categories:
 date: 2018-05-30T12:23:48+00:00
 summary: Arrogante, hipócrita, aproveitador e injustamente favorecido por Ottawa. O sentimento anti-Quebec é a oposição ou hostilidade ao governo, à cultura ou ao povo francófono do Quebec. Mas será que a culpa é unicamente do Quebec?
 url: /politica/anti-quebec-odio-a-belle-province.html
-image: images/anti-quebec-odio-a-belle-province.jpg
+image: /images/anti-quebec-odio-a-belle-province.jpg
 
 ---
 Arrogante, hipócrita, aproveitador e injustamente favorecido por Ottawa.

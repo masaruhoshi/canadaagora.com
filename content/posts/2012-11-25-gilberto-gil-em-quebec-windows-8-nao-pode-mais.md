@@ -7,7 +7,7 @@ categories:
 - cotidiano
 date: 2012-11-25T23:28:32+00:00
 url: /cotidiano/gilberto-gil-em-quebec-windows-8-nao-pode-mais.html
-image: images/2012/11/gilberto-gil.jpg
+image: /images/2012/11/gilberto-gil.jpg
 podcast: podeixar
 
 ---

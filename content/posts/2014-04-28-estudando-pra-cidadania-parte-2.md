@@ -8,7 +8,7 @@ categories:
 date: 2014-04-29T03:36:47+00:00
 summary: Chega de Pedro Alvares Cabral e o tratado de Tordesilhas. Agora é a hora de falar sobre franceses, ingleses e a conquista das Terras Canadenses! Você vai descobrir que a pancaria rolou solta com os Estados Unidos e que jogar vídeo-game valeu muito mais pra sua cultura do que você pensa.
 url: /cultura/estudando-pra-cidadania-parte-2.html
-image: images/programa-2.24-post.png
+image: /images/programa-2.24-post.png
 podcast: podeixar
 
 ---

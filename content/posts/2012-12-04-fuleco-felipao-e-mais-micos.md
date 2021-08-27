@@ -7,7 +7,7 @@ categories:
 - cotidiano
 date: 2012-12-05T04:34:13+00:00
 url: /cotidiano/fuleco-felipao-e-mais-micos.html
-image: images/2012/12/felipao-afp.jpg
+image: /images/2012/12/felipao-afp.jpg
 podcast: podeixar
 
 ---

@@ -6,7 +6,7 @@ type: post
 date: 2018-02-26T07:16:00+00:00
 summary: 'Toronto vs. Vancouver: esta é uma comparação que se faz com frequência quando se fala em imigrar para o Canadá. Mas será que são mesmo cidades comparáveis? Por achar que não, eu optei por falar de pontos positivos de Vancouver, se comparada a Toronto. Leia e compartilhe com a gente a sua opinião.'
 url: /artigos/toronto-vs-vancouver-1.html
-image: images/vancouver-1.jpg
+image: /images/vancouver-1.jpg
 wps_subtitle:
   - 'Ou: tentando não fazer uma comparação indevida'
 

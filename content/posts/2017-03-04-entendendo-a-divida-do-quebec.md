@@ -8,7 +8,7 @@ categories:
 date: 2017-03-04T18:41:48+00:00
 summary: Apesar do que muitos acreditam, o Québec não é uma província pobre e sem recursos. Descubra o que levou à dívida do Québec nos dias de hoje.
 url: /economia/entendendo-a-divida-do-quebec.html
-image: images/La-dette-du-Québec-vous-fait-peur-Écoutez-ceci..jpeg
+image: /images/La-dette-du-Québec-vous-fait-peur-Écoutez-ceci..jpeg
 format: video
 
 ---

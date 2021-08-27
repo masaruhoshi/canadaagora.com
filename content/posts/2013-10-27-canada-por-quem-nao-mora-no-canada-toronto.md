@@ -8,7 +8,7 @@ categories:
 date: 2013-10-27T22:02:07+00:00
 summary: 'Chegamos finalmente à capital da província de Ontário: Toronto! Faltou programa pra falar de tudo o que esta cidade oferece. Naquele que deve ser o melhor programa da série "Canada por quem não mora no Canadá" até agora, tagarelamos sobre esta cidade linda e excitante cidade em mais de 1 hora de programa e comparamos tudo o que vimos por lá e jogamos na balança os prós e contras em viver na maior cidade do Canadá. Trânsito, mercado de trabalho, diversão, e claro, comida! '
 url: /turismo/canada-por-quem-nao-mora-no-canada-toronto.html
-image: images/programa-2.05-fb.png
+image: /images/programa-2.05-fb.png
 post_to_facebook_page:
   - 0
   - 0

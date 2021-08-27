@@ -8,7 +8,7 @@ categories:
 date: 2018-08-27T15:00:00+00:00
 summary: Conversamos sobre rótulos e papéis. Quando acabamos nos tornando algo definindo nosso papel na sociedade? Nascemos rotulados? Rótulos são para sempre?
 url: /cultura/rotulos-e-papeis.html
-image: images/podeixar208-rotulos-e-papeis.jpg
+image: /images/podeixar208-rotulos-e-papeis.jpg
 podcast: podeixar
 
 ---

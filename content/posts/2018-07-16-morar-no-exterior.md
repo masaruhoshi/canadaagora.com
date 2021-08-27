@@ -8,7 +8,7 @@ categories:
 date: 2018-07-16T15:00:55+00:00
 summary: 'Vamos falar sobre morar no exterior: Expectativa vs Realidade. O que é legal no Canadá, as grandes decepções, o choque de realidade, as drogas e o inverno.'
 url: /imigracao/morar-no-exterior.html
-image: images/podeixar202-viver-no-exterior-expectativa-vs-realidade.jpg
+image: /images/podeixar202-viver-no-exterior-expectativa-vs-realidade.jpg
 wps_subtitle:
   - Expectativa vs Realidade
 podcast: podeixar

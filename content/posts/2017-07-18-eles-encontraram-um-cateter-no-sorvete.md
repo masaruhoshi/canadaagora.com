@@ -8,7 +8,7 @@ categories:
 date: 2017-07-18T18:20:36+00:00
 summary: Uma família em Québec acabou sendo vítima de um caso bizarro quando eles encontraram um catéter no sorvete que tomavam durante o final de semana
 url: /noticias/eles-encontraram-um-cateter-no-sorvete.html
-image: images/carole-anne-christofferson.png
+image: /images/carole-anne-christofferson.png
 wps_subtitle:
   - A família comemorava a chegada do novo bebê quando se deparou com esta situação
 

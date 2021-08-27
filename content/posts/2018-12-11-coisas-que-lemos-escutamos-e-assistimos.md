@@ -8,7 +8,7 @@ categories:
 date: 2018-12-11T15:30:25+00:00
 summary: Dicas sobre canais no YouTube, podcasts e livros que os acompanham na nossa busca diária sobre todas as coisas que lemos, escutamos e assistimos.
 url: /cultura/coisas-que-lemos-escutamos-e-assistimos.html
-image: images/podeixar222-coisas-que-lemos-e-ouvimos.jpg
+image: /images/podeixar222-coisas-que-lemos-e-ouvimos.jpg
 podcast: podeixar
 
 ---

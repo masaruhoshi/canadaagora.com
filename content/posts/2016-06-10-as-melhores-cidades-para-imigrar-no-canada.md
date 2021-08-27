@@ -8,7 +8,7 @@ categories:
 date: 2016-06-10T12:00:46+00:00
 summary: 'Quais são as melhores cidades do Canadá para quem está pensando em imigrar? '
 url: /imigracao/as-melhores-cidades-para-imigrar-no-canada.html
-image: images/canada-melhores-cidades-recem-chegados.png
+image: /images/canada-melhores-cidades-recem-chegados.png
 
 ---
 A revista Money Sense, conhecida por publicar diversas pesquisas sobre qualidade de vida e economia publicou o que devem ser as melhores cidades para imigrar para o Canadá quando você é recém-chegado. A revista, que também publica a lista das Melhores Cidades do Canadá, publicou uma lista com 10 cidades que foram consideradas como as mais adequadas por conta de fatores como diversidade étnica, custo médio de apartamentos com 1 quarto e proporção dias de trabalho vs férias.

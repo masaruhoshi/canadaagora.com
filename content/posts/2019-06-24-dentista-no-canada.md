@@ -8,7 +8,7 @@ categories:
 date: 2019-06-24T12:00:48+00:00
 summary: Descubra o processo para ser dentista no Canadá. Os custos, os exames, as exigências técnicas e burocráticas, o mercado e as perspectivas da profissão.
 url: /trabalho/dentista-no-canada.html
-image: images/podeixar244-odontologia-no-canada.jpg
+image: /images/podeixar244-odontologia-no-canada.jpg
 podcast: podeixar
 
 ---

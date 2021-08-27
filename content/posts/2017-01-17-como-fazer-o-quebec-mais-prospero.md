@@ -8,7 +8,7 @@ categories:
 date: 2017-01-18T00:37:01+00:00
 summary: A economia do Québec tem sofrido duramente nos últimos anos. Como podemos agir no dia-a-dia para estimular o mercado e tornar o Québec mais próspero?
 url: /economia/como-fazer-o-quebec-mais-prospero.html
-image: images/como-fazer-o-quebec-mais-prospero.png
+image: /images/como-fazer-o-quebec-mais-prospero.png
 
 ---
 # Como fazer o Québec mais próspero?

@@ -7,7 +7,7 @@ categories:
 - imigracao
 date: 2018-01-28T21:39:53+00:00
 url: /imigracao/perfil-para-imigracao-ter-ou-nao-ter.html
-image: images/depressed-man-subway.jpg
+image: /images/depressed-man-subway.jpg
 wps_subtitle:
   - Eis a questão
 

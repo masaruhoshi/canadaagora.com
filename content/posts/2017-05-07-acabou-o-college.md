@@ -10,7 +10,7 @@ categories:
 date: 2017-05-07T22:43:51+00:00
 summary: Se você pensa que o final do seu curso no Canadá significa o final da batalha, prepare-se, porque a luta continua! Agora uma nova etapa vai começar! A busca por emprego pode ser tão desgastante quanto sua rotina de estudos. Mas com uma boa preparação, você consegue vencer mais esta etapa rumo ao tão desejado status de residente permanente.
 url: /trabalho/acabou-o-college.html
-image: images/graduation.jpg
+image: /images/graduation.jpg
 
 ---
 # Você acabou o College. Agora, prepare-se para o novo round

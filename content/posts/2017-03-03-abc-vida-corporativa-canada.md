@@ -8,7 +8,7 @@ categories:
 date: 2017-03-03T15:44:06+00:00
 summary: Descubra como é a vida corporativa no Canadá. A procura por emprego, as negociações de salário, os chefes, os colegas e o dia-a-dia nas empresas.
 url: /trabalho/abc-vida-corporativa-canada.html
-image: images/podeixar135-abc-vida-corporativa-canada.png
+image: /images/podeixar135-abc-vida-corporativa-canada.png
 podcast: podeixar
 
 ---

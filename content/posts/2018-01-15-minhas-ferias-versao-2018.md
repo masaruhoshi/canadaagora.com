@@ -8,7 +8,7 @@ categories:
 date: 2018-01-15T11:30:35+00:00
 summary: No melhor estilo "redação da aula de português", neste programa Masaru e Berg contam o que fizeram durante estes dias e dão dicas de como não se meterem em altas confusões.
 url: /cotidiano/minhas-ferias-versao-2018.html
-image: images/podeixar176-minhas-ferias.jpg
+image: /images/podeixar176-minhas-ferias.jpg
 podcast: podeixar
 
 ---

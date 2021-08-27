@@ -9,7 +9,7 @@ categories:
 date: 2017-06-16T13:08:37+00:00
 summary: Uma campanha da IKEA no Canadá quer fazer com que todo mundo vá para a cozinha e resolver o problema de quem não sabe cozinhar.
 url: /noticias/ikea-resolveu-quem-nao-sabe-cozinhar.html
-image: images/Ikea-Cook-this-Page.jpeg
+image: /images/Ikea-Cook-this-Page.jpeg
 format: video
 
 ---

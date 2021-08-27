@@ -8,7 +8,7 @@ categories:
 date: 2012-11-28T04:04:30+00:00
 summary: A vida prega peças interessantes. Seja você jogando basquete profissional na NBA ou dirigindo de volta pra casa um pouco ... biritado?
 url: /cotidiano/bolada-na-cara-e-o-biritado.html
-image: images/2012/11/lebron-james.jpg
+image: /images/2012/11/lebron-james.jpg
 podcast: podeixar
 
 ---

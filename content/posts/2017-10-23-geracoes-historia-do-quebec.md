@@ -8,7 +8,7 @@ categories:
 date: 2017-10-23T10:30:20+00:00
 summary: Conheça um pouco da cultura do Québec e do Canadá na tradução da música "Dégénération" e descubra por o que passaram essas gerações.
 url: /cultura/geracoes-historia-do-quebec.html
-image: images/podeixar167-geracoes.jpg
+image: /images/podeixar167-geracoes.jpg
 wps_subtitle:
   - Um pouco da história do Québec numa tradução musical
 podcast: podeixar

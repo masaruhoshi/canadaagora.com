@@ -8,7 +8,7 @@ categories:
 date: 2018-05-01T12:52:30+00:00
 summary: Montreal é a capital do sexo da América do Norte. A indústria do sexo no Canadá é uma área "cinza" perante a lei que gera milhões de dólares todos os anos e causa muita preocupação para a sociedade e a saúde pública.
 url: /cultura/prostituicao-no-canada.html
-image: images/prostituicao-no-canada.jpg
+image: /images/prostituicao-no-canada.jpg
 essb_pc_pinterest:
   - 2
 essb_pc_google:

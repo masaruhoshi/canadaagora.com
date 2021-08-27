@@ -8,7 +8,7 @@ categories:
 date: 2018-08-28T15:30:21+00:00
 summary: A conclusão do artigo que começou falando sobre como a ideia de que "ir pra outro país é fácil" não é lá tão gloriosa e simples como muita gente pensa.
 url: /imigracao/ir-pra-outro-pais-e-facil-o-retorno.html
-image: images/ir-pra-outro-pais-e-facil-o-retorno.jpg
+image: /images/ir-pra-outro-pais-e-facil-o-retorno.jpg
 
 ---
 Salut encore!

@@ -8,7 +8,7 @@ categories:
 - cultura
 date: 2012-12-14T02:50:23+00:00
 url: /cultura/materia-especial-falando-mal-do-frances-de-novo.html
-image: images/2012/12/ho-ho-hockn-roll.jpg
+image: /images/2012/12/ho-ho-hockn-roll.jpg
 podcast: podeixar
 
 ---

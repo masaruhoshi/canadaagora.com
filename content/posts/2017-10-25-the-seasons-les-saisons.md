@@ -8,7 +8,7 @@ categories:
 date: 2017-10-25T10:30:52+00:00
 summary: "We're talking about the seasons in Canada. Le charme des couleurs, le changement de température et bien sûr, la nécessité de changer les types de vêtements."
 url: /cotidiano/the-seasons-les-saisons.html
-image: images/franglish-maintenow-les-saisons-the-seasons.jpg
+image: /images/franglish-maintenow-les-saisons-the-seasons.jpg
 podcast: podeixar
 
 ---

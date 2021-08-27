@@ -8,7 +8,7 @@ categories:
 date: 2016-10-26T19:59:37+00:00
 summary: 'Neste texto, comento sobre algo que me perguntam com bastante frequência: como tem sido minha experiência no Canadá, tendo vindo para cá, sozinha, com dois filhos em idade escolar. Não é uma escolha fácil, mas posso dizer que tem valido a pena. Neste primeiro post sobre o tema, vou falar das minhas principais dificuldades neste cenário. Num próximo post, falarei de algumas estratégias que adotei pra poder lidar com a pesada rotina.'
 url: /cotidiano/sozinha-com-dois-filhos-no-canada.html
-image: images/mae-e-dois-filhos-ws-e1477520256119.jpg
+image: /images/mae-e-dois-filhos-ws-e1477520256119.jpg
 instant_articles_submission_id:
   - 719332358232530
 

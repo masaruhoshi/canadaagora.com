@@ -11,7 +11,7 @@ categories:
 date: 2018-01-05T21:52:29+00:00
 summary: O ano começou e traz várias "surpresas" Vejamos as novas leis em vigor em 2018 para todo o país e especificamente para Ontario, Québec, Alberta, British Columbia, Saskatchewan, Manitoba e New Brunswick.
 url: /trabalho/novas-leis-em-vigor-em-2018.html
-image: images/aumento-imposto-sobre-bebidas-2018.jpg
+image: /images/aumento-imposto-sobre-bebidas-2018.jpg
 
 ---
 O ano começou e traz consigo as várias &#8220;surpresas&#8221; para o bolso do empresário e do trabalhador, assim como diversas mudanças em relação à legislação. Montei uma lista com novas leis em vigor em 2018 para todo o país e nas províncias de Ontario, Québec, Alberta, British Columbia, Saskatchewan, Manitoba e New Brunswick.

@@ -8,7 +8,7 @@ categories:
 date: 2019-06-17T11:55:45+00:00
 summary: Descubra Sherbrooke, a maior cidade da região de Estrie. Conheça as oportunidades de negócio, saúde, educação e como a qualidade de vida mora logo ali.
 url: /turismo/cidades-do-canada-sherbrooke.html
-image: images/podeixar243-cidades-do-canada-sherbrooke.jpg
+image: /images/podeixar243-cidades-do-canada-sherbrooke.jpg
 podcast: podeixar
 
 ---

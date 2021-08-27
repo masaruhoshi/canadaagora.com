@@ -8,7 +8,7 @@ categories:
 date: 2013-05-13T00:57:52+00:00
 summary: Ter onde morar. De acordo com Maslow, possuir segurança do próprio corpo, ter um emprego, uma família, saúde e onde morar é a segunda escala de procura do ser humano. E não é por menos que as pessoas se preocupam tanto em ter onde morar, e o mais breve possível. Neste programa a gente fala sobre apartamentos, de uma forma bem genérica...
 url: /cotidiano/procurando-apartamento.html
-image: images/multiple-panneau-louer.jpg
+image: /images/multiple-panneau-louer.jpg
 podcast: podeixar
 
 ---

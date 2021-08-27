@@ -8,7 +8,7 @@ categories:
 date: 2014-07-16T15:30:33+00:00
 summary: A caixa postal entupiu e a vergonha bateu na cara! Por isso, resolvemos responder as mensagens atrasadas e colocar a casa deixando caminho para o Season Finale desta temporada!
 url: /cotidiano/tirando-o-atraso-no-bom-sentido.html
-image: images/programa-2.30.png
+image: /images/programa-2.30.png
 podcast: podeixar
 
 ---

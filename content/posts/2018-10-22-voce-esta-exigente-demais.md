@@ -8,7 +8,7 @@ categories:
 date: 2018-10-22T15:00:16+00:00
 summary: Os conflitos com outros brasileiros, o respeito pelos valores e adaptação mostram que a frase "você está exigente demais" não faz sentido algum.
 url: /imigracao/voce-esta-exigente-demais.html
-image: images/podeixar215-voce-esta-exigente-demais.jpg
+image: /images/podeixar215-voce-esta-exigente-demais.jpg
 podcast: podeixar
 
 ---

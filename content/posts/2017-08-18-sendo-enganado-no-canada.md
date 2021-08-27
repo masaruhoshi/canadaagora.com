@@ -8,7 +8,7 @@ categories:
 date: 2017-08-18T11:30:36+00:00
 summary: O Canadá está longe de ser perfeito e infelizmente tem gente mal intencionada por aqui também. Fique atento e descubra se você está sendo enganado no Canadá
 url: /cultura/sendo-enganado-no-canada.html
-image: images/podeixar159.png
+image: /images/podeixar159.png
 podcast: podeixar
 
 ---

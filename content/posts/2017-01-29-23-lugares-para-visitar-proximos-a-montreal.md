@@ -9,7 +9,7 @@ categories:
 date: 2017-01-29T06:22:37+00:00
 summary: Natureza, cultura e boa comida. Conheça 23 dicas de lugares para visitar próximo a Montréal durante diferentes épocas do ano
 url: /cultura/23-lugares-para-visitar-proximos-a-montreal.html
-image: images/23-lugares-para-visitar-proximo-montreal.png
+image: /images/23-lugares-para-visitar-proximo-montreal.png
 
 ---
 # 23 lugares para visitar próximos a Montréal

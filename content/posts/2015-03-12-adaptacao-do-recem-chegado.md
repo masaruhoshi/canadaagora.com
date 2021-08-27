@@ -9,7 +9,7 @@ categories:
 date: 2015-03-12T15:11:44+00:00
 summary: Você está pronto para encarar o que vai encontrar no Canadá? Você é capaz de se adaptar?
 url: /imigracao/adaptacao-do-recem-chegado.html
-image: images/ML000005_Adaptacao_1.png
+image: /images/ML000005_Adaptacao_1.png
 format: video
 
 ---

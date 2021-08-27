@@ -8,7 +8,7 @@ categories:
 date: 2017-04-03T17:03:07+00:00
 summary: Conheça 5 fatos sobre seguro viagem que você precisa saber para garantir que imprevistos não transformem prazer em problemas e dor-de-cabeça.
 url: /turismo/5-fatos-sobre-seguro-viagem.html
-image: images/5-fatos-sobre-seguro-viagem.png
+image: /images/5-fatos-sobre-seguro-viagem.png
 
 ---
 # 5 fatos sobre seguro viagem

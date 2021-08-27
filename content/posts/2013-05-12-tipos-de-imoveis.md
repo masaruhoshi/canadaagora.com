@@ -8,7 +8,7 @@ categories:
 date: 2013-05-12T22:23:57+00:00
 summary: Entenda os tipos de imóveis disponíveis no Canadá e quais as vantagens e desvantagens em escolher um ou outro.
 url: /cotidiano/tipos-de-imoveis.html
-image: images/type-houses.png
+image: /images/type-houses.png
 
 ---
 No Canadá, é muito comum encontrar os seguintes tipos de imóveis:

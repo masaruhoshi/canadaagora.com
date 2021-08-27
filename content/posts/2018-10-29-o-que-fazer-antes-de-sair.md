@@ -8,7 +8,7 @@ categories:
 date: 2018-10-29T19:45:09+00:00
 summary: Como se programar e decidir o que fazer antes de sair do país. Requerimentos, procurações, documentos e várias dicas que você não pode deixar de fazer.
 url: /imigracao/o-que-fazer-antes-de-sair.html
-image: images/podeixar216-antes-de-sair.jpg
+image: /images/podeixar216-antes-de-sair.jpg
 podcast: podeixar
 
 ---
