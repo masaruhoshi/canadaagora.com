@@ -1,5 +1,5 @@
 # default config
-#baseurl = "https://canadaagora.com"
+baseurl = "https://canadaagora.com"
 languageCode = "pt-br"
 title = "Canadá Agora | O Canadá por quem conhece o Canadá"
 theme = "canadaagora"
