@@ -164,7 +164,7 @@ weight = 3
 
 # default parameter
 [params]
-logo = "images/CA-Logo-Inline-Long.png"
+logo = "/images/CA-Logo-Inline-Long.png"
 home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
