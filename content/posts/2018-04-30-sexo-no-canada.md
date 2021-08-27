@@ -8,7 +8,7 @@ categories:
 date: 2018-04-30T10:30:09+00:00
 summary: Programa quente falando sobre o sexo no Canadá. Quantas vezes eles transam por ano? Quando começam suas atividades sexuais? Quantos parceiros eles possuem? Como o canadense encara o sexo na sua vida?
 url: /cultura/sexo-no-canada.html
-image: images/podeixar191-sexualidade-no-canada.png
+image: /images/podeixar191-sexualidade-no-canada.png
 
 ---
 <p class="p1">

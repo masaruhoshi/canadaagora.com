@@ -9,7 +9,7 @@ categories:
 date: 2016-07-20T14:00:49+00:00
 summary: Anunciada data limite para os candidatos às 5000 novas vagas para imigração de Québec
 url: /imigracao/5000-novas-vagas-para-imigracao-de-quebec.html
-image: images/imigracao-quebec-5000-novas-vagas.png
+image: /images/imigracao-quebec-5000-novas-vagas.png
 syn_post_guid:
   - http://mjconsultoria.com.br/?p=2990
 syn_source_site_id:

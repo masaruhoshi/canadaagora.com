@@ -8,7 +8,7 @@ categories:
 date: 2017-03-31T11:00:38+00:00
 summary: Estamos sendo realistas ou apenas movidos pela emoção? Conheça porque imigrantes acabam iludidos quando chegam ao Canadá e conhecem a realidade do dia-a-dia
 url: /imigracao/estamos-sendo-realistas.html
-image: images/podeixar139.png
+image: /images/podeixar139.png
 podcast: podeixar
 
 ---

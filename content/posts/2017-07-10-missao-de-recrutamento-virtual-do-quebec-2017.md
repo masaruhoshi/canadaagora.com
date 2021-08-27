@@ -9,7 +9,7 @@ categories:
 date: 2017-07-10T19:04:33+00:00
 summary: Vamos estar esclarecendo todas as dúvidas das pessoas sobre a nossa Missão de Recrutamento Virtual do Québec. Saiba como participar e enviar sua pergunta!
 url: /trabalho/missao-de-recrutamento-virtual-do-quebec-2017.html
-image: images/29_standard_MV_facebook.jpg
+image: /images/29_standard_MV_facebook.jpg
 
 ---
 No próximo dia 16 (domingo) tem gravação especial do PoDeixar. Vamos estar esclarecendo todas as dúvidas das pessoas sobre a nossa Missão de Recrutamento Virtual do Québec. E nós estamos abrindo esta oportunidade para você participar do programa com antecipação.

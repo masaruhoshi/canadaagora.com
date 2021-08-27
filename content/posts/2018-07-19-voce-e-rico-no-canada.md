@@ -10,7 +10,7 @@ categories:
 date: 2018-07-19T18:37:04+00:00
 summary: Você é rico no canadá? Quanto ganha alguém considerado rico no Canadá? Quais as melhores profissões? Quem paga mais impostos no país?
 url: /cultura/voce-e-rico-no-canada.html
-image: images/photomix-image.png
+image: /images/photomix-image.png
 podcast: podeixar
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2014-10-28T05:54:12+00:00
 summary: Programa com muito pêlo, grunhidos, latidos e miados! É a vez de falar sobre os cuidados com um animal de estimação no Canadá! Conversamos sobre treinamentos, cuidados, visitas e ainda sobre o que é necessário para viajar entre o Brasil e o Canadá com nossos amigos.
 url: /cultura/um-papo-animal.html
-image: images/programa-3.06.png
+image: /images/programa-3.06.png
 podcast: podeixar
 
 ---

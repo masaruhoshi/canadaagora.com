@@ -6,7 +6,7 @@ type: post
 date: 2014-06-01T15:48:47+00:00
 summary: 'E finalmente aconteceu: você está grávida! Mas e agora? E como ter certeza disso? Onde você deve ir? Precisa de um médico de família? Quem vai fazer seu acompanhamento e quais direitos você tem como residente? Você conhece isso e mais nesta segunda parte da série "Sendo Mãe no Canadá.'
 url: /artigos/sendo-mae-no-canada-to-gravida-e-agora.html
-image: images/podeixetes.2.02-post.png
+image: /images/podeixetes.2.02-post.png
 podcast: podeixar
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2017-01-30T18:55:09+00:00
 summary: Com o começo do ano muita gente aproveita pra planejar melhor sua vida financeira. Descubra como maximizar sua poupança morando no Canadá.
 url: /economia/como-maximizar-sua-poupanca.html
-image: images/como-maximizar-poupanca.png
+image: /images/como-maximizar-poupanca.png
 
 ---
 ## Como maximizar sua poupança

@@ -8,7 +8,7 @@ categories:
 date: 2013-10-20T21:55:29+00:00
 summary: Continuamos nossa série "O Canadá por quem não mora no Canadá". Esta semana, falamos sobre a cidade de Mississauga, uma jovem e bela região em constante crescimento e uma excelente opção para aqueles que buscam uma vida melhor no Canadá e ótimas oportunidades de emprego. Ainda no programa de hoje, contamos com a presença de Rafael Almeida do Automóveis Québec falando sobre fraudes cometidas pelas pessoas na hora de vender um carro!
 url: /turismo/canada-por-quem-nao-mora-no-canada-mississauga.html
-image: images/programa-2.04-post.png
+image: /images/programa-2.04-post.png
 post_to_facebook_page:
   - 0
   - 0

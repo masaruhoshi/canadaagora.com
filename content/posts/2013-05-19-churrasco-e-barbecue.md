@@ -8,7 +8,7 @@ categories:
 date: 2013-05-20T02:57:11+00:00
 summary: Explicamos como funciona um churrasco canadense, como se comportar quando for convidado para um evento desse tipo e como continuar comendo sua carne assada por estes lados.
 url: /cotidiano/churrasco-e-barbecue.html
-image: images/churrasco-barbecue.jpg
+image: /images/churrasco-barbecue.jpg
 podcast: podeixar
 
 ---

@@ -6,7 +6,7 @@ type: post
 date: 2013-12-15T21:11:48+00:00
 summary: Motivo de preocupação pra muita gente que vem morar no Canadá e sempre razão de muito bate-boca, contamos como é viver na pele o sistema de saúde do Canadá e damos algumas dicas e conselhos pra quem acha que o assunto é um bicho de 7 cabeças no final do túnel que leva pro fim do mundo.
 url: /artigos/vivendo-a-saude-publica.html
-image: images/programa-2.12-post.png
+image: /images/programa-2.12-post.png
 podcast: podeixar
 
 ---

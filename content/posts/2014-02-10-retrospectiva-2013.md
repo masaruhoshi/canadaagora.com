@@ -8,7 +8,7 @@ categories:
 date: 2014-02-11T04:05:14+00:00
 summary: Não foi desta vez que vocês se livraram da gente! Mandaram um vortex polar, um ice quake e até a Pauline Marois mas ninguém conseguiu se livrar da gente! Mesmo depois de 3 metros de neve estamos aqui, provando que temos ainda muito o que falar neste primeiro programa de 2014!
 url: /educacao/retrospectiva-2013.html
-image: images/podeixar2.15-retrospectiva-2013.png
+image: /images/podeixar2.15-retrospectiva-2013.png
 podcast: podeixar
 
 ---

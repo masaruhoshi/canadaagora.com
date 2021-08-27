@@ -8,7 +8,7 @@ categories:
 date: 2018-06-25T04:48:17+00:00
 summary: Ferramentas para estudar online. Fazemos bom uso delas? Como estudar de maneira eficiente? Por onde começar? O que vai ser do futuro do estudo?
 url: /educacao/ferramentas-para-estudar-online.html
-image: images/podeixar199-ferramentas-para-estudar-online.jpg
+image: /images/podeixar199-ferramentas-para-estudar-online.jpg
 podcast: podeixar
 
 ---

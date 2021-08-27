@@ -8,7 +8,7 @@ categories:
 date: 2017-11-20T11:30:17+00:00
 summary: 'Já parou para pensar que, ao contrário do que dizem todas as propagandas por aí, que talvez o Canadá não seja para você? '
 url: /imigracao/o-canada-nao-e-para-voce.html
-image: images/podeixar171-o-canada-nao-e-para-voce.jpg
+image: /images/podeixar171-o-canada-nao-e-para-voce.jpg
 mashsb_pinterest_description:
   - 'Já parou para pensar que, ao contrário de toda a propaganda a que você está sendo apresentado, que talvez o Canadá não seja para você? '
 podcast: podeixar

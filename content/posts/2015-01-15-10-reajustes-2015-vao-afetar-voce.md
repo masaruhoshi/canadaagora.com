@@ -8,7 +8,7 @@ categories:
 date: 2015-01-15T21:30:51+00:00
 summary: O ano acabou de começar e lá vem notícias desagradáveis pro seu bolso. Conheça 10 reajustes em 2015 que vão pegar de jeito quem mora no Québec.
 url: /economia/10-reajustes-2015-vao-afetar-voce.html
-image: images/10-aumentos-no-orcamento-que-voce-nao-esperava-quebec.png
+image: /images/10-aumentos-no-orcamento-que-voce-nao-esperava-quebec.png
 
 ---
 ## 10 Reajustes em 2015 que vão afetar você (se você mora no Québec)

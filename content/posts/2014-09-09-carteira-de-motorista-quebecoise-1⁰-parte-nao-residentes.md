@@ -6,7 +6,7 @@ type: post
 date: 2014-09-09T21:25:00+00:00
 summary: Como funciona pra tirar a carteira de motorista no Québec quando você é não-residente do Canadá?
 url: /cotidiano/carteira-de-motorista-quebecoise-1⁰-parte-nao-residentes.html
-image: images/carteira-motorista-quebec.png
+image: /images/carteira-motorista-quebec.png
 syn_post_guid:
   - http://automoveisquebec.com/?p=1593
 syn_source_site_id:

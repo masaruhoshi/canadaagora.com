@@ -9,7 +9,7 @@ categories:
 date: 2015-05-14T15:30:56+00:00
 summary: Ter um salário menor no Canadá é sinal de retrocesso? Afinal, qual o valor do salário no Canadá?
 url: /trabalho/quanto-vale-salario-te-oferecem-no-canada.html
-image: images/ML-13-Quanto-vale-o-salário-que-te-oferecem-no-Canadá-1-1.jpeg
+image: /images/ML-13-Quanto-vale-o-salário-que-te-oferecem-no-Canadá-1-1.jpeg
 format: video
 
 ---

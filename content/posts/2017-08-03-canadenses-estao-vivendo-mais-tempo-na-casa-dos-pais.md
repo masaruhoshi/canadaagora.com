@@ -9,7 +9,7 @@ categories:
 date: 2017-08-03T12:53:59+00:00
 summary: Pesquisa divulgada pelo Statistics Canada mostra que o comportamento dos jovens tem mudado e canadense estão vivendo mais tempo na casa dos pais.
 url: /noticias/canadenses-estao-vivendo-mais-tempo-na-casa-dos-pais.html
-image: images/canadenses-estao-vivendo-mais-tempo-na-casa-dos-pais-2.jpg
+image: /images/canadenses-estao-vivendo-mais-tempo-na-casa-dos-pais-2.jpg
 podcast: podeixar
 
 ---

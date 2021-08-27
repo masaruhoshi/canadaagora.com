@@ -8,7 +8,7 @@ categories:
 date: 2019-04-08T01:00:13+00:00
 summary: Qualquer pessoa tem condições de mudar de país? As exigências dos processos de imigração são acessível a todos? Ou será que imigrar é um privilégio?
 url: /imigracao/imigrar-e-um-privilegio.html
-image: images/podeixar233-imigrar-e-um-privilegio.jpg
+image: /images/podeixar233-imigrar-e-um-privilegio.jpg
 
 ---
 Imigrar para outro país não é uma tarefa simples. Envolve empenho, dedicação, abdicação, sacrifícios e uma lista de outras coisas que a gente poderia ficar o dia inteiro listando aqui. Mas apesar de tudo isso, será que imigrar ainda é uma questão acessível a qualquer pessoa ou talvez a realidade é que imigrar é um privilégio de poucos?

@@ -8,7 +8,7 @@ categories:
 date: 2019-12-16T03:04:32+00:00
 summary: Conheça as cidade de Kitchener e Waterloo, sua história, suas atrações, o mercado de trabalho e o que as torna alguns dos lugares mais procurados do Canadá.
 url: /turismo/cidades-do-canada-kitchener.html
-image: images/podeixar260-cidades-do-canada-kitchener.jpg
+image: /images/podeixar260-cidades-do-canada-kitchener.jpg
 podcast: podeixar
 
 ---

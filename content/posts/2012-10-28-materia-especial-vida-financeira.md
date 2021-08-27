@@ -8,7 +8,7 @@ categories:
 - trabalho
 date: 2012-10-29T02:15:48+00:00
 url: /trabalho/materia-especial-vida-financeira.html
-image: images/the-game-of-life.jpg
+image: /images/the-game-of-life.jpg
 podcast: podeixar
 
 ---

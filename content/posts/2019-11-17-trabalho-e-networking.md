@@ -8,7 +8,7 @@ categories:
 date: 2019-11-18T02:00:35+00:00
 summary: A relação entre mudança, trabalho e networking e a importância de uma boa rede de relacionamentos para aumentar as chances de empregabilidade no Canadá.
 url: /trabalho/trabalho-e-networking.html
-image: images/podeixar257-importancia-networking-trabalho.jpg
+image: /images/podeixar257-importancia-networking-trabalho.jpg
 podcast: podeixar
 
 ---

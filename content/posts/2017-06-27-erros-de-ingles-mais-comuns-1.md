@@ -9,7 +9,7 @@ categories:
 date: 2017-06-28T02:39:14+00:00
 summary: Neste artigo irei comentar os erros de inglês mais comuns entre os brasileiros e explicar como você pode evitá-los.
 url: /cotidiano/erros-de-ingles-mais-comuns-1.html
-image: images/erros.jpg
+image: /images/erros.jpg
 wps_subtitle:
   - e como você pode evitá-los!
 

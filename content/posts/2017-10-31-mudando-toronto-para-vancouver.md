@@ -5,7 +5,7 @@ authors:
 type: post
 date: 2017-10-31T04:37:17+00:00
 url: /artigos/mudando-toronto-para-vancouver.html
-image: images/vancouver-toronto-night.jpg
+image: /images/vancouver-toronto-night.jpg
 wps_subtitle:
   - Em busca do PR
 

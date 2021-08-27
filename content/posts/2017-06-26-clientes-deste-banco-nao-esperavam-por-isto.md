@@ -8,7 +8,7 @@ categories:
 date: 2017-06-26T19:36:59+00:00
 summary: Um banco no Canadá fez algo diferentes e os clientes deste banco não esperavam por isto nem nos seus sonhos mais malucos!
 url: /noticias/clientes-deste-banco-nao-esperavam-por-isto.html
-image: images/Os-clientes-deste-banco-do-Canadá-nunca-esperavam-por-isto.jpeg
+image: /images/Os-clientes-deste-banco-do-Canadá-nunca-esperavam-por-isto.jpeg
 wps_subtitle:
   - Nada de gastar com artistas famosos. Pro TD a melhor campanha é com o próprio cliente.
 format: video

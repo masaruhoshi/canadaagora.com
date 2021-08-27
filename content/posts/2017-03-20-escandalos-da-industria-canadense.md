@@ -8,7 +8,7 @@ categories:
 date: 2017-03-20T12:59:20+00:00
 summary: Será que todos os produtos e alimentos vendidos no Canadá são confiáveis? Conheça alguns dos escândalos da indústria canadense
 url: /cultura/escandalos-da-industria-canadense.html
-image: images/escandalos-da-industria-de-alimentos-canadense.jpg
+image: /images/escandalos-da-industria-de-alimentos-canadense.jpg
 
 ---
 ## Escândalos da indústria canadense

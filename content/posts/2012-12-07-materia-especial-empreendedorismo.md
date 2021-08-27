@@ -8,7 +8,7 @@ categories:
 date: 2012-12-07T05:34:45+00:00
 summary: Empreender é um ato de coragem e ousadia de quem resolve pensar fora da caixinha. Conheça a história de quem segue o caminho do empreendedorismo no Canadá.
 url: /trabalho/materia-especial-empreendedorismo.html
-image: images/2012/12/IMG_20121201_122934.jpg
+image: /images/2012/12/IMG_20121201_122934.jpg
 podcast: podeixar
 
 ---

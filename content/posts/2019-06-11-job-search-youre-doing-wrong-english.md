@@ -11,7 +11,7 @@ summary: "You're looking for a job and sending resumes non-stop but you're still
 draft: true
 private: true
 url: /?p=12948
-image: images/Networking-01-900x900.png
+image: /images/Networking-01-900x900.png
 mashsb_pinterest_description:
   - "You're looking for a job and sending resumes non-stop but you're still not selected for any interviews. Maybe networking is what you actually need."
 mashsb_custom_tweet:

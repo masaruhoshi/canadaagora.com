@@ -9,7 +9,7 @@ categories:
 date: 2017-01-24T12:00:11+00:00
 summary: Vocês são um casal com filhos e decidiram imigrar, mas não têm dinheiro para que toda a família vá junta. Será que separar para imigrar é uma boa opção? Vou compartilhar aqui com vocês minha opinião sobre este assunto, depois de mais de 1 ano morando aqui sozinha aqui no Canadá com meus dois filhos, enquanto meu marido continua no Brasil.
 url: /imigracao/separar-para-imigrar.html
-image: images/woman-and-her-little-boy.jpg
+image: /images/woman-and-her-little-boy.jpg
 
 ---
 # Projeto Canadá em família: separar para imigrar é a solução?

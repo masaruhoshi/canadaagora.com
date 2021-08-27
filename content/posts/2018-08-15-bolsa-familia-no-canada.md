@@ -9,7 +9,7 @@ categories:
 date: 2018-08-15T17:37:53+00:00
 summary: A versão canadense de um dos benefícios sociais que mais divide o brasileiro é considerada uma grande vitória. Descubra a bolsa família no Canadá.
 url: /politica/bolsa-familia-no-canada.html
-image: images/bolsa-familia-no-canada.jpg
+image: /images/bolsa-familia-no-canada.jpg
 
 ---
 Ao contrário do Brasil, a bolsa família no Canadá serve não apenas às famílias extremamente pobres. Por isso, a maioria das famílias com crianças menores de 17 anos têm acesso a esta ajuda. O subsídio é isento de impostos. O valor que as famílias têm direito é baseado em sua renda e situação, o que pode incluir, por exemplo, até mesmo famílias com renda anual de 200 mil, se tiverem 2 filhos ou mais.

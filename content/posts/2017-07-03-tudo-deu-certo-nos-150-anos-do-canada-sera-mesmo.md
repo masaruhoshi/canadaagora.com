@@ -8,7 +8,7 @@ categories:
 date: 2017-07-04T03:32:12+00:00
 summary: O país resolveu fazer uma grande comemoração em homenagem ao Canada Day 2017. Mas será que tudo deu certo nos 150 anos do Canadá mesmo?
 url: /cultura/tudo-deu-certo-nos-150-anos-do-canada-sera-mesmo.html
-image: images/tudo-deu-certo-nos-150-anos-do-canada-sera-mesmo.jpg
+image: /images/tudo-deu-certo-nos-150-anos-do-canada-sera-mesmo.jpg
 podcast: podeixar
 
 ---

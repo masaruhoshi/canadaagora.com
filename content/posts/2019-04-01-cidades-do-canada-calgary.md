@@ -9,7 +9,7 @@ categories:
 date: 2019-04-01T10:00:53+00:00
 summary: Programa novo sobre as cidades do Canadá. Conheça Calgary! Saiba como funciona a questão moradia, trabalho, custo de vida, estudo, transporte e muito mais.
 url: /imigracao/cidades-do-canada-calgary.html
-image: images/podeixar232-cidades-do-canada-calgary.jpg
+image: /images/podeixar232-cidades-do-canada-calgary.jpg
 podcast: podeixar
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2014-11-18T05:00:28+00:00
 summary: 'Por quê algumas vezes demoramos tanto para ir atrás daquilo que queremos? O que nos impede de mudar nossa vida e fazer nossos sonhos e desejos virarem realidade? Neste programa a gente fala de um assunto que tem tudo a ver com quem decide morar fora do Brasil: Motivação!'
 url: /imigracao/5-segundos-para-mudar-sua-vida.html
-image: images/programa-3.09.png
+image: /images/programa-3.09.png
 podcast: podeixar
 
 ---

@@ -7,7 +7,7 @@ categories:
 - cotidiano
 date: 2012-10-29T02:00:07+00:00
 url: /cotidiano/schwarznegger-de-volta-pauline-e-a-nova-lei-101-e-mais.html
-image: images/2012/10/king_conan_schwarzenegger.jpg
+image: /images/2012/10/king_conan_schwarzenegger.jpg
 podcast: podeixar
 
 ---

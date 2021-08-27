@@ -7,7 +7,7 @@ categories:
 - cultura
 date: 2013-04-15T01:43:35+00:00
 url: /cultura/sutia-netflix-jogos.html
-image: images/2013/04/programa-51.png
+image: /images/2013/04/programa-51.png
 podcast: podeixar
 
 ---

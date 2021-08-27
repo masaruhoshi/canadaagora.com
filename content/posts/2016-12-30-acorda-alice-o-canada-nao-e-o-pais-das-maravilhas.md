@@ -8,7 +8,7 @@ categories:
 date: 2016-12-30T23:30:11+00:00
 summary: 'Você vê por aí muitos posts e vídeos falando sobre as coisas positivas de morar no Canadá. Tudo parece muito lindo e maravilhoso. Você, então, resolve imigrar e vem cheio de expectativas e sonhos em relação a este que parece ser o País das Maravilhas! Mas quando você chega, a realidade bate forte em você, como se fosse alguém que dissesse: Acorda, Alice!!!! Será que te enganaram? Ou sera que foi você que criou expectativas demais em relação a este país?'
 url: /imigracao/acorda-alice-o-canada-nao-e-o-pais-das-maravilhas.html
-image: images/185254.jpg
+image: /images/185254.jpg
 podcast: podeixar
 
 ---

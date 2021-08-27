@@ -8,7 +8,7 @@ categories:
 date: 2018-06-04T17:32:12+00:00
 summary: No atual ritmo de vida que temos hoje, será que ainda sabemos nos relacionar? Estamos perdendo nossa habilidade social? Atingimos um ponto sem retorno sobre nossos relacionamentos? No trabalho, a empatia e a afinidade se tornarão habilidades desnecessárias?
 url: /cultura/sabemos-nos-relacionar.html
-image: images/podeixar196-sabemos-nos-relacionar.jpg
+image: /images/podeixar196-sabemos-nos-relacionar.jpg
 podcast: podeixar
 
 ---

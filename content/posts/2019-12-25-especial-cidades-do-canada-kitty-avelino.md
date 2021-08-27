@@ -8,7 +8,7 @@ categories:
 date: 2019-12-25T17:00:00+00:00
 summary: Kitty compara várias cidades do Canadá, especialmente Vancouver e Toronto. Trânsito e trabalho e muito mais de um ponto de vista muito especial.
 url: /turismo/especial-cidades-do-canada-kitty-avelino.html
-image: images/podeixar262-cidades-do-canada-especial-kitty-avelino.jpg
+image: /images/podeixar262-cidades-do-canada-especial-kitty-avelino.jpg
 podcast: podeixar
 
 ---

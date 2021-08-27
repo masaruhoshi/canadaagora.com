@@ -9,7 +9,7 @@ categories:
 date: 2016-09-29T20:51:39+00:00
 summary: Todo mundo tem curiosidade para saber como são as coisas por aqui. Neste post falamos de choque cultural, das diferenças e de adaptação. Porque as diferenças são importantes ? Qual o seu papel neste caso ?
 url: /imigracao/choque-cultural.html
-image: images/Choque-Cultural-Momento-Lindo-e1475718987996.jpg
+image: /images/Choque-Cultural-Momento-Lindo-e1475718987996.jpg
 
 ---
 <h2 style="text-align: justify;">

@@ -9,7 +9,7 @@ categories:
 date: 2016-10-15T19:28:42+00:00
 summary: Mais um artigo mostrando os impactos de entrar no sistema de ensino canadense. Quais as diferenças ? Quais fatores são importantes ? Será que o foco de ensino é diferente ? Descubra isso e muito mais
 url: /educacao/sistema-de-ensino-canadense.html
-image: images/Sistema-de-ensino.jpg
+image: /images/Sistema-de-ensino.jpg
 
 ---
 <h2 style="text-align: justify;">

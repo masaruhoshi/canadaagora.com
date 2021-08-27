@@ -9,7 +9,7 @@ categories:
 date: 2013-11-21T18:15:31+00:00
 summary: Quem trabalha na indústria de vídeo-games e mora na cidade de Québec, pode vir a ter motivos para comemorar dentro em breve, segundo uma nota publicada recentemente sobre o mercado.
 url: /trabalho/games-e-quebec-um-futuro-promissor.html
-image: images/video-games-quebec.jpg
+image: /images/video-games-quebec.jpg
 
 ---
 De acordo com uma nota publicada por uma economista do Mouvement Desjardins, as empresas de jogos da cidade vão ter que começar a pensar em dar aumentos aos funcionários muito em breve se não quiserem correr o risco de perder seu pessoal a curto e médio prazos.

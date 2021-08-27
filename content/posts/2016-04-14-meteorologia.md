@@ -9,7 +9,7 @@ categories:
 date: 2016-04-14T11:14:53+00:00
 summary: Todo mundo sabe que o clima no Canada é bem diferente do clima brasileiro. Não apenas na questão da temperatura, mas também e muito importante, no que toca as variações climáticas. Descubra mais sobre o assunto neste vídeo.
 url: /clima/meteorologia.html
-image: images/FV-003-Metereologia.jpeg
+image: /images/FV-003-Metereologia.jpeg
 format: video
 
 ---

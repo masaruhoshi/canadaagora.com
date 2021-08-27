@@ -8,7 +8,7 @@ categories:
 date: 2017-01-31T19:10:52+00:00
 summary: Com ingredientes bem diferentes do Brasil, conheça um pouco da culinária québequense, que mistura ingredientes ricos e extremamente saborosos.
 url: /cultura/riqueza-da-culinaria-quebequense.html
-image: images/riqueza-da-culinaria-quebequense.png
+image: /images/riqueza-da-culinaria-quebequense.png
 
 ---
 # A riqueza da culinária québequense

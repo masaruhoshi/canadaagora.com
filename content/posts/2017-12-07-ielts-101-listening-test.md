@@ -8,7 +8,7 @@ categories:
 - imigracao
 date: 2017-12-07T16:17:58+00:00
 url: /imigracao/ielts-101-listening-test.html
-image: images/canada-agora-post-6.jpg
+image: /images/canada-agora-post-6.jpg
 
 ---
 <!--more-->

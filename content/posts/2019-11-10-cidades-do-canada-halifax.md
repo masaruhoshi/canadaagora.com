@@ -7,7 +7,7 @@ categories:
 - turismo
 date: 2019-11-11T00:01:41+00:00
 url: /turismo/cidades-do-canada-halifax.html
-image: images/podeixar256-cidades-do-canada-halifax.jpg
+image: /images/podeixar256-cidades-do-canada-halifax.jpg
 podcast: podeixar
 
 ---

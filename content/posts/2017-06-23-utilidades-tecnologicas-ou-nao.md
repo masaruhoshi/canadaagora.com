@@ -8,7 +8,7 @@ categories:
 date: 2017-06-23T11:38:15+00:00
 summary: Dicas de aplicativos e outras utilidades tecnológicas de dois especialistas em tecnologia que vão ajudar a dar um "boost" na sua produtividade. Ou não.
 url: /cultura/utilidades-tecnologicas-ou-nao.html
-image: images/podeixar151.png
+image: /images/podeixar151.png
 podcast: podeixar
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2017-03-24T11:00:33+00:00
 summary: Conheça como a necessidade de independência e a cultura do faça-você-mesmo molda o dia-a-dia de quem vive no Canadá e como o brasileiro se adapta a isso.
 url: /cotidiano/cultura-faca-voce-mesmo.html
-image: images/podeixar138.png
+image: /images/podeixar138.png
 podcast: podeixar
 
 ---

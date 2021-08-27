@@ -9,7 +9,7 @@ categories:
 date: 2014-12-02T05:04:32+00:00
 summary: "Chegar no Canadá sozinho, sem conhecer ninguém e ainda por cima sem falar direito o idioma é uma combinação prá lá de complicada. A solidão, a tristeza e o isolamente às vezes podem fazer com que as pessoas causem uma verdadeira tempestade em um copo d'água. Onde é possível encontrar ajuda? É preciso pagar por tudo isso? Será que é muito difícil fazer amizades?"
 url: /imigracao/amizade-suporte.html
-image: images/programa-3.11.png
+image: /images/programa-3.11.png
 podcast: podeixar
 
 ---

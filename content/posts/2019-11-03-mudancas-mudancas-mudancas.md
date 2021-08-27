@@ -8,7 +8,7 @@ categories:
 date: 2019-11-04T00:00:06+00:00
 summary: Descubra como foi a mudança da Andrea de Vancouver pra Kingston, os preparativos, o envio, a viagem de carro e toda a novela com as mudanças de província.
 url: /cotidiano/mudancas-mudancas-mudancas.html
-image: images/podeixar255-mudancas-mudancas-mudancas.jpg
+image: /images/podeixar255-mudancas-mudancas-mudancas.jpg
 wps_subtitle:
   - Dicas e lições sobre mudanças dentro do Canadá
 podcast: podeixar

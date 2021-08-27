@@ -10,7 +10,7 @@ summary: |
   É importante manter a mente funcionando, ter ideias, ter vontade de fazer alguma diferença. Prioridade, responsabilidade e preocupação.
   Neste artigo, Berg fala um pouco de como as férias escolares estão afetando este período maravilhoso que é o verão.
 url: /cotidiano/quem-sou-eu-onde-estou-ferias.html
-image: images/Quem-sou-eu-onde-estou-ferias.jpg
+image: /images/Quem-sou-eu-onde-estou-ferias.jpg
 
 ---
 <h2 style="text-align: justify;">

@@ -9,7 +9,7 @@ categories:
 date: 2018-01-31T08:30:33+00:00
 summary: "Changer de pays n'est pas une aventure, moins encore un rêve. It is a real and very concrete challenge. Specially when you think about your professional career. Ce n'est pas simplement changer de pays, mais des fois, de changer de profession ou encore de recommencer."
 url: /imigracao/career-challenges-defis-de-carriere.html
-image: images/franglish13-career-challenges-defis-de-carriere.jpg
+image: /images/franglish13-career-challenges-defis-de-carriere.jpg
 podcast: podeixar
 
 ---

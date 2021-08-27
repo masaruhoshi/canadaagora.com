@@ -8,7 +8,7 @@ categories:
 date: 2017-02-11T13:11:40+00:00
 summary: Mudar de país para muitos é sinônimo de buscar uma vida melhor. Mas será que essa busca da felicidade não é só trocar os problemas de lugar?
 url: /cotidiano/mudar-de-pais-em-busca-da-felicidade.html
-image: images/mudar-de-pais-em-busca-da-felicidade.png
+image: /images/mudar-de-pais-em-busca-da-felicidade.png
 
 ---
 # Mudar de país em busca da felicidade

@@ -8,7 +8,7 @@ categories:
 date: 2018-03-19T10:30:31+00:00
 summary: Existe realmente um machismo que habita dentro de nós? A mudança para o Canadá nos tornou mais receptivos? Ainda existe distinção de tarefas de homem e de mulher? Criar os filhos numa sociedade mais igualitária é mais fácil ou mais difícil? 
 url: /cultura/o-machismo-que-habita-dentro-de-nos.html
-image: images/podeixar185-o-machismo-que-habita-dentro-de-nos.jpg
+image: /images/podeixar185-o-machismo-que-habita-dentro-de-nos.jpg
 podcast: podeixar
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2018-05-21T13:42:08+00:00
 summary: Vários fatores apontam que o Canadá não é um país. Como a história do país influenciou o que ele se tornou hoje? Quais as semelhanças e as diferenças com o Brasil? Como a sociedade canadense se enxerga e se mantem unida?
 url: /cultura/o-canada-nao-e-um-pais.html
-image: images/podeixar194-canada-nao-e-um-pais-icon.jpg
+image: /images/podeixar194-canada-nao-e-um-pais-icon.jpg
 podcast: podeixar
 
 ---

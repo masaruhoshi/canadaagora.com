@@ -8,7 +8,7 @@ categories:
 date: 2019-06-03T11:08:10+00:00
 summary: 'O custo de vida, as vinícolas, mercado de trabalho, educação, saúde e muito mais. Confira agora: Cidades do Canadá: Kelowna, BC'
 url: /turismo/cidades-do-canada-kelowna.html
-image: images/podeixar241-cidades-do-canada-kelowna.jpg
+image: /images/podeixar241-cidades-do-canada-kelowna.jpg
 podcast: podeixar
 
 ---

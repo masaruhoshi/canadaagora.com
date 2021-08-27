@@ -9,7 +9,7 @@ categories:
 date: 2016-10-31T00:24:04+00:00
 summary: Porque escolher um idioma é importante ? Qual o conceito de referência para uma criança. Descubra um pouco mais neste Momento Lindo. Participe !
 url: /educacao/qual-lingua-falar-em-casa.html
-image: images/Lingua-momento-lindo.jpg
+image: /images/Lingua-momento-lindo.jpg
 instant_articles_submission_id:
   - 1786921304890060
 

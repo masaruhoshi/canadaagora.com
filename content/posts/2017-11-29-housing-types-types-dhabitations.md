@@ -8,7 +8,7 @@ categories:
 date: 2017-11-29T11:30:27+00:00
 summary: "Pouvez-vous imaginer la surprise que nous avons lorsque nous nous rendons housing in Canada are completely different than Brazil's?"
 url: /cotidiano/housing-types-types-dhabitations.html
-image: images/franglish-0008-housing-types-dhabitation.jpg
+image: /images/franglish-0008-housing-types-dhabitation.jpg
 podcast: podeixar
 
 ---

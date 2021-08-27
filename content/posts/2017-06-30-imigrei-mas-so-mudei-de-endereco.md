@@ -8,7 +8,7 @@ categories:
 - cultura
 date: 2017-06-30T10:00:23+00:00
 url: /cultura/imigrei-mas-so-mudei-de-endereco.html
-image: images/podeixar152.png
+image: /images/podeixar152.png
 podcast: podeixar
 
 ---

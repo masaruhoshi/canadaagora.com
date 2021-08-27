@@ -9,7 +9,7 @@ categories:
 date: 2017-10-05T16:38:14+00:00
 summary: Educar os filhos é uma tarefa integral, não importa onde você more. Mas será que estamos criando filhos para o mundo ou para nós mesmos?
 url: /cultura/criando-filhos-para-o-mundo.html
-image: images/criando-filhos-para-o-mundo.jpg
+image: /images/criando-filhos-para-o-mundo.jpg
 wps_subtitle:
   - Você está criando filhos para você?
 

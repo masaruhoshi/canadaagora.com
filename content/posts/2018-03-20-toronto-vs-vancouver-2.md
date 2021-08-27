@@ -8,7 +8,7 @@ categories:
 date: 2018-03-20T04:00:41+00:00
 summary: Continuando o primeiro post que escrevi sobre "Toronto vs. Vancouver", este aqui fala dos pontos em que Toronto se sai melhor do que Vancouver, na minha opinião. E então, qual será o veredito final? Quem faz mais "pontos" na categoria "cidade boa pra morar"? Confira aqui e dê também sua opinião.
 url: /cultura/toronto-vs-vancouver-2.html
-image: images/Lovely-Toronto.jpg
+image: /images/Lovely-Toronto.jpg
 wps_subtitle:
   - 'Ou: Placar final: Toronto 7 x 4 Vancouver'
 mashsb_custom_tweet:

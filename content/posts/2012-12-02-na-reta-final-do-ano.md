@@ -7,7 +7,7 @@ categories:
 - trabalho
 date: 2012-12-03T02:42:24+00:00
 url: /trabalho/na-reta-final-do-ano.html
-image: images/2012/12/thumbs-up-snow.jpg
+image: /images/2012/12/thumbs-up-snow.jpg
 podcast: podeixar
 
 ---

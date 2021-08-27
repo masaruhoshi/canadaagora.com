@@ -8,7 +8,7 @@ categories:
 date: 2017-01-26T21:15:00+00:00
 summary: 'Segura firme seu hot-dog, coloca mais vinagrete e purê pra dar liga e leia esse post com muita atenção. Preparou... Mordeu! '
 url: /imigracao/consultoria-vale-a-pena.html
-image: images/consultor-imigraca-vale-a-pena.jpg
+image: /images/consultor-imigraca-vale-a-pena.jpg
 syn_post_guid:
   - http://purehotdog.com/?p=2365
 syn_source_site_id:

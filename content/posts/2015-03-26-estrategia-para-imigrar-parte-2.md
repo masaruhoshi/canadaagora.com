@@ -8,7 +8,7 @@ categories:
 date: 2015-03-26T16:04:14+00:00
 summary: Segunda parte do vídeo sobre estratégias práticas para imigrar para o Canadá
 url: /imigracao/estrategia-para-imigrar-parte-2.html
-image: images/ML000006_Estrategia-2_CAPA.png
+image: /images/ML000006_Estrategia-2_CAPA.png
 format: video
 
 ---

@@ -9,7 +9,7 @@ categories:
 date: 2013-12-22T19:13:47+00:00
 summary: 'O Canadá tem dois vizinhos: Papai Noel e o Estados Unidos. O primeiro a gente só vê uma vez por ano e lá é muito frio. Então é melhor visitar os States. O que é preciso, que cuidados tomar, o que fazer e muito mais neste programa.'
 url: /cotidiano/viajando-para-os-estados-unidos.html
-image: images/programa-2.13-post.png
+image: /images/programa-2.13-post.png
 podcast: podeixar
 
 ---

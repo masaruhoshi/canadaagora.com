@@ -8,7 +8,7 @@ categories:
 date: 2013-05-12T22:29:20+00:00
 summary: Já que comprar uma casa ou um apartamento geralmente é algo que envolve um pouco mais de dinheiro que você pode gastar agora, a gente colocou tudo junto, num canto só, tudo o que a gente aprendeu procurando e trocando de aluguel em todos esses anos no Canadá. Esses passos funcionaram pra gente e a gente espera que funcione pra você também.
 url: /cotidiano/passo-a-passo-do-aluguel.html
-image: images/checklist-real-estate-cropped.jpg
+image: /images/checklist-real-estate-cropped.jpg
 
 ---
 Já que comprar uma casa ou um apartamento geralmente é algo que envolve um pouco mais de dinheiro do que você estaria disposto ou teria disponível para pagar, você provavelmente vai cair na opção de alugar um imóvel. O cenário ideal seria encontrar um apartamento mobiliado, com eletrodomésticos, próximo a tudo o que você precisa. Claro que o ideal nem sempre é palpável e pra isso a gente tem que abrir mão de algumas coisas em favor de outras (ou quem sabe você dá sorte e acaba encontrando seu pote de ouro no fim do arco-íris na forma de um belo imóvel, não?)

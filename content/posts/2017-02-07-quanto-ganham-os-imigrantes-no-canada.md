@@ -9,7 +9,7 @@ categories:
 date: 2017-02-07T15:09:02+00:00
 summary: Uma pesquisa recente buscando descobrir quanto ganham os imigrantes no Canadá mostra que a diferença salarial entre imigrantes é pior do que se imaginava
 url: /imigracao/quanto-ganham-os-imigrantes-no-canada.html
-image: images/quanto-ganham-os-imigrantes-no-canada.png
+image: /images/quanto-ganham-os-imigrantes-no-canada.png
 syn_post_guid:
   - http://mjconsultoria.com.br/?p=3315
 syn_source_site_id:

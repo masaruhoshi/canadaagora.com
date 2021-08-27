@@ -8,7 +8,7 @@ categories:
 date: 2019-04-05T13:00:55+00:00
 summary: 35% dos homicídios de mulheres no mundo são cometidos por seus companheiros. A gravidade do feminicídio e a importância da conscientização.
 url: /cultura/feminicidio-no-canada.html
-image: images/feminicio-no-canada.jpg
+image: /images/feminicio-no-canada.jpg
 essb_pc_twitter:
   - 1
 essb_c_twitter:

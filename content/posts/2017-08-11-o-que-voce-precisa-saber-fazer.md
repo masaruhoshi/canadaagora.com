@@ -9,7 +9,7 @@ categories:
 date: 2017-08-11T11:30:40+00:00
 summary: Da casa ao mercado, fique por dentro de dicas, experiências e o que você precisa saber fazer antes de mudar para o exterior (e nunca quis perguntar)
 url: /imigracao/o-que-voce-precisa-saber-fazer.html
-image: images/podeixar158.png
+image: /images/podeixar158.png
 wps_subtitle:
   - E nunca teve coragem de perguntar
 podcast: podeixar

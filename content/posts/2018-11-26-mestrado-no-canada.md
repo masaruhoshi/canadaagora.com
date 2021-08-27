@@ -8,7 +8,7 @@ categories:
 date: 2018-11-26T05:41:05+00:00
 summary: 'Quer fazer Mestrado no Canadá? Este post dá algumas dicas e orientações pra você saber pelo menos por onde começar a pesquisar. Leia deixe seu comentário. '
 url: /educacao/mestrado-no-canada.html
-image: images/farces-of-nature-theory-of-relativity.jpg
+image: /images/farces-of-nature-theory-of-relativity.jpg
 wps_subtitle:
   - mestrado no Canadá
 mashsb_pinterest_description:

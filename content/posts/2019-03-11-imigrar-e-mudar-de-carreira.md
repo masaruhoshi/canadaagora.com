@@ -9,7 +9,7 @@ categories:
 date: 2019-03-11T13:00:05+00:00
 summary: A competição e a dura realidade do mercado de trabalho, a frustração de quem faz a escolha errada e outros prós e contras de imigrar e mudar de carreira.
 url: /trabalho/imigrar-e-mudar-de-carreira.html
-image: images/podeixar229-imigrar-e-mudar-de-carreira.jpg
+image: /images/podeixar229-imigrar-e-mudar-de-carreira.jpg
 wps_subtitle:
   - Os prós e contras que ninguém te fala
 podcast: podeixar

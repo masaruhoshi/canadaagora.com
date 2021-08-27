@@ -8,7 +8,7 @@ categories:
 date: 2017-07-07T11:56:26+00:00
 summary: 'A reação do brasileiro ao se deparar com a igualdade de gêneros no Canadá e ter que fazer parte das tarefas do lar. PoDeixar #153 - Mexeram no meu queijo'
 url: /cultura/quem-mexeu-no-meu-queijo.html
-image: images/podeixar153.png
+image: /images/podeixar153.png
 wps_subtitle:
   - Também conhecido como "Aprenda a Cozinhar"
 podcast: podeixar

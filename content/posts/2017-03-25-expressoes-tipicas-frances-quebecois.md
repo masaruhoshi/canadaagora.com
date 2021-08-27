@@ -8,7 +8,7 @@ categories:
 date: 2017-03-25T23:16:54+00:00
 summary: Assim como o português falado no Brasil, o francês québecois é um idioma a parte. Conheça algumas frases e expressões típicas da província canadense.
 url: /cotidiano/expressoes-tipicas-frances-quebecois.html
-image: images/expressoes-tipicas-frances-quebecois.png
+image: /images/expressoes-tipicas-frances-quebecois.png
 
 ---
 # Expressões e típicas do francês québecois

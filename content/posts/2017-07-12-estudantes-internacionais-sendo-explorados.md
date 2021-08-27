@@ -9,7 +9,7 @@ categories:
 date: 2017-07-12T20:38:33+00:00
 summary: Pagando praticamente o dobro dos valores pagos por canadenses, estariam os estudantes internacionais sendo explorados pelas universidades?
 url: /noticias/estudantes-internacionais-sendo-explorados.html
-image: images/nour-alideeb.png
+image: /images/nour-alideeb.png
 wps_subtitle:
   - Em Ontario, eles pagaram $1.3B em mensalidades, o dobro de 4 anos atrás
 

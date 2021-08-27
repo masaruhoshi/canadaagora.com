@@ -7,7 +7,7 @@ categories:
 - cotidiano
 date: 2012-11-30T22:42:39+00:00
 url: /cotidiano/cama-mesa-e-marmita-o-dia-a-dia-no-canada.html
-image: images/2012/11/bigstockphoto_cleaning_man_45784141.jpg
+image: /images/2012/11/bigstockphoto_cleaning_man_45784141.jpg
 podcast: podeixar
 
 ---

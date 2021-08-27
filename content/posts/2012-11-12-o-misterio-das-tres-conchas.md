@@ -8,7 +8,7 @@ categories:
 date: 2012-11-13T02:39:32+00:00
 summary: Desvendamos o mistério de "O Demolidor" onde Sylvester Stallone é confrontado com o dilema de como usar três conchas ao invés do papel higiênico.
 url: /cotidiano/o-misterio-das-tres-conchas.html
-image: images/3226791584_1030ce3291_o.jpg
+image: /images/3226791584_1030ce3291_o.jpg
 ---
 # O mistério das três conchas
 

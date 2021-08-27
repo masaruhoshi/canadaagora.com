@@ -8,7 +8,7 @@ categories:
 date: 2018-08-01T20:05:31+00:00
 summary: Conheça a história dos órfãos de Duplessis, um dos episódios mais trágicos e desprezíveis da história do Canadá que deixa marcas até os dias de hoje
 url: /cultura/orfaos-de-duplessis.html
-image: images/os-orfaos-de-duplessis.jpg
+image: /images/os-orfaos-de-duplessis.jpg
 wps_subtitle:
   - Conheça um dos piores casos de abuso infantil da história do Canadá
 

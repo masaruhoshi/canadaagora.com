@@ -8,7 +8,7 @@ categories:
 date: 2013-05-06T00:14:51+00:00
 summary: Quando você pensa em comida no Canadá, esquilos e ursos num rolete são as primeiras coisas que vêm à sua cabeça? A gente te mostra que tem muito mais do que esses bichos no cardápio tradicional daqui.
 url: /cotidiano/culinaria-no-canada.html
-image: images/canada-food.jpg
+image: /images/canada-food.jpg
 podcast: podeixar
 
 ---

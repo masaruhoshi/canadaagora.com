@@ -8,7 +8,7 @@ categories:
 date: 2019-10-13T23:15:00+00:00
 summary: 'Conheça o sistema eleitoral canadense: quem podem votar, como e quando são as eleições e quais as principais diferenças com o Brasil.'
 url: /politica/sistema-eleitoral-canadense.html
-image: images/podeixar-especial-sistema-eleitoral-canadense.jpg
+image: /images/podeixar-especial-sistema-eleitoral-canadense.jpg
 podcast: podeixar
 
 ---

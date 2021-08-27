@@ -9,7 +9,7 @@ categories:
 date: 2016-05-09T22:16:05+00:00
 summary: Por quê falar de feminismo e igualdade entre homens e mulheres no Canadá se ele é um país desenvolvido?
 url: /politica/podeixar-129-feminismo-e-igualdade.html
-image: images/podeixar129-feminismo-sem-mimimi.png
+image: /images/podeixar129-feminismo-sem-mimimi.png
 podcast: podeixar
 
 ---

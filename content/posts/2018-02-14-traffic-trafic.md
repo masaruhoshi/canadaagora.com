@@ -8,7 +8,7 @@ categories:
 date: 2018-02-14T12:00:39+00:00
 summary: Traffic in the cities is getting more and more harder. Notre monde actuel roule tellement vite que le temps perdu dans les déplacements, des heures pour quelques uns parmi nous, affectent même le comportement au volant.
 url: /cultura/traffic-trafic.html
-image: images/franglish15-traffic-trafique.jpg
+image: /images/franglish15-traffic-trafique.jpg
 podcast: podeixar
 
 ---

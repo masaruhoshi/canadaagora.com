@@ -9,7 +9,7 @@ categories:
 date: 2014-12-09T05:00:39+00:00
 summary: 'Jaquetas, luvas, cachecóis, meias, botas, bonés, chapéus, AAAAAAAAAAAAAAAAAAAAAAAH! O que é preciso pra passar o intenso inverno canadense bem protegido do frio, de maneira confortável e razoavelmente barata? '
 url: /clima/frio-manual-do-usuario.html
-image: images/programa-3.12.png
+image: /images/programa-3.12.png
 podcast: podeixar
 
 ---

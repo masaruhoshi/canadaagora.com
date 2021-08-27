@@ -8,7 +8,7 @@ categories:
 date: 2015-04-23T15:50:39+00:00
 summary: Quais seriam os maiores obstáculos que um imigrante encara ao tentar ingressar no mercado de trabalho canadense?
 url: /trabalho/desafios-do-imigrante-no-mercado-canadense.html
-image: images/ML000010_5-desafios-de-ser-um-imigrante-entrando-no-mercado-de-trabalho_CAPA.png
+image: /images/ML000010_5-desafios-de-ser-um-imigrante-entrando-no-mercado-de-trabalho_CAPA.png
 format: video
 
 ---

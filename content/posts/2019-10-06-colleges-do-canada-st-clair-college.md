@@ -8,7 +8,7 @@ categories:
 date: 2019-10-06T23:00:02+00:00
 summary: Descubra o St. Clair College, sua infraestrutura, os programas, os docentes, o acolhimento ao estudante estrangeiro e muito mais.
 url: /educacao/colleges-do-canada-st-clair-college.html
-image: images/podeixar251-estudar-no-canada-st-clair-college.jpg
+image: /images/podeixar251-estudar-no-canada-st-clair-college.jpg
 podcast: podeixar
 
 ---

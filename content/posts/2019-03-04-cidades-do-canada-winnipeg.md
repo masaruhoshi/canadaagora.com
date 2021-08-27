@@ -9,7 +9,7 @@ categories:
 date: 2019-03-04T14:00:48+00:00
 summary: 'O custo de vida, as atrações, o mercado de trabalho, educação, saúde e muito mais. Confira agora! Cidades do Canadá: Winnipeg.'
 url: /imigracao/cidades-do-canada-winnipeg.html
-image: images/podeixar228-cidades-do-canada-winnipeg.jpg
+image: /images/podeixar228-cidades-do-canada-winnipeg.jpg
 wps_subtitle:
   - A gem in the heart of mainha
 podcast: podeixar

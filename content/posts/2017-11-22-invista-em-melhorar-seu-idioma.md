@@ -9,7 +9,7 @@ categories:
 date: 2017-11-22T21:05:17+00:00
 summary: Quando a gente chega no Canadá, acaba relaxando e pára de estudar inglês ou francês. Mas por que temos que continuar estudando uma vez que já estamos aqui?
 url: /cultura/invista-em-melhorar-seu-idioma.html
-image: images/invista-em-melhorar-seu-idioma.jpg
+image: /images/invista-em-melhorar-seu-idioma.jpg
 
 ---
 Quando a gente chega no Canadá, acaba relaxando e pára de estudar inglês ou francês. Em geral nosso vocabulário tende a estacionar por conta do meio de trabalho/convívio e o dia-a-dia não é suficiente para continuar evoluindo. Com o tempo a gente acaba entrando num ciclo vicioso: não estudo porque não tenho tempo; quando tenho tempo tem outras coisas que me impedem de estudar.

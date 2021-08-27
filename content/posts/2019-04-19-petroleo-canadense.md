@@ -8,7 +8,7 @@ categories:
 date: 2019-04-19T13:00:13+00:00
 summary: Entenda a dependência do petróleo canadense para a economia, os riscos e a necessidade de diversificar as fontes energéticas.
 url: /economia/petroleo-canadense.html
-image: images/petroleo-canadense.jpeg
+image: /images/petroleo-canadense.jpeg
 wps_subtitle:
   - ' impactos ambientais e energia renovável'
 

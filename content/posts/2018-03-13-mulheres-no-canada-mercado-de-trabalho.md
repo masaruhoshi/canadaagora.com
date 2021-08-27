@@ -8,7 +8,7 @@ categories:
 date: 2018-03-13T10:30:23+00:00
 summary: 'Inaugurando o primeiro episódio dedicado ao projeto #OPodcastÉDelas, três convidadas falam sobre salário, o tratamento recebido pelos colegas homens, assédio e outros aspectos das mulheres no mercado de trabalho no Canadá.'
 url: /cultura/mulheres-no-canada-mercado-de-trabalho.html
-image: images/podeixar184-mulheres-no-mercado-de-trabalho-do-canada.jpg
+image: /images/podeixar184-mulheres-no-mercado-de-trabalho-do-canada.jpg
 podcast: podeixar
 
 ---

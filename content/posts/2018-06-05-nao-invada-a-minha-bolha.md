@@ -6,7 +6,7 @@ type: post
 date: 2018-06-05T15:23:08+00:00
 summary: Alguns tem a sensação de ter seu espaço pessoal invadido. Outros estão tão fechados em sua bolha que acabam não abrindo este espaço para o mundo.
 url: /artigos/nao-invada-a-minha-bolha.html
-image: images/Drops-Não-invada-a-minha-bolha.jpeg
+image: /images/Drops-Não-invada-a-minha-bolha.jpeg
 wps_subtitle:
   - Drops ao vivo – 2018-05-27
 

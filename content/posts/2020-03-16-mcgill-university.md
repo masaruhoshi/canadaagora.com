@@ -8,7 +8,7 @@ categories:
 date: 2020-03-16T12:56:51+00:00
 summary: 'Descubra a Universidade McGill: o corpo docente, a infraestrutura, os cursos, os alunos e muito sobre uma das instituições mais importantes do Canadá.'
 url: /educacao/mcgill-university.html
-image: images/podeixar261-estudar-no-canada-mcgill-university.jpg
+image: /images/podeixar261-estudar-no-canada-mcgill-university.jpg
 essb_pc_twitter:
   - 1
 essb_c_twitter:

@@ -8,7 +8,7 @@ categories:
 - trabalho
 date: 2019-04-18T04:32:54+00:00
 url: /trabalho/entrevista-mae-engenheira-e-imigrante.html
-image: images/airplane-2.jpg
+image: /images/airplane-2.jpg
 wps_subtitle:
   - Histórias de Sucesso de quem imigrou para o Canadá
 mashsb_pinterest_description:

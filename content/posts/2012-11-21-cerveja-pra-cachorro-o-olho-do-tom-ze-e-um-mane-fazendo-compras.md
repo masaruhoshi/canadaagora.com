@@ -7,7 +7,7 @@ categories:
 - cotidiano
 date: 2012-11-21T05:57:59+00:00
 url: /cotidiano/cerveja-pra-cachorro-o-olho-do-tom-ze-e-um-mane-fazendo-compras.html
-image: images/2012/11/18thannualespyawardsarrivalsdtaygty5fwl.jpg
+image: /images/2012/11/18thannualespyawardsarrivalsdtaygty5fwl.jpg
 podcast: podeixar
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2016-05-31T08:44:00+00:00
 summary: Me chamaram para uma entrevista, e agora? O que posso negociar e como me comportar? Dicas para uma entrevista de emprego no Québec.
 url: /trabalho/entrevista-de-emprego-no-quebec.html
-image: images/entrevista-de-emprego-no-quebec.png
+image: /images/entrevista-de-emprego-no-quebec.png
 syn_post_guid:
   - http://purehotdog.com/?p=1287
 syn_source_site_id:

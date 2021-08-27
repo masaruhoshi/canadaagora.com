@@ -8,7 +8,7 @@ categories:
 date: 2018-05-21T17:12:22+00:00
 summary: 'Qual será a maior barreira pra sua imigração para o Canadá? Será que são as regras do governo, que favorecem candidatos com determinados perfis? Ou será que a maior barreira pra sua imigração é você mesmo? Clique aqui e confira! E compartilhe com a gente a sua opinião. '
 url: /imigracao/barreira-imigracao-eh-voce-mesmo.html
-image: images/mental-barriers.jpg
+image: /images/mental-barriers.jpg
 wps_subtitle:
   - 'Ou: “quem sabe faz a hora, não espera acontecer”'
 

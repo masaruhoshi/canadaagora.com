@@ -8,7 +8,7 @@ categories:
 date: 2017-03-08T19:02:33+00:00
 summary: Hoje é dia da mulher. Quero falar sobre as incríveis mulheres canadenses que fizeram história e continuam servindo como exemplo de força e determinação.
 url: /cultura/mulheres-canadenses.html
-image: images/mulheres-canadenses.png
+image: /images/mulheres-canadenses.png
 
 ---
 # Mulheres canadenses que ficaram para  história

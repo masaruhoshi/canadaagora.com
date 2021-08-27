@@ -8,7 +8,7 @@ categories:
 date: 2014-07-11T04:44:20+00:00
 summary: 'Algumas pessoas nascem com o dom de escrever e são felizes em compartilhar esse presente com todos que podem. Essa é Dilma D Moura, imigrante que lança seu primeiro livro em Terras Canadenses: A Primeira Nota, o primeiro livro de uma série que tem agradado muito mais pessoas do que você imagina.'
 url: /trabalho/primeira-nota.html
-image: images/programa-2.29-post.png
+image: /images/programa-2.29-post.png
 podcast: podeixar
 
 ---

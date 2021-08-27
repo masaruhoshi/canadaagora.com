@@ -10,7 +10,7 @@ categories:
 date: 2016-09-27T18:32:29+00:00
 summary: Coalisão de partidos considera número de imigrantes que chegam a Québec muito alto e pretende diminuir o número de vagas se ganhar a próxima eleição
 url: /politica/caq-quer-cortar-em-20-o-numero-de-novos-imigrantes-no-quebec.html
-image: images/caq-quer-cortar-50-de-novos-imigrantes-quebec.png
+image: /images/caq-quer-cortar-50-de-novos-imigrantes-quebec.png
 syn_post_guid:
   - http://mjconsultoria.com.br/?p=3131
 syn_source_site_id:

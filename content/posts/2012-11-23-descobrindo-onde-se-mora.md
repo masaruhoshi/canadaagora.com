@@ -7,7 +7,7 @@ categories:
 - cotidiano
 date: 2012-11-23T22:41:29+00:00
 url: /cotidiano/descobrindo-onde-se-mora.html
-image: images/2012/11/550-es0Nt.St_.138.jpeg
+image: /images/2012/11/550-es0Nt.St_.138.jpeg
 podcast: podeixar
 
 ---

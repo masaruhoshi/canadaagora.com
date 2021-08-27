@@ -8,7 +8,7 @@ categories:
 date: 2013-03-14T03:36:43+00:00
 summary: Como adaptar o paladar e as comidas brasileiras aos ingredientes e temperos do Canadá sem grandes traumas e sem sentir falta de nada.
 url: /cotidiano/falando-de-comida.html
-image: images/2013/03/1333521285_pictures.jpg
+image: /images/2013/03/1333521285_pictures.jpg
 podcast: podeixar
 
 ---

@@ -9,7 +9,7 @@ categories:
 date: 2017-09-08T12:00:17+00:00
 summary: O canadense é simpático? O Governo dá dinheiro para os imigrantes? Faz frio o ano todo? Despedaçamos sonhos e ilusões desmascarando os mitos sobre o Canadá.
 url: /cultura/mitos-sobre-o-canada.html
-image: images/podeixar161.png
+image: /images/podeixar161.png
 podcast: podeixar
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2016-03-05T17:49:40+00:00
 summary: 'Dirigir no Quebec é sinônimo de aventura: neve, chuva, gelo e vento. Infelizmente também o cenário perfeito para um acidente. Entra em cena o Constat Amiable.'
 url: /cultura/constat-amiable-aliado-acidente.html
-image: images/acidente-carro-constat-amiable.jpg
+image: /images/acidente-carro-constat-amiable.jpg
 syn_post_guid:
   - http://automoveisquebec.com/?p=2053
 syn_source_site_id:

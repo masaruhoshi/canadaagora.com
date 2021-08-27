@@ -8,7 +8,7 @@ categories:
 date: 2018-09-03T15:00:36+00:00
 summary: Rótulos e papéis são específicos de orientação sexual? Existe diferença entre machismo e masculinidade? Homens são felizes com seus papéis na sociedade?
 url: /cotidiano/rotulos-e-papeis-parte-2.html
-image: images/podeixar209-rotulos-e-papeis-parte-2.jpg
+image: /images/podeixar209-rotulos-e-papeis-parte-2.jpg
 podcast: podeixar
 
 ---

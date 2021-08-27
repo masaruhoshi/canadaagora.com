@@ -8,7 +8,7 @@ categories:
 date: 2014-02-18T05:13:51+00:00
 summary: Nesta nova série desta temporada, finalmente começamos a falar sobre o sistema de educação do Canadá. Neste primeiro episódio conversamos um pouco sobre como é o ensino primário (conhecido como fundamental, no Brasil). Descubra as diferenças, as curiosidades e o como não ser tão perdido quando matricular seu filho.
 url: /educacao/educacao-no-canada-ensino-fundamental.html
-image: images/programa-2.16-post.png
+image: /images/programa-2.16-post.png
 podcast: podeixar
 
 ---

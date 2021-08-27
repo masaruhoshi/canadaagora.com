@@ -9,7 +9,7 @@ categories:
 date: 2016-05-16T18:26:26+00:00
 summary: Descubra o que fazer quando você está vendendo ou comprando um carro no Canadá sem precisar de atravessadores
 url: /economia/comprado-um-carro-de-particular.html
-image: images/canada-vendendo-comprando-carro-particular.png
+image: /images/canada-vendendo-comprando-carro-particular.png
 syn_post_guid:
   - http://automoveisquebec.com/?p=2065
 syn_source_site_id:

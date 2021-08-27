@@ -6,7 +6,7 @@ type: post
 date: 2014-05-11T09:44:56+00:00
 summary: 'Depois de meses ausentes, as podeixetes voltaram e com a corda toda! Em uma série exclusiva só delas, o PoDeixar tem o orgulho de apresentar com exclusividade a série que vai mudar a sua visão da maternidade: Sendo mãe no Canadá começa esta semana!'
 url: /artigos/sendo-mae-no-canada-a-concepcao.html
-image: images/podeixetes.2.01-post.png
+image: /images/podeixetes.2.01-post.png
 podcast: podeixar
 
 ---

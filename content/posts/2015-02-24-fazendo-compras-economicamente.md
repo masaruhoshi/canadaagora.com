@@ -9,7 +9,7 @@ categories:
 date: 2015-02-24T13:00:12+00:00
 summary: Descontos, liquidações, promoções, ofertas! Todo mundo adora encontrar novas maneiras de comprar aquilo que quer ou que precisa sem ficar duro ou pendurado em dívidas. Quais as melhores datas para comprar roupas? Vale a pena comprar em liquidações? Boxing Day e Black Friday realmente são datas que valem a pena enfrentrar filas e mais filas?
 url: /economia/fazendo-compras-economicamente.html
-image: images/programa-3.14.png
+image: /images/programa-3.14.png
 podcast: podeixar
 
 ---

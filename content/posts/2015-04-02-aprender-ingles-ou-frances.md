@@ -8,7 +8,7 @@ categories:
 date: 2015-04-02T16:46:49+00:00
 summary: 'Estudar inglês ou francês para imigrar: qual é o melhor? Qual o mais prático? Qual o mais vantajoso?'
 url: /cultura/aprender-ingles-ou-frances.html
-image: images/ML000007_Ingles-ou-frances_CAPA.png
+image: /images/ML000007_Ingles-ou-frances_CAPA.png
 format: video
 
 ---

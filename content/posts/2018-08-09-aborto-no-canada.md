@@ -8,7 +8,7 @@ categories:
 date: 2018-08-09T17:11:37+00:00
 summary: O aborto no Canadá foi legalizado há mais de 30 anos. Contudo, ele está longe de ser os que mais aborta no mundo. Como o país lida com o controle do aborto?
 url: /cultura/aborto-no-canada.html
-image: images/aborto-no-canada.jpg
+image: /images/aborto-no-canada.jpg
 essb_pc_pinterest:
   - 1
 

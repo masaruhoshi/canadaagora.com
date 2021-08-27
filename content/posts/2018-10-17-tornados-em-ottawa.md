@@ -8,7 +8,7 @@ categories:
 date: 2018-10-17T16:15:10+00:00
 summary: Um relato de quando passaram tornados em Ottawa. Como esse episódio mostrou o melhor lado do canadense e como a união e solidariedade fazem parte deste país.
 url: /cotidiano/tornados-em-ottawa.html
-image: images/tornados-em-ottawa.jpg
+image: /images/tornados-em-ottawa.jpg
 
 ---
 No dia 21 de setembro deste ano, Ottawa foi atingida por vários tornados de categorias diferente, deixando rastros de destruição nunca antes vista por quem mora aqui. Apesar de algumas pessoas terem sido levadas para hospitais com danos médios e graves, felizmente não houve perdas de vidas.

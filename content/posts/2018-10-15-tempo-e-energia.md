@@ -8,7 +8,7 @@ categories:
 date: 2018-10-15T15:00:15+00:00
 summary: A relação entre tempo e energia na nossa vida e como a gente tem péssimos hábitos envolvendo esses dois que acabam destruindo a gente por dentro.
 url: /cultura/tempo-e-energia.html
-image: images/podeixar214-energia-e-disposicao-icon.jpg
+image: /images/podeixar214-energia-e-disposicao-icon.jpg
 podcast: podeixar
 
 ---

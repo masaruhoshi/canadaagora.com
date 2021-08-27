@@ -8,7 +8,7 @@ categories:
 date: 2018-02-05T06:33:05+00:00
 summary: Será que estamos finalmente deixando de lado o convívio social e assumindo que não conseguimos mais sobreviver sem telefones inteligentes e somos dependentes de estarmos conectados ou isso tudo não passa de intriga da oposição?
 url: /cultura/meu-amigo-e-uma-maquina.html
-image: images/podeixar179-meu-amigo-e-uma-maquina.jpg
+image: /images/podeixar179-meu-amigo-e-uma-maquina.jpg
 podcast: podeixar
 
 ---

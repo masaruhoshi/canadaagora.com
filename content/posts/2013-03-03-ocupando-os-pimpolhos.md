@@ -7,7 +7,7 @@ categories:
 - cotidiano
 date: 2013-03-04T04:58:06+00:00
 url: /cotidiano/ocupando-os-pimpolhos.html
-image: images/2013/03/spring-break-kids-jump.jpg
+image: /images/2013/03/spring-break-kids-jump.jpg
 podcast: podeixar
 
 ---

@@ -7,7 +7,7 @@ categories:
 - economia
 date: 2013-02-14T02:09:11+00:00
 url: /economia/reer-rrsp-e-outros-fundos.html
-image: images/2013/02/money-man.jpg
+image: /images/2013/02/money-man.jpg
 podcast: podeixar
 
 ---

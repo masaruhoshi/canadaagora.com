@@ -8,7 +8,7 @@ categories:
 date: 2017-01-27T04:48:25+00:00
 summary: Descubra porquê a vida da mulher no Québec não é muito diferente do resto do mundo mesmo num dos melhores países para ser mulher
 url: /cultura/condicao-da-mulher-no-quebec.html
-image: images/condicao-da-mulher-no-quebec.png
+image: /images/condicao-da-mulher-no-quebec.png
 
 ---
 # A condição da mulher no Québec hoje

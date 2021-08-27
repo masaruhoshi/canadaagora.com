@@ -9,7 +9,7 @@ categories:
 date: 2016-11-27T03:06:43+00:00
 summary: Como será o dia a dia de alguém que vive no exterior? É aquela vida cheia de acontecimentos, aventuras, novidades e coisas fascinantes no dia a dia? Ou se parece muito mais com a vida comum de quem continua morando no Brasil? Neste texto, falo um pouco sobre isso e você vai poder saber como é, afinal de contas, todo o glamour da vida do imigrante.
 url: /imigracao/glamour-vida-imigrante.html
-image: images/glamour-da-vida-do-imigrante.jpg
+image: /images/glamour-da-vida-do-imigrante.jpg
 
 ---
 # O glamour da vida do imigrante

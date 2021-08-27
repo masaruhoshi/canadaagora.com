@@ -8,7 +8,7 @@ categories:
 date: 2018-09-03T15:00:47+00:00
 summary: Descubra o que é o tal do CLB. Como atingir o famigerado CLB 9? É realmente possível atingir esse marca? Quais os segredos do IELTS?
 url: /idiomas/oh-my-english-4-clb.html
-image: images/ohmyenglish4-clb.jpg
+image: /images/ohmyenglish4-clb.jpg
 wps_subtitle:
   - Canadian Language Benchmarks
 podcast: podeixar

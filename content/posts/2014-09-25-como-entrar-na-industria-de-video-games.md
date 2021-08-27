@@ -8,7 +8,7 @@ categories:
 date: 2014-09-25T04:06:11+00:00
 summary: Paixão, entusiasmo, diversão. Nesta entrevista com Matthew Wiazowski, chefe da equipe de contratação da Ubisoft Montreál você descobre como ingressar na indústria de vídeo games.
 url: /trabalho/como-entrar-na-industria-de-video-games.html
-image: images/ubisoft.studio.jpg
+image: /images/ubisoft.studio.jpg
 
 ---
 A revista TheGeekCulture.com conseguiu entrevistar Matthew Wiazowski, chefe da equipe de recrutamento da Ubisoft Montreal, um dos maiores e mais ativos estúdios da indústria de vídeo-games da América do Norte. Montreal conta com mais de 2.400 funcionários, responsáveis por lançar títulos AAA dentro das estimativas de tempo previstas, sem sacrificar a qualidade.

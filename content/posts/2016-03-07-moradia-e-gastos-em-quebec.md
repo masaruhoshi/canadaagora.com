@@ -8,7 +8,7 @@ categories:
 date: 2016-03-07T05:11:00+00:00
 summary: Você provavelmente já se perguntou algumas vezes sobre o assunto. Onde morar? Quanto eu gasto? Quais os meus direitos e deveres? O que eu posso exigir ou questionar?
 url: /cotidiano/moradia-e-gastos-em-quebec.html
-image: images/moradia-e-gastos-no-quebec.png
+image: /images/moradia-e-gastos-no-quebec.png
 syn_post_guid:
   - http://purehotdog.com/?p=494
 syn_source_site_id:

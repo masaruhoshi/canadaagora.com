@@ -7,7 +7,7 @@ categories:
 - cotidiano
 date: 2013-01-31T12:34:09+00:00
 url: /cotidiano/ainda-falando-sobre-o-brasil.html
-image: images/2013/01/canada-havaianas.png
+image: /images/2013/01/canada-havaianas.png
 podcast: podeixar
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2018-08-20T15:00:46+00:00
 summary: Karate, a arte marcial mais conhecida do mundo. Mas, diferente do imaginário popular, o Karate é muito mais do que lavar o carro e encerar o chão.
 url: /cultura/karate-muito-alem-do-mestre-miyagi.html
-image: images/podeixar207-karate-muito-alem-do-sr-miyagi.jpg
+image: /images/podeixar207-karate-muito-alem-do-sr-miyagi.jpg
 podcast: podeixar
 
 ---

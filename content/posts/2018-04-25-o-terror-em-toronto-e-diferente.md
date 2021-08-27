@@ -9,7 +9,7 @@ categories:
 date: 2018-04-25T14:27:56+00:00
 summary: Um motorista dirigindo uma van alugada transformou pedestres que andavam nas calçadas em vítimas de um ataque que abalou Toronto.
 url: /noticias/o-terror-em-toronto-e-diferente.html
-image: images/terror-em-toronto-e-diferente.jpg
+image: /images/terror-em-toronto-e-diferente.jpg
 
 ---
 _Texto do jornalista Martin Regg Cohn_, <a href="https://www.thestar.com/opinion/star-columnists/2018/04/24/torontos-diversity-offers-a-degree-of-immunity-during-troubled-times.html" target="_blank" rel="noopener">publicado no <em>The Star</em></a> em 24 de Abril de 2018.

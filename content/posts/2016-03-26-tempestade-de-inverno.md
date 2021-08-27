@@ -9,7 +9,7 @@ categories:
 date: 2016-03-26T06:23:29+00:00
 summary: Como é ir pra rua num dia de tempestade de neve ?
 url: /clima/tempestade-de-inverno.html
-image: images/MLE-Tempestade-de-inverno.png
+image: /images/MLE-Tempestade-de-inverno.png
 format: video
 
 ---

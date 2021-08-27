@@ -8,7 +8,7 @@ categories:
 date: 2017-02-18T15:24:55+00:00
 summary: Mais da metade das pessoas do mundo sofrem com as conseqüências da falta de sol. Descubra porquê é tão importante pegar sol para manter a sua saúde.
 url: /cotidiano/falta-de-sol-nas-nossas-vidas.html
-image: images/falta-de-sol-nas-nossas-vidas.png
+image: /images/falta-de-sol-nas-nossas-vidas.png
 
 ---
 # O impacto da falta de sol nas nossas vidas

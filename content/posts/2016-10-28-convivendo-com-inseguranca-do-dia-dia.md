@@ -8,7 +8,7 @@ categories:
 date: 2016-10-28T10:00:54+00:00
 summary: O medo da violência e a insegurança são presentes em todas as pessoas, em todos os lugares. Mas será que mudar para um país mais seguro resolve ?
 url: /cotidiano/convivendo-com-inseguranca-do-dia-dia.html
-image: images/violencia-inseguranca-e-medo.png
+image: /images/violencia-inseguranca-e-medo.png
 instant_articles_submission_id:
   - 1808035369476300
 podcast: podeixar

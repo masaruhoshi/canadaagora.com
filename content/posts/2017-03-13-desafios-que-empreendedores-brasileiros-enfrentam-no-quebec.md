@@ -9,7 +9,7 @@ categories:
 date: 2017-03-13T16:08:07+00:00
 summary: 'Os desafios do empreendedorismo brasileiro na hora de abrir um negócio no Canadá. Confira  alguns conselhos para ser bem-sucedido no seu projeto de empresa.'
 url: /trabalho/desafios-que-empreendedores-brasileiros-enfrentam-no-quebec.html
-image: images/Planodenegocios.jpg
+image: /images/Planodenegocios.jpg
 podcast: podeixar
 
 ---

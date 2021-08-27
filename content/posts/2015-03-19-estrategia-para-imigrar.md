@@ -8,7 +8,7 @@ categories:
 date: 2015-03-19T18:03:12+00:00
 summary: Como se organizar para imigrar? Existe uma estratégia para isso ou é tudo na cara e na coragem?
 url: /imigracao/estrategia-para-imigrar.html
-image: images/ML000006_Estrategia-1_CAPA.png
+image: /images/ML000006_Estrategia-1_CAPA.png
 format: video
 
 ---

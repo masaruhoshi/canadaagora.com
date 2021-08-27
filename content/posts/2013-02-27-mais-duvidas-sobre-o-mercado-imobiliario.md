@@ -8,7 +8,7 @@ categories:
 - economia
 date: 2013-02-28T02:46:08+00:00
 url: /economia/mais-duvidas-sobre-o-mercado-imobiliario.html
-image: images/2013/02/corretor-de-imoveis2.jpg
+image: /images/2013/02/corretor-de-imoveis2.jpg
 podcast: podeixar
 
 ---

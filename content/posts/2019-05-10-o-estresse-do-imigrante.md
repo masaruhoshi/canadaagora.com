@@ -9,7 +9,7 @@ categories:
 date: 2019-05-10T13:00:14+00:00
 summary: Desemprego, separação familiar, discriminação, barreiras linguísticas e falta de apoio social. Entenda o fatores que contribuem para o estresse do imigrante
 url: /cultura/o-estresse-do-imigrante.html
-image: images/o-estresse-do-imigrante.jpg
+image: /images/o-estresse-do-imigrante.jpg
 podcast: podeixar
 
 ---

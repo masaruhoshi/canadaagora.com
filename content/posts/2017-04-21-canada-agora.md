@@ -8,7 +8,7 @@ categories:
 date: 2017-04-21T14:00:25+00:00
 summary: Você conhece o Canadá Agora? Prepare-se para saber um pouco deste projeto, seus colaboradores e tudo o que ele tem a oferecer para você sobre o Canadá
 url: /cotidiano/canada-agora.html
-image: images/podeixar142.png
+image: /images/podeixar142.png
 podcast: podeixar
 
 ---

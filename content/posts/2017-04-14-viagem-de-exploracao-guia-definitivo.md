@@ -8,7 +8,7 @@ categories:
 date: 2017-04-14T12:00:51+00:00
 summary: Não tem melhor maneira para acabar com as dúvidas da imigração do que conhecendo pessoalmente. Confira o Guia Definitiva da Viagem de Exploração do Canadá!
 url: /imigracao/viagem-de-exploracao-guia-definitivo.html
-image: images/podeixar141.png
+image: /images/podeixar141.png
 podcast: podeixar
 
 ---

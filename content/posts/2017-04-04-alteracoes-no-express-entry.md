@@ -9,7 +9,7 @@ categories:
 date: 2017-04-04T21:23:46+00:00
 summary: Governo do Canadá comunicou alterações no Express Entry, talvez um dos principais programas de imigração, que devem favorecer muitas pessoas.
 url: /imigracao/alteracoes-no-express-entry.html
-image: images/canada-anuncia-alteracoes-no-sistema-do-express-entry.png
+image: /images/canada-anuncia-alteracoes-no-sistema-do-express-entry.png
 syn_post_guid:
   - http://mjconsultoria.com.br/?p=3362
 syn_source_site_id:

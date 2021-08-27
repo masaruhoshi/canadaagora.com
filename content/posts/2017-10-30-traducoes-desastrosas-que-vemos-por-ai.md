@@ -8,7 +8,7 @@ categories:
 date: 2017-10-30T10:30:40+00:00
 summary: Conheça traduções desastrosas de filmes que você nunca imaginou que fossem tão diferentes do original, seja em inglês, francês ou português.
 url: /cotidiano/traducoes-desastrosas-que-vemos-por-ai.html
-image: images/podeixar168-traducoes-desastrosas.jpg
+image: /images/podeixar168-traducoes-desastrosas.jpg
 podcast: podeixar
 
 ---

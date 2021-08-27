@@ -7,7 +7,7 @@ categories:
 - clima
 date: 2012-11-16T13:00:32+00:00
 url: /clima/preparando-sua-casa-para-o-inverno.html
-image: images/2012/11/house-under-snow.jpg
+image: /images/2012/11/house-under-snow.jpg
 
 
 ---

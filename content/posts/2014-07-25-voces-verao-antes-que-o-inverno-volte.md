@@ -9,7 +9,7 @@ categories:
 date: 2014-07-25T20:21:16+00:00
 summary: Final da segunda temporada do PoDeixar! E neste programa especialíssimo gravado ao ar livre em um parque em Québec, entrevistamos as pessoas e perguntamos qual é a boa deles pra curtir o intenso (mas não tão longo) verão canadense.
 url: /clima/voces-verao-antes-que-o-inverno-volte.html
-image: images/programa-2.31-post.png
+image: /images/programa-2.31-post.png
 podcast: podeixar
 
 ---

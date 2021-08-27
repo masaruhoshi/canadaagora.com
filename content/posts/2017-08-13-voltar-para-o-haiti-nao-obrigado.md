@@ -10,7 +10,7 @@ categories:
 date: 2017-08-13T16:27:33+00:00
 summary: Uma onda de haitianos que moravam nos Estados Unidos chega em busca de asilo no Canadá. Uma breve reflexão sobre porque eles não querem voltar para o Haiti.
 url: /noticias/voltar-para-o-haiti-nao-obrigado.html
-image: images/voltar-para-haiti-nao-obrigado.jpg
+image: /images/voltar-para-haiti-nao-obrigado.jpg
 wps_subtitle:
   - Um retrato do panorama dos haitianos que chegam ao Canadá em busca de asilo
 

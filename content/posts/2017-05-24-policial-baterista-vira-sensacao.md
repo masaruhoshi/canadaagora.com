@@ -8,7 +8,7 @@ categories:
 date: 2017-05-24T05:09:20+00:00
 summary: Chamado para terminar com festa, oficial acaba tocando com a banda da festa e dá lição para adolescentes. Conheça a história deste policial baterista.
 url: /cotidiano/policial-baterista-vira-sensacao.html
-image: images/Vinyl-Ambush-and-Peel-Region-Police-Jam-Session.jpeg
+image: /images/Vinyl-Ambush-and-Peel-Region-Police-Jam-Session.jpeg
 format: video
 
 ---

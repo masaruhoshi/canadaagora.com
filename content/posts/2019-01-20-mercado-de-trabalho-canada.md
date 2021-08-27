@@ -8,7 +8,7 @@ categories:
 date: 2019-01-21T00:38:44+00:00
 summary: 'Querendo saber como é o mercado de trabalho na sua área, no Canadá? Este post dá dicas de como você pode monitorar o mercado pra encontrar respostas para essa pergunta. Leia e compartilhe! '
 url: /trabalho/mercado-de-trabalho-canada.html
-image: images/mercado-de-trabalho-canada.jpg
+image: /images/mercado-de-trabalho-canada.jpg
 mashsb_pinterest_description:
   - Monitorando o mercado de trabalho no Candadá
 mashsb_custom_tweet:

@@ -8,7 +8,7 @@ categories:
 - clima
 date: 2012-11-16T03:22:49+00:00
 url: /clima/materia-especial-se-preparando-para-o-inverno.html
-image: images/2012/11/4-thumbs-up.jpg
+image: /images/2012/11/4-thumbs-up.jpg
 podcast: podeixar
 
 ---

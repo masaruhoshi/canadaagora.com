@@ -8,7 +8,7 @@ categories:
 date: 2018-08-06T20:00:57+00:00
 summary: Phrasal verbs. Por que é tão importante saber utilizá-los? Quando evitá-los? Os erros mais comuns e como eles se encaixam no IELTS / TOEFL.
 url: /educacao/phrasal-verbs.html
-image: images/ohmyenglish3-phrasal-verbs.jpg
+image: /images/ohmyenglish3-phrasal-verbs.jpg
 wps_subtitle:
   - ...e como ser descolado falando inglês
 podcast: podeixar

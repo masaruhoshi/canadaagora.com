@@ -8,7 +8,7 @@ categories:
 date: 2016-04-04T18:23:06+00:00
 summary: No mundo corrido de hoje, ser capaz de resolver problemas rapidamente é uma grande qualidade. Viver em "modo solução" e como isso afeta sua vida é o discutimos neste Momento Lindo.
 url: /cotidiano/modo-solucao.html
-image: images/ML-Artigo-Modo-solucao.jpg
+image: /images/ML-Artigo-Modo-solucao.jpg
 
 ---
 ## <span style="color: #000000;">Modo solução</span>

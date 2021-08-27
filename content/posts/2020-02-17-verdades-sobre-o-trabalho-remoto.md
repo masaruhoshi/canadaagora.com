@@ -8,7 +8,7 @@ categories:
 date: 2020-02-17T23:00:00+00:00
 summary: 'Por que o trabalho remoto tem se tornado tão popular, quais os perfis mais procurados, os salários, os prós e os contras desse novo modelo'
 url: /trabalho/verdades-sobre-o-trabalho-remoto.html
-image: images/podeixar263-trabalho-remoto.jpg
+image: /images/podeixar263-trabalho-remoto.jpg
 podcast: podeixar
 
 ---

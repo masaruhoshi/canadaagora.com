@@ -9,7 +9,7 @@ categories:
 date: 2015-10-29T15:12:53+00:00
 summary: Já parou para pensar que imigrar para o Canadá pode ser uma viagem sem volta? O que muda em você, na sua família, na sua vida.
 url: /cultura/caminho-sem-volta.html
-image: images/ML000016_Canada-um-caminho-sem-volta_CAPA.png
+image: /images/ML000016_Canada-um-caminho-sem-volta_CAPA.png
 format: video
 
 ---

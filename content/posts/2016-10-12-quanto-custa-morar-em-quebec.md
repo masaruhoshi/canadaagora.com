@@ -8,7 +8,7 @@ categories:
 date: 2016-10-12T20:15:00+00:00
 summary: Não é fórmula mágica pro purê mas é aquela ajudinha que você precisava pra comer dogão no Québec. Conheça quanto custa morar em Québec
 url: /cotidiano/quanto-custa-morar-em-quebec.html
-image: images/quanto-custa-morar-em-quebec.png
+image: /images/quanto-custa-morar-em-quebec.png
 syn_post_guid:
   - http://purehotdog.com/?p=2178
 syn_source_site_id:

@@ -8,7 +8,7 @@ categories:
 date: 2013-06-20T04:13:35+00:00
 summary: O movimento AcordaBrasil movimenta também os brasileiros expatriados e declarações de apoio surgem por todo o mundo. No Canadá, depois de Toronto e Montréal agora chegou a vez de Québec também demonstrar seu apoio ao que tudo indica ser o momento em que as coisas vão começar a mudar.
 url: /politica/brasileiros-acordam-no-canada.html
-image: images/programa-62.png
+image: /images/programa-62.png
 podcast: podeixar
 
 ---

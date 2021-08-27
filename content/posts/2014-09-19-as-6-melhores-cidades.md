@@ -10,7 +10,7 @@ categories:
 date: 2014-09-19T19:42:59+00:00
 summary: 'Quais as melhores cidades do Canadá para se trabalhar? Qual a com que possui melhor sistema de saúde? Qual tem o melhor sistema educacional? Em que lugar realmente está dando dinheiro? Qual delas você deveria pensar duas vezes antes de se mudar? '
 url: /trabalho/as-6-melhores-cidades.html
-image: images/Toronto_City_Hall_Canada.jpg
+image: /images/Toronto_City_Hall_Canada.jpg
 podcast: podeixar
 
 ---

@@ -7,7 +7,7 @@ categories:
 - imigracao
 date: 2013-02-07T03:32:27+00:00
 url: /imigracao/mae-mulher-e-imigrante.html
-image: images/2013/02/mae-stressada.jpg
+image: /images/2013/02/mae-stressada.jpg
 podcast: podeixar
 
 ---

@@ -9,7 +9,7 @@ categories:
 date: 2017-01-10T14:22:01+00:00
 summary: A economia Canadense superou as expectativas ao criar 54.000 novos postos de trabalho, mas part-time jobs ainda são a maioria no mercado.
 url: /economia/part-time-jobs-foram-o-motor-do-emprego-no-canada-em-2016.html
-image: images/canada-jobs-part-time.jpg
+image: /images/canada-jobs-part-time.jpg
 syn_post_guid:
   - http://mjconsultoria.com.br/?p=3268
 syn_source_site_id:

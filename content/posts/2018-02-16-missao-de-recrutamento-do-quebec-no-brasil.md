@@ -10,7 +10,7 @@ categories:
 date: 2018-02-16T23:01:53+00:00
 summary: Empresas da província participam da missão de recrutamento do Québec em busca de brasileiros para as áreas de usinagem e tecnologia, inclusive entrevistando candidatos no Brasil durante o mês de Abril.
 url: /noticias/missao-de-recrutamento-do-quebec-no-brasil.html
-image: images/missao-recrutamento-quebec-2018.jpg
+image: /images/missao-recrutamento-quebec-2018.jpg
 wps_subtitle:
   - Empresas estarão no Brasil durante abril de 2018 em busca de candidatos
 

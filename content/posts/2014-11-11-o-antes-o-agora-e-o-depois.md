@@ -9,7 +9,7 @@ categories:
 date: 2014-11-11T05:00:48+00:00
 summary: Em clima de reflexão, confrontamos o que cada um pensava quando resolveu sair do país, o que encontrou quando chegou onde queria e o que espera do futuro. Programa imperdível pra quem pensa em imigrar ou simplesmente morar fora do país.
 url: /imigracao/o-antes-o-agora-e-o-depois.html
-image: images/programa-3.08.png
+image: /images/programa-3.08.png
 podcast: podeixar
 
 ---

@@ -10,7 +10,7 @@ categories:
 date: 2015-03-09T17:00:01+00:00
 summary: Preços dos imóveis no Canadá finalmente estão em queda?
 url: /politica/mercado-do-trabalho-baixa-qualidade-canada.html
-image: images/programa00007.png
+image: /images/programa00007.png
 format: video
 
 ---

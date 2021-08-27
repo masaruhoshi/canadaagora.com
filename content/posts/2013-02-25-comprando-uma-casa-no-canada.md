@@ -9,7 +9,7 @@ categories:
 date: 2013-02-26T03:49:10+00:00
 summary: Explicamos passo-a-passo com um especialista o que é preciso para comprar uma casa no Canadá sem pagar a mais por isso e com a segurança de um bom negócio
 url: /economia/comprando-uma-casa-no-canada.html
-image: images/2013/02/corretor-de-imoveis.jpg
+image: /images/2013/02/corretor-de-imoveis.jpg
 podcast: podeixar
 
 ---

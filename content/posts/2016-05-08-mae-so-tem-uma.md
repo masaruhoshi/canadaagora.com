@@ -6,7 +6,7 @@ type: post
 date: 2016-05-08T12:33:53+00:00
 summary: Feliz dia das mães ...
 url: /artigos/mae-so-tem-uma.html
-image: images/FV-ESPECIAL-DIA-DAS-MAES-2016.jpeg
+image: /images/FV-ESPECIAL-DIA-DAS-MAES-2016.jpeg
 format: video
 
 ---

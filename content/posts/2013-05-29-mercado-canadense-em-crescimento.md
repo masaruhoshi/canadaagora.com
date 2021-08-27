@@ -8,7 +8,7 @@ categories:
 date: 2013-05-30T01:44:34+00:00
 summary: Com uma média semanal de 1000$, salário dos canadenses acompanha o mercado e demonstra bons sinais de crescimento. Indústria florestal encabeça a lista. Finanças, educação e saúde ainda estão em destaque.
 url: /economia/mercado-canadense-em-crescimento.html
-image: images/economic-growth.jpg
+image: /images/economic-growth.jpg
 
 ---
 O último relatório publicado pelo Statistics Canada demonstra que a renda semanal média de quem mora no Canadá é de cerca de 915$. Isso representa um aumento de 0.7% entre os mêses de fevereiro e março de 2013, em um total de 3.1% acumulado desde o começo do ano.

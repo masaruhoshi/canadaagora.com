@@ -9,7 +9,7 @@ categories:
 date: 2017-10-18T18:41:58+00:00
 summary: A controversa bill 62 fará com que o Québec seja o primeiro lugar na América a ter uma lei que proíbe cobrir o rosto para utilizar serviços públicos
 url: /noticias/lei-proibira-cobrir-o-rosto-em-publico.html
-image: images/bill-62-quebec-passara-a-proibir-uso-em-publico-de-veus.jpg
+image: /images/bill-62-quebec-passara-a-proibir-uso-em-publico-de-veus.jpg
 
 ---
 Depois do tiroteio em uma mesquita em Québec, a Assembléia Nacional recuou no debate sobre símbolos religiosos. Mas durante o verão eles voltaram a trabalhar na controversa Bill 62.

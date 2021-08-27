@@ -7,7 +7,7 @@ categories:
 - cotidiano
 date: 2013-03-19T00:29:08+00:00
 url: /cotidiano/passeando-no-shopping.html
-image: images/2013/03/podeixetes-shopping.jpg
+image: /images/2013/03/podeixetes-shopping.jpg
 podcast: podeixar
 
 ---

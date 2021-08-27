@@ -8,7 +8,7 @@ categories:
 date: 2017-10-18T10:30:05+00:00
 summary: Qui sont les gars qui présente cette émission? Where why come from? Qui font ils ici? And why they had such a complicated idea?
 url: /cotidiano/qui-sommes-nous-who-are-we.html
-image: images/franglish-maintenow-who-are-we-qui-sommes-nous.jpg
+image: /images/franglish-maintenow-who-are-we-qui-sommes-nous.jpg
 podcast: podeixar
 
 ---

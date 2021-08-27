@@ -7,7 +7,7 @@ categories:
 - clima
 date: 2012-12-12T05:04:39+00:00
 url: /clima/neve-pra-que-te-quero.html
-image: images/2012/12/thumbs-up-glove-mountain-snow.png
+image: /images/2012/12/thumbs-up-glove-mountain-snow.png
 podcast: podeixar
 
 ---

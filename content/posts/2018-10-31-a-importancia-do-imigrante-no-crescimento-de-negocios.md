@@ -9,7 +9,7 @@ categories:
 date: 2018-10-31T20:24:36+00:00
 summary: Entenda a importância do imigrante no crescimento de negócios de um país e porque isso vai muito além de apenas aumentar a mão de obra no mercado.
 url: /trabalho/a-importancia-do-imigrante-no-crescimento-de-negocios.html
-image: images/a-importancia-do-imigrante-no-crescimento-de-negocios.jpg
+image: /images/a-importancia-do-imigrante-no-crescimento-de-negocios.jpg
 
 ---
 Um artigo publicado recentemente indica a importância do imigrante no crescimento de negócios de um país.

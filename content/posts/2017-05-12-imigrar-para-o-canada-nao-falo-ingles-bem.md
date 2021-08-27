@@ -9,7 +9,7 @@ categories:
 date: 2017-05-12T15:03:00+00:00
 summary: 'Se você quer imigrar para o Canadá, mas não fala inglês bem, você precisa ler este post! '
 url: /imigracao/imigrar-para-o-canada-nao-falo-ingles-bem.html
-image: images/english-.jpg
+image: /images/english-.jpg
 
 ---
 # Quero imigrar para o Canadá e não falo inglês bem… E AGORA?

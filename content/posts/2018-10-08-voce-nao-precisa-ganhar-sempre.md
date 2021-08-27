@@ -8,7 +8,7 @@ categories:
 date: 2018-10-08T15:00:47+00:00
 summary: Quais as conseqüências da pressão pelo sucesso? Que tipo de pessoas estamos formando? Descubra porque você não precisa ganhar sempre.
 url: /cultura/voce-nao-precisa-ganhar-sempre.html
-image: images/podeixar213-voce-nao-precisa-ganhar-sempre.jpg
+image: /images/podeixar213-voce-nao-precisa-ganhar-sempre.jpg
 podcast: podeixar
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2015-04-16T20:03:19+00:00
 summary: Trocar de área ou até de emprego é uma opção? E voltar a estudar? O que fazer para encontrar um emprego no Canadá!
 url: /trabalho/formas-abordar-mercado-trabalho-no-canada.html
-image: images/ML000009_5-formas-de-abordar-o-mercado-de-trabalho-no-canada_CAPA.png
+image: /images/ML000009_5-formas-de-abordar-o-mercado-de-trabalho-no-canada_CAPA.png
 format: video
 
 ---

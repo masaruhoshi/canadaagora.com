@@ -8,7 +8,7 @@ categories:
 date: 2013-06-09T20:24:25+00:00
 summary: Várias gerações cresceram com a mentalidade de estudar para chegar num curso universitário e assim garantir um bom trabalho. Mas será que hoje em dia ainda é necessário ter uma formação universitária para garantir uma boa condição financeira de vida? Neste programa a gente discute até onde isso é verdade e onde começa o exagero.
 url: /educacao/diploma-vs-certificacao.html
-image: images/diploma-vs-certificacao.png
+image: /images/diploma-vs-certificacao.png
 podcast: podeixar
 
 ---

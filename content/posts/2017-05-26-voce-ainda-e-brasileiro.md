@@ -9,7 +9,7 @@ categories:
 date: 2017-05-26T14:18:07+00:00
 summary: O tempo e a distância morando fora do Brasil acabam mudando seu jeito de ser e de pensar. Será que ainda assim, você ainda é brasileiro?
 url: /cultura/voce-ainda-e-brasileiro.html
-image: images/podeixar147.png
+image: /images/podeixar147.png
 podcast: podeixar
 
 ---

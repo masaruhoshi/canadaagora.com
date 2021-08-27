@@ -8,7 +8,7 @@ categories:
 date: 2019-02-27T15:38:31+00:00
 summary: Desde a entrevista até a cervejinha de sexta-feira com a galera do escritório. Conheça as diferenças entre o brasil e Canadá para um software engineer
 url: /trabalho/diferencas-brasil-canada-software-engineer.html
-image: images/diferencas-entre-o-brasil-e-canada-para-um-software-engineer-home-office.jpg
+image: /images/diferencas-entre-o-brasil-e-canada-para-um-software-engineer-home-office.jpg
 wps_subtitle:
   - Desde a entrevista até a cervejinha de sexta-feira com a galera do escritório
 

@@ -9,7 +9,7 @@ categories:
 date: 2017-06-29T16:55:34+00:00
 summary: Mais de 500.000 pessoas são esperadas para os 150 anos do Canadá. Por isso, é preciso planejar bem onde ir. Descubra como aproveitar o Canada Day em Ottawa
 url: /noticias/como-aproveitar-o-canada-day-em-ottawa.html
-image: images/como-aproveitar-o-canada-day-em-ottawa-1.jpg
+image: /images/como-aproveitar-o-canada-day-em-ottawa-1.jpg
 
 ---
 Mais de 500.000 pessoas devem viajar para Ottawa para celebrar os 150 anos do Canadá. Com toda essa multidão, a prefeitura e o Governo acabaram montando uma estrutura especial para manter a segurança do evento. Por isso nós montamos um guia rápido sobre **como aproveitar o Canada Day em Ottawa** para você.

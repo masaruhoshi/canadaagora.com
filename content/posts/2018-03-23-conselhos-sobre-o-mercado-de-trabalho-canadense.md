@@ -9,7 +9,7 @@ categories:
 date: 2018-03-23T17:11:45+00:00
 summary: Tem gente muito qualificada que está no Canadá há anos sem conseguir um emprego e não entende o porquê. Conheça alguns conselhos sobre o mercado de trabalho canadense que podem ajudar na sua colocação profissional.
 url: /cultura/conselhos-sobre-o-mercado-de-trabalho-canadense.html
-image: images/conselhos-sobre-o-mercado-canadense.jpg
+image: /images/conselhos-sobre-o-mercado-canadense.jpg
 
 ---
 Este depoimento acabou caindo nas minhas mãos graças ao nosso querido amigo João Gonçalves e dá excelentes conselhos sobre o mercado de trabalho canadense. Muitos dos quais eu gostaria muito ter sabido antes de ter chegado aqui. O mais interessante disso tudo é que o autor é algo como nós, um imigrante que veio parar o Canadá apostando suas fichas em uma vida melhor.

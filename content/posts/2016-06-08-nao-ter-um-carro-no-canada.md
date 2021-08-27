@@ -8,7 +8,7 @@ categories:
 date: 2016-06-09T03:00:39+00:00
 summary: Neste Momento Lindo, nós discutimos mais um tema sobre qualidade de vida. O que representa não ter um Carro no Canadá ? Qual o impacto disso em sua vida ? Quais os pontos positivos e negativos ? Descubra e dê também a sua opinião.
 url: /cotidiano/nao-ter-um-carro-no-canada.html
-image: images/ML21-Não-Ter-Um-Carro.jpeg
+image: /images/ML21-Não-Ter-Um-Carro.jpeg
 format: video
 
 ---

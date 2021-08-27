@@ -8,7 +8,7 @@ categories:
 date: 2019-08-07T15:44:47+00:00
 summary: A festa junina organizada pela recém fundada associação brasileira de Ottawa em 2019 foi um grande evento com direito a grandes prêmios e atrações.
 url: /cultura/festa-junina-de-ottawa-2019.html
-image: images/festa-junina-ottawa-2019.jpg
+image: /images/festa-junina-ottawa-2019.jpg
 format: video
 
 ---

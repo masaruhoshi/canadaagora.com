@@ -9,7 +9,7 @@ categories:
 date: 2015-04-08T16:00:01+00:00
 summary: 'Grana, impostos e salários: quanto realmente sobra no seu bolso?'
 url: /trabalho/dinheiro-no-canada.html
-image: images/programa00011.png
+image: /images/programa00011.png
 format: video
 
 ---

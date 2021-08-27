@@ -8,7 +8,7 @@ categories:
 date: 2016-02-01T11:15:33+00:00
 summary: 'PoDeixar 125 - Tiros em La Loche, o bilinguismo no Canadá e o Québec e o Preco da Honestidade'
 url: /cultura/podeixar-125-tiros-em-la-loche-bilinguismo-no-canada-e-o-preco-da-honestidade.html
-image: images/podeixar125.png
+image: /images/podeixar125.png
 podcast: podeixar
 
 ---

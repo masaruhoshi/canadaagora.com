@@ -10,7 +10,7 @@ categories:
 date: 2016-12-12T17:10:11+00:00
 summary: Com o inverno o risco de acidentes aumenta principalmente por causa do descaso com a segurança. Entenda porquê tirar neve do carro antes de dirigir.
 url: /cotidiano/3-razoes-tirar-neve-carro.html
-image: images/3-razoes-para-tirar-a-neve-do-carro.png
+image: /images/3-razoes-para-tirar-a-neve-do-carro.png
 
 essb_pc_pinterest:
   - 1

@@ -8,7 +8,7 @@ categories:
 date: 2016-06-01T03:47:09+00:00
 summary: Discutimos neste vídeo sobre as escolas públicas em Quebec e da qualidade do ensino por aqui. Ele é bom ou ruim ? Ou simplesmente diferente ?
 url: /educacao/escolas-em-quebec.html
-image: images/FV005-Escolas-em-Quebec-CAPA.png
+image: /images/FV005-Escolas-em-Quebec-CAPA.png
 format: video
 
 ---

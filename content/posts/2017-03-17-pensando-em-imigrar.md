@@ -8,7 +8,7 @@ categories:
 date: 2017-03-18T02:57:38+00:00
 summary: O sonho de imigrar pode ser um grande pesadelo quando não há um bom planejamento. Confira 7 dicas para montar um bom plano de imigração.
 url: /imigracao/pensando-em-imigrar.html
-image: images/podeixar137.png
+image: /images/podeixar137.png
 podcast: podeixar
 
 ---

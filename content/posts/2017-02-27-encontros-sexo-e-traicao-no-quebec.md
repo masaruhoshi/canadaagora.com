@@ -8,7 +8,7 @@ categories:
 date: 2017-02-27T16:46:36+00:00
 summary: Montreal atrai pessoas do mundo inteiro e não por acaso é preferida por quem procura se divertir. Descubra mais sobre encontros, sexo e traição no Québec.
 url: /cultura/encontros-sexo-e-traicao-no-quebec.html
-image: images/encontros-sexo-e-traicao-no-quebec.png
+image: /images/encontros-sexo-e-traicao-no-quebec.png
 
 ---
 # Encontros, sexo e traição no Québec

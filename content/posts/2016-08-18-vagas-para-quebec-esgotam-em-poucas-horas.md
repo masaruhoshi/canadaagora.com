@@ -9,7 +9,7 @@ categories:
 date: 2016-08-18T16:08:20+00:00
 summary: Candidatos ao processo de imigração provincial de 2016 comparecem e vagas para Québec esgotam em poucas horas (mas com críticas e reclamações dos usuários)
 url: /imigracao/vagas-para-quebec-esgotam-em-poucas-horas.html
-image: images/vagas-mon-projet-quebec-acabam-em-horas.png
+image: /images/vagas-mon-projet-quebec-acabam-em-horas.png
 syn_post_guid:
   - http://mjconsultoria.com.br/?p=3050
 syn_source_site_id:

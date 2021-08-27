@@ -8,7 +8,7 @@ categories:
 date: 2018-09-10T15:00:59+00:00
 summary: Fatos e características que mostram que a qualidade de vida nas cidades pequenas do Canadá é muito melhor do que se imagina.
 url: /imigracao/qualidade-de-vida-nas-cidades-pequenas.html
-image: images/podeixar210-qualidade-de-vida-nas-cidades-pequenas.jpg
+image: /images/podeixar210-qualidade-de-vida-nas-cidades-pequenas.jpg
 podcast: podeixar
 
 ---

@@ -9,7 +9,7 @@ categories:
 date: 2018-01-28T19:50:54+00:00
 summary: Aprender um idioma é uma tarefa que requer dedicação e paciência. Tudo "temperado" pelo seu sotaque, aquele danado que entrega a sua origem quando você menos espera. Há que diga que o sotaque é quem deixe um toque "exótico" em quem fala. Mas será que pode haver um lado ruim em ter sotaque?
 url: /trabalho/seu-sotaque-e-a-sua-vida.html
-image: images/seu-sotaque-sua-vida.jpg
+image: /images/seu-sotaque-sua-vida.jpg
 format: video
 
 ---

@@ -6,7 +6,7 @@ type: post
 date: 2015-10-22T15:57:10+00:00
 summary: Imigrar para o Canadá é sinônimo de sucesso para todo mundo? O que fazer quando nem tudo está sendo como o esperado?
 url: /artigos/cada-um-tem-sua-estrela.html
-image: images/ML000015_Cada-um-tem-sua-estrela_CAPA.png
+image: /images/ML000015_Cada-um-tem-sua-estrela_CAPA.png
 format: video
 
 ---

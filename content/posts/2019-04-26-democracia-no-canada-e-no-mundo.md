@@ -8,7 +8,7 @@ categories:
 date: 2019-04-26T13:00:13+00:00
 summary: 'A democracia no Canadá: da fundação da federação aos dias atuais. A constituição, o voto, a carta de direitos. E ainda: a democracia no resto do mundo.'
 url: /politica/democracia-no-canada-e-no-mundo.html
-image: images/democracia-no-canada.jpg
+image: /images/democracia-no-canada.jpg
 
 ---
 A independência do Canadá ocorreu no dia 1 julho de 1867, alguns anos depois da independência do Brasil que ocorreu no dia 07 de setembro de 1822.

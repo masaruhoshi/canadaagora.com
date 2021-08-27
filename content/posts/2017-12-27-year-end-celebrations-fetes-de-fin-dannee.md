@@ -8,7 +8,7 @@ categories:
 date: 2017-12-27T11:30:19+00:00
 summary: "Où son les fameux feux d'artifices qu'on voit dans les plus grandes villes au monde entier ? How year-end celebrations look like under extreme cold? Pourquoi la neige est si importante dans cette période ?"
 url: /cotidiano/year-end-celebrations-fetes-de-fin-dannee.html
-image: images/franglish-11-year-end-celebrations-de-fin-dannee.jpg
+image: /images/franglish-11-year-end-celebrations-de-fin-dannee.jpg
 podcast: podeixar
 
 ---

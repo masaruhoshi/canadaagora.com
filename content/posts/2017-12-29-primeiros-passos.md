@@ -8,7 +8,7 @@ categories:
 date: 2017-12-30T01:19:06+00:00
 summary: Quero imigrar para o Canadá. Por onde devo começar? Confira neste post minhas dicas, com várias informações muito úteis para que você se organize e possa começar seu projeot de imigraçao para ao Canadá.
 url: /imigracao/primeiros-passos.html
-image: images/stepping-stones.jpg
+image: /images/stepping-stones.jpg
 wps_subtitle:
   - 'Ou: Guia Definitivo para os primeiros passos no seu plano de imigração para o Canadá'
 essb_pc_twitter:

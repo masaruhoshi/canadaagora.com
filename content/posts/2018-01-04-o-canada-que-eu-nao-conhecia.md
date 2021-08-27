@@ -9,7 +9,7 @@ categories:
 date: 2018-01-04T14:34:10+00:00
 summary: Quando eu comecei a pensar em imigrar para o Canadá, eu mal e porcamente sabia onde era o país, meu francês era "zero" e eu sequer sabia onde iria morar. E mesmo depois de meses de pesquisa, eu descobri que tudo o que eu tinha aprendido era só a ponta do iceberg. Eu acabei conhecendo um Canadá que eu não conhecia.
 url: /cultura/o-canada-que-eu-nao-conhecia.html
-image: images/o-canada-que-eu-nao-conhecia.jpg
+image: /images/o-canada-que-eu-nao-conhecia.jpg
 podcast: podeixar
 
 ---

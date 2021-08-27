@@ -9,7 +9,7 @@ categories:
 date: 2015-02-23T21:00:30+00:00
 summary: Qual a melhor cidade do Canadá para se morar?
 url: /politica/melhor-cidade-do-canada.html
-image: images/programa00005.png
+image: /images/programa00005.png
 format: video
 
 ---

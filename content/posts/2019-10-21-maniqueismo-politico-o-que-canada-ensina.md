@@ -8,7 +8,7 @@ categories:
 date: 2019-10-21T18:30:52+00:00
 summary: Nós caímos constantemente na armadilha do maniqueísmo político. Compartilho um pouco de como o Canadá me ajdou a sair dessa armadilha.
 url: /politica/maniqueismo-politico-o-que-canada-ensina.html
-image: images/117.png
+image: /images/117.png
 
 ---
 ### Vamos falar um pouco de política &#8211; mas não exatamente da eleição do dia 21.

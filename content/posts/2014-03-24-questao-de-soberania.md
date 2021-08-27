@@ -9,7 +9,7 @@ categories:
 date: 2014-03-25T03:38:33+00:00
 summary: Soberania, Nação, separatismo, FQL, referendos, defesa da língua francesa, carta de valores do Québec. Tente entender com a gente o que raios é tudo isso, de onde surgiram todas essas discussões, porquê elas ainda existem e o quanto está saindo caro pagar para discutir a Soberania do Québec.
 url: /politica/questao-de-soberania.html
-image: images/programa-2.19-post.png
+image: /images/programa-2.19-post.png
 podcast: podeixar
 
 ---

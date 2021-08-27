@@ -8,7 +8,7 @@ categories:
 date: 2013-10-06T13:03:18+00:00
 summary: 'Ottawa, capital do Canadá. Conheça os pontos turísticos, os eventos, as curiosidades da cidade e também porque Ottawa se enche de tulipas todos os anos. '
 url: /turismo/canada-pra-quem-nao-mora-no-canada-ottawa.html
-image: images/programa-2.02-post.png
+image: /images/programa-2.02-post.png
 podcast: podeixar
 
 ---

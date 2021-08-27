@@ -10,7 +10,7 @@ categories:
 date: 2016-02-22T13:30:41+00:00
 summary: Como criar os filhos no Canadá é uma dúvida que atinge a maioria senão todos os pais e mães que decidem sair do Brasil e vir morar no Grande Norte.
 url: /imigracao/podeixar-127-criando-os-filhos-no-canada.html
-image: images/podeixar127-criando-os-filhos-no-canada.png
+image: /images/podeixar127-criando-os-filhos-no-canada.png
 podcast: podeixar
 
 ---

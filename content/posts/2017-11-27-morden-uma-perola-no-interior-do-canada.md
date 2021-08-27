@@ -8,7 +8,7 @@ categories:
 date: 2017-11-27T11:30:46+00:00
 summary: Imigrar para o Canadá é o sonho de muita gente. Mas ao invés um grande centro, por que não uma cidade no interior? Conheça o processo da cidade de Morden!
 url: /imigracao/morden-uma-perola-no-interior-do-canada.html
-image: images/podeixar172-uma-perola-chamada-morden.jpg
+image: /images/podeixar172-uma-perola-chamada-morden.jpg
 podcast: podeixar
 
 ---

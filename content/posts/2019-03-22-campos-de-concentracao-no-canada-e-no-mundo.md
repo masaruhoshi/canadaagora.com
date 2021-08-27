@@ -8,7 +8,7 @@ categories:
 date: 2019-03-22T13:00:13+00:00
 summary: Campos de concentração no Canadá e no resto do mundo. Lugares onde milhões de pessoas vivem ou viveram vários anos enclausuradas
 url: /politica/campos-de-concentracao-no-canada-e-no-mundo.html
-image: images/campos-de-concentracao-no-canada.jpg
+image: /images/campos-de-concentracao-no-canada.jpg
 podcast: podeixar
 
 ---

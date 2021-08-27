@@ -7,7 +7,7 @@ categories:
 - trabalho
 date: 2013-02-14T17:19:11+00:00
 url: /trabalho/a-aposentadoria-nao-e-mais-a-mesma-no-canada.html
-image: images/2013/02/casal-na-praia.jpg
+image: /images/2013/02/casal-na-praia.jpg
 
 ---
 Dando continuidade ao assunto que falamos no [programa com o Pedro sobre REER][1], o Huffington Post publicou uma [matéria muito interessante][2] falando sobre com a aposentadoria não é mais aquela idéia de ter tempo pra cultivar seus hobbies ou mesmo ficar sentado na varanda.

@@ -9,7 +9,7 @@ categories:
 date: 2016-12-07T16:24:19+00:00
 summary: Você já pensou em mudar de carreira e iniciar uma nova etapa profissional no Canadá? Não é uma tarefa fácil, mais mudar de área é uma boa opção de inserção profissional. Confira algumas dicas sobre como preparar-se para conduzir eficazmente esse processo de mudança.
 url: /trabalho/4-etapas-para-mudar-de-carreira-no-exterior.html
-image: images/mudar-de-carreira.jpg
+image: /images/mudar-de-carreira.jpg
 
 ---
 ## **4 etapas para mudar de carreira no exterior**

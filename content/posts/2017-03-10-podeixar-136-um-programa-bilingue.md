@@ -9,7 +9,7 @@ categories:
 date: 2017-03-10T17:39:24+00:00
 summary: 'Une émission de malade où  Berg et Japa se débrouillent in English and French en parlant des ses expériences learning both languages and living in Canadá!'
 url: /cultura/podeixar-136-um-programa-bilingue.html
-image: images/podeixar136.png
+image: /images/podeixar136.png
 podcast: podeixar
 
 ---

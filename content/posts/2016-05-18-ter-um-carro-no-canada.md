@@ -8,7 +8,7 @@ categories:
 date: 2016-05-18T19:51:02+00:00
 summary: Mais um Momento Lindo desta vez falando sobre Carro. Ter um carro no Canadá representa qualidade de vida ? Como ter ou não um carro afeta a sua vida, em termos de deslocamento, custos, trabalho e muito mais.
 url: /cotidiano/ter-um-carro-no-canada.html
-image: images/ML-20-Ter-um-carro-no-Canadá.jpeg
+image: /images/ML-20-Ter-um-carro-no-Canadá.jpeg
 format: video
 
 ---

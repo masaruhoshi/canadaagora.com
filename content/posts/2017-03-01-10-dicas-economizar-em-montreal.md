@@ -9,7 +9,7 @@ categories:
 date: 2017-03-01T18:30:34+00:00
 summary: Morar no Canadá não é sinônimo de ficar rica. Por isso, qualquer dinheiro sobrando é lucro! Confira 10 dicas fantásticas para economizar em Montréal
 url: /economia/10-dicas-economizar-em-montreal.html
-image: images/10-dicas-economizar-em-montreal.png
+image: /images/10-dicas-economizar-em-montreal.png
 
 ---
 # 10 dicas para economizar em Montreal

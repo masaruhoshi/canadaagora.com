@@ -9,7 +9,7 @@ categories:
 date: 2018-02-19T16:12:05+00:00
 summary: Nenhum setor tem escapado ileso da transformação impulsionada pela popularização da tecnologia e quem não consegue se adaptar está fadado a desaparecer. O presente e o futuro do varejo, a realidade canadense e como somos impactados.
 url: /cultura/o-presente-e-o-futuro-do-varejo.html
-image: images/podeixar181-o-presente-e-o-futuro-do-varejo.jpg
+image: /images/podeixar181-o-presente-e-o-futuro-do-varejo.jpg
 podcast: podeixar
 
 ---

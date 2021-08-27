@@ -9,7 +9,7 @@ categories:
 date: 2017-06-16T11:10:48+00:00
 summary: Hipocrisia, preconceito, rótulos e valores. Quem sai do Brasil faz menos mi-mi-mi? E o que fazer se nada der certo no seu plano de imigração?
 url: /trabalho/e-se-nada-der-certo.html
-image: images/podeixar150.png
+image: /images/podeixar150.png
 podcast: podeixar
 
 ---

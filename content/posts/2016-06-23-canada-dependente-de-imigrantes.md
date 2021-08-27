@@ -10,7 +10,7 @@ categories:
 date: 2016-06-23T12:00:13+00:00
 summary: Pesquisa demonstar que o crescimento do mercado de trabalho mostra que o Canadá é dependente de imigrantes
 url: /trabalho/canada-dependente-de-imigrantes.html
-image: images/canada-dependente-de-imigrantes-no-mercado-de-trabalho.png
+image: /images/canada-dependente-de-imigrantes-no-mercado-de-trabalho.png
 syn_post_guid:
   - http://mjconsultoria.com.br/?p=2884
 syn_source_site_id:

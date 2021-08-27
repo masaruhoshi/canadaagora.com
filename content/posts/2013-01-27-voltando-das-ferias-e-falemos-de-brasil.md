@@ -7,7 +7,7 @@ categories:
 - cotidiano
 date: 2013-01-28T04:19:36+00:00
 url: /cotidiano/voltando-das-ferias-e-falemos-de-brasil.html
-image: images/2013/01/orgulho-de-ser-brasileiro.jpg
+image: /images/2013/01/orgulho-de-ser-brasileiro.jpg
 podcast: podeixar
 
 ---

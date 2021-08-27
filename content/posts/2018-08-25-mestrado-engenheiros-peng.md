@@ -8,7 +8,7 @@ categories:
 - imigracao
 date: 2018-08-25T21:54:46+00:00
 url: /imigracao/mestrado-engenheiros-peng.html
-image: images/How-do-I-choose-between-so-many-career-paths-medium.jpg
+image: /images/How-do-I-choose-between-so-many-career-paths-medium.jpg
 wps_subtitle:
   - O mestrado também é uma boa opção para outros profissionais que desejam imigrar através dos estudos
 mashsb_pinterest_description:

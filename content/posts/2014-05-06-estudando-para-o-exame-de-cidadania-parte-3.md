@@ -8,7 +8,7 @@ categories:
 date: 2014-05-06T15:00:30+00:00
 summary: Chegou a hora de conhecer o sistema de governo e as eleições do Canadá. E descubra também o que faz deste país o sonho de milhares de pessoas em todo o mundo.
 url: /cultura/estudando-para-o-exame-de-cidadania-parte-3.html
-image: images/programa-2.25-post.png
+image: /images/programa-2.25-post.png
 podcast: podeixar
 
 ---

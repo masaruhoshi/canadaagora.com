@@ -9,7 +9,7 @@ categories:
 date: 2017-06-28T12:01:04+00:00
 summary: Polícia Federal suspende a emissão de novos passaportes por tempo indeterminado. Descubra como fica a situação de quem precisa viajar.
 url: /cotidiano/policia-federal-suspende-emissao-de-passaportes.html
-image: images/passaporte-brasileiro.jpeg
+image: /images/passaporte-brasileiro.jpeg
 wps_subtitle:
   - Quem tem viagem marcada é melhor ficar atento
 

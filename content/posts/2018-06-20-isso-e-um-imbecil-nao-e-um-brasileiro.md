@@ -8,7 +8,7 @@ categories:
 date: 2018-06-20T18:12:20+00:00
 summary: O Brasil virou notícia na copa da Rússia pelas razões erradas. Desculpe se você se sente ofendido, mas isso é um imbecil, não é um brasileiro.
 url: /cultura/isso-e-um-imbecil-nao-e-um-brasileiro.html
-image: images/isso-e-um-imbecil.jpg
+image: /images/isso-e-um-imbecil.jpg
 
 ---
 A mais nova notícia que transformou o Brasil em notícia pelo mundo afora veio certamente da Rússia, país que hospeda a Copa do Mundo de 2018. Mas a notícia não tem a ver com jogadas de gênio ou gols inesquecíveis. Lamentavelmente a razão é outra e nada tem a ver com o campo. Um grupo de &#8220;amigos&#8221; que viajou para a Rússia para prestigiar a seleção brasileira tem outra definição do que é se divertir.

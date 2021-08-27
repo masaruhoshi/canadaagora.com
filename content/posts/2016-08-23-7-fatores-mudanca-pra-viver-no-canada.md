@@ -8,7 +8,7 @@ categories:
 date: 2016-08-23T18:36:08+00:00
 summary: Neste post, Berg lista 7 fatores da mudança para quem vai recomeçar a vida no Canadá. Decidido a mudar de país ? Estes fatores são muito importantes.
 url: /imigracao/7-fatores-mudanca-pra-viver-no-canada.html
-image: images/ML-7-mudanças-Canada.jpg
+image: /images/ML-7-mudanças-Canada.jpg
 
 ---
 <h2 style="text-align: justify;">

@@ -9,7 +9,7 @@ categories:
 date: 2016-07-22T12:00:18+00:00
 summary: O Governo de Saskatchewan reabre seu programa de imigração, o Saskatchewan Express Entry
 url: /imigracao/saskatchewan-reabre-seu-programa-de-imigracao.html
-image: images/imigracao-saskatchewan.png
+image: /images/imigracao-saskatchewan.png
 syn_post_guid:
   - http://mjconsultoria.com.br/?p=3010
 syn_source_site_id:

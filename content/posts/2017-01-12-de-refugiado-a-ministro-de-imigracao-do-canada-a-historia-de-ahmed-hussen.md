@@ -10,7 +10,7 @@ categories:
 date: 2017-01-12T14:21:58+00:00
 summary: Ano novo, vida nova, diz o ditado. No caso do governo Canadense e para o primeiro-ministro Justin Trudeau isso significa mudanças nos membros do gabinete.
 url: /politica/de-refugiado-a-ministro-de-imigracao-do-canada-a-historia-de-ahmed-hussen.html
-image: images/ahmed-hussen-ministro-imigracao.png
+image: /images/ahmed-hussen-ministro-imigracao.png
 syn_post_guid:
   - http://mjconsultoria.com.br/?p=3274
 syn_source_site_id:

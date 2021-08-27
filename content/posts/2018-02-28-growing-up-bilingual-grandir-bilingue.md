@@ -8,7 +8,7 @@ categories:
 date: 2018-02-28T12:30:43+00:00
 summary: "Allons nous découvrir comment quelq'un qui grandir bilingue aperçois le monde autour de lui pendant qu'il apprenait a parler toutes ces langues. And also, let's discover how hard it is to someone growing up bilingual."
 url: /cultura/growing-up-bilingual-grandir-bilingue.html
-image: images/franglish17-growing-bilingual-grandir-bilingue.jpg
+image: /images/franglish17-growing-bilingual-grandir-bilingue.jpg
 podcast: podeixar
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2017-11-01T10:30:06+00:00
 summary: From pre-school to university, join us in this journey about the education system in Brazil, the 5th biggest Country in the world.
 url: /educacao/4-education-in-brazil-education-au-bresil.html
-image: images/franglish004-education-in-brazil-education-au-bresil.jpg
+image: /images/franglish004-education-in-brazil-education-au-bresil.jpg
 wps_subtitle:
   - From pre-school to the university, the education system of the 5th biggest Country in the world
 podcast: podeixar

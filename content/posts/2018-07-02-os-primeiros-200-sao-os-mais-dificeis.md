@@ -8,7 +8,7 @@ categories:
 date: 2018-07-02T16:00:23+00:00
 summary: Comemorando 200 programas relembramos os primeiros programas, as entrevistas, o trabalho e tudo mais o que fez o PoDeixar o que ele é hoje.
 url: /cultura/os-primeiros-200-sao-os-mais-dificeis.html
-image: images/podeixar200-os-primeiros-200-sao-os-mais-dificeis.jpg
+image: /images/podeixar200-os-primeiros-200-sao-os-mais-dificeis.jpg
 podcast: podeixar
 
 ---

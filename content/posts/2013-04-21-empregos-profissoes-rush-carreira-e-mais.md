@@ -9,7 +9,7 @@ categories:
 date: 2013-04-22T02:46:06+00:00
 summary: 'Começamos a semana trazemos sempre notícias quentinhas do que acontece. Neste programa você confere: o Canadá re-abre o processo federal. Conheça as melhores profissões do Canadá. Rush introduzido no hall da fama do Rock. Homem dobra de salário em apenas 2 meses. Conheça o carro que faz 1,300km/l. E ainda, saiba o que esperar do Google Glass.'
 url: /trabalho/empregos-profissoes-rush-carreira-e-mais.html
-image: images/programa-53.png
+image: /images/programa-53.png
 podcast: podeixar
 
 ---

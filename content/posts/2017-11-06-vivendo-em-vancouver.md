@@ -10,7 +10,7 @@ categories:
 date: 2017-11-06T11:30:21+00:00
 summary: Quatro YouTubers que moram em Vancouver falam sobre clima, custo de vida, trabalho, terremotos, ursos e compartilham suas experiências vivendo em Vancouver!
 url: /cultura/vivendo-em-vancouver.html
-image: images/podeixar169-vivendo-em-vancouver.jpg
+image: /images/podeixar169-vivendo-em-vancouver.jpg
 podcast: podeixar
 
 ---

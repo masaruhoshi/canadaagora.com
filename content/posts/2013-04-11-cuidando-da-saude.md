@@ -8,7 +8,7 @@ categories:
 date: 2013-04-11T14:24:34+00:00
 summary: Alimentação, saúde e esportes. Como são os canadenses quando estão cuidando da saúde e como eles não são nada parecidos com os americanos.
 url: /cotidiano/cuidando-da-saude.html
-image: images/2013/04/old-man-in-shape.jpg
+image: /images/2013/04/old-man-in-shape.jpg
 podcast: podeixar
 
 ---

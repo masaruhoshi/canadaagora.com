@@ -8,7 +8,7 @@ categories:
 date: 2018-07-23T15:00:47+00:00
 summary: Como se preparar para imigrar de maneira prática e coerente. Quanto vai custar? Quais os critérios a considerar? Quando buscar um consultor? E muito mais.
 url: /imigracao/como-se-preparar-para-imigrar.html
-image: images/podeixar203-se-preparando-para-imigrar-icon.jpg
+image: /images/podeixar203-se-preparando-para-imigrar-icon.jpg
 podcast: podeixar
 
 ---

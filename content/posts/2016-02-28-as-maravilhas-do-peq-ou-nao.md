@@ -9,7 +9,7 @@ categories:
 date: 2016-02-29T04:17:00+00:00
 summary: Como imigrar para o Québec pelo Programa de experiência quebequense (PEQ).
 url: /trabalho/as-maravilhas-do-peq-ou-nao.html
-image: images/programma-de-experience-quebecoise.png
+image: /images/programma-de-experience-quebecoise.png
 syn_post_guid:
   - http://purehotdog.com/?p=237
 syn_source_site_id:

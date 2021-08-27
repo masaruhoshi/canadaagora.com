@@ -8,7 +8,7 @@ categories:
 date: 2017-04-02T20:35:13+00:00
 summary: Como em vários lugares do mundo, no Canadá houve muita violência e ignorância contra as nações nativas. Conheça um pouco da condição dos índios no Canadá
 url: /cultura/indios-no-canada.html
-image: images/3c37b774aa87d6a2b65dbabe53dfb1f6.jpg
+image: /images/3c37b774aa87d6a2b65dbabe53dfb1f6.jpg
 essb_pc_twitter:
   - 1
 essb_c_twitter:

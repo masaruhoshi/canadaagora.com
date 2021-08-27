@@ -8,7 +8,7 @@ categories:
 date: 2016-10-25T11:25:15+00:00
 summary: 'Relacionamentos, família, religião, sexo: quais são os valores canadenses e como os brasileiros os percebem quando imigram para o Canadá.'
 url: /cultura/valores-canadenses-brasileiros.html
-image: images/podeixar132-valores-brasileiros-vs-canadenses.png
+image: /images/podeixar132-valores-brasileiros-vs-canadenses.png
 podcast: podeixar
 
 ---

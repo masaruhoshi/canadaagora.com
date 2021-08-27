@@ -8,7 +8,7 @@ categories:
 date: 2017-12-04T11:30:17+00:00
 summary: Dicas para nos previnir de acidentes nas ruas e nas calçadas, manter a saúde em dia e muito mais sobre como sobreviver ao inverno canadense.
 url: /cotidiano/riscos-e-perigos-do-inverno.html
-image: images/podeixar173-riscos-e-perigos-do-inverno.jpg
+image: /images/podeixar173-riscos-e-perigos-do-inverno.jpg
 podcast: podeixar
 
 ---

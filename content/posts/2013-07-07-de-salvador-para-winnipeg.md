@@ -8,7 +8,7 @@ categories:
 date: 2013-07-08T03:01:21+00:00
 summary: 'PoDeixar #65 traz como  entrevistado especial Celso Dantas, que nos conta como foi parar na capital da província de Manitoba e ainda acabou sendo contratado para trabalhar em uma das empresas mais promissoras e concorridas de todo o Canadá.'
 url: /imigracao/de-salvador-para-winnipeg.html
-image: images/programa-65.png
+image: /images/programa-65.png
 post_to_facebook_page:
   - 0
   - 0

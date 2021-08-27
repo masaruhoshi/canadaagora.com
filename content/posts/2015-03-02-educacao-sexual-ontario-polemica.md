@@ -8,7 +8,7 @@ categories:
 date: 2015-03-02T18:00:01+00:00
 summary: Seria a cura para a alergia ao amendoim?
 url: /politica/educacao-sexual-ontario-polemica.html
-image: images/programa00006.png
+image: /images/programa00006.png
 format: video
 
 ---

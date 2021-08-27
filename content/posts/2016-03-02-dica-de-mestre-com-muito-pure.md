@@ -9,7 +9,7 @@ categories:
 date: 2016-03-02T08:51:00+00:00
 summary: Conheça a possibilidade que faltava para seu/sua cônjuge que acompanhará o trabalhador temporário.
 url: /trabalho/dica-de-mestre-com-muito-pure.html
-image: images/dica-de-mestre.png
+image: /images/dica-de-mestre.png
 syn_post_guid:
   - http://purehotdog.com/?p=351
 syn_source_site_id:

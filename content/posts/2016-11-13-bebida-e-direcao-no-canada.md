@@ -9,7 +9,7 @@ categories:
 date: 2016-11-13T23:13:21+00:00
 summary: Apesar de muito divulgada no Brasil nem todos entendem a importância de não beber e dirigir. E no Canadá? O que acontece com a mistura bebida e direção?
 url: /cultura/bebida-e-direcao-no-canada.html
-image: images/bebida-e-direcao.png
+image: /images/bebida-e-direcao.png
 syn_post_guid:
   - http://automoveisquebec.com/?p=2086
 syn_source_site_id:

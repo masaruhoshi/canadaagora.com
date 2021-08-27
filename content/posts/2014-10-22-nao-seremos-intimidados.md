@@ -9,7 +9,7 @@ categories:
 date: 2014-10-23T03:52:48+00:00
 summary: Em um dia onde o país inteiro parou assustado com o ato estúpido e sem sentido de um homem solitário em Ottawa, resolvi simplesmente compartilhar meus pensamentos sobre tudo isso.
 url: /politica/nao-seremos-intimidados.html
-image: images/poppies.memorial.soldier.png
+image: /images/poppies.memorial.soldier.png
 
 ---
 Você que acompanha o PoDeixar sabe o quanto prezamos por boas risadas e pelo bom humor acima de tudo. Mas hoje, pela primeira e, eu espero, a última vez, eu escrevo com muita tristeza. Hoje, pela primeira vez desde que eu coloquei meus pés aqui, nesta nação que me acolheu, no que hoje eu chamo de lar, hoje, um ato estúpido e sem sentido tirou até minha vontade de rir.

@@ -8,7 +8,7 @@ categories:
 date: 2019-05-17T13:00:14+00:00
 summary: O Quebec foi um dos primeiros locais do mundo a criminalizar a discriminação contra homossexuais. Conheça a realidade LGBT no Quebec
 url: /cultura/lgbt-no-quebec.html
-image: images/lgbt-no-quebec.jpg
+image: /images/lgbt-no-quebec.jpg
 
 ---
 O Quebec foi um dos primeiros locais do mundo a banir todas as formas de discriminação contra os homossexuais. A homossexualidade foi descriminalizada e removida do Código Penal canadense em 1969. Está agora incluída na Carta de Direitos Humanos e Liberdades do Quebec como um motivo proibido de discriminação.

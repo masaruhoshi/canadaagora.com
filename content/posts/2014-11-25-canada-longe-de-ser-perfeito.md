@@ -9,7 +9,7 @@ categories:
 date: 2014-11-25T17:38:58+00:00
 summary: 'O Canadá é um país grande e nobre, cheio de belezas e oportunidades, mas longe de ser livre de problemas e dificuldades. Ilusão daqueles que pensam o contrário. '
 url: /trabalho/canada-longe-de-ser-perfeito.html
-image: images/dreamstime_xl_16438958.jpg
+image: /images/dreamstime_xl_16438958.jpg
 
 ---
 <p style="color: #373737;">

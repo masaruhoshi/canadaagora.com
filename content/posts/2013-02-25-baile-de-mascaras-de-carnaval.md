@@ -7,7 +7,7 @@ categories:
 - cultura
 date: 2013-02-26T04:44:38+00:00
 url: /cultura/baile-de-mascaras-de-carnaval.html
-image: images/2013/02/baile-de-mascaras-de-carnaval.jpg
+image: /images/2013/02/baile-de-mascaras-de-carnaval.jpg
 podcast: podeixar
 
 ---

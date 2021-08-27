@@ -9,7 +9,7 @@ categories:
 date: 2019-03-08T16:58:17+00:00
 summary: Longe das vitrines, a verdade sobre uma das maiores marcas de roupas de frio do mundo. Conheça a realidade da Canada Goose e a Crueldade Animal
 url: /cultura/canada-goose-crueldade-animal.html
-image: images/canada-goose-crueldade-animal.jpg
+image: /images/canada-goose-crueldade-animal.jpg
 
 ---
 Disponível em 36 países e popularizado por celebridades, os casacos da Canada Goose são vendidos através de distribuidores autorizados no Canadá e no exterior, bem como no site da empresa. O valor do casaco é caro, por volta dos $ 900 e a receita anual da empresa gira em torno de 290,8 milhões de dólares. Porém, há sofrimento em todos os casacos vendidos pela Canada Goose. Coiotes selvagens são capturados com armadilhas no chão que prendem a pata ou a cabeça do animal. O pelo dos coiotes são usados no capuz dos casacos. Antes de retirar a pele, os animais podem sagrar e sofrer durante dias. Ficam presos sofrendo de desidratação, congelação, gangrena e expostos a ataques de predadores. Os animais que não sucumbem à condições climáticas, a perda de sangue, infecção ou predadores, são mortos de forma cruel, nem sempre são assassinados por tiros, podendo ser estrangulados ou espancados pelos caçadores. Os animais são assassinados enquanto eles ainda estão conscientes e capazes de sentir dor.

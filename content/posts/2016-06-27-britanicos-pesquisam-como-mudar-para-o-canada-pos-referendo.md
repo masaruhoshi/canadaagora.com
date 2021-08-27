@@ -9,7 +9,7 @@ categories:
 date: 2016-06-27T12:51:24+00:00
 summary: Número de pesquisas sobre "Como mudar para o Canadá" aumenta após o fim da votação pelo referendo da brexit
 url: /imigracao/britanicos-pesquisam-como-mudar-para-o-canada-pos-referendo.html
-image: images/bandeira-reino-unido-canada.png
+image: /images/bandeira-reino-unido-canada.png
 syn_post_guid:
   - http://mjconsultoria.com.br/?p=2900
 syn_source_site_id:

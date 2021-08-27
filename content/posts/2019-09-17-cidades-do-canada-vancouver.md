@@ -8,7 +8,7 @@ categories:
 date: 2019-09-17T10:44:07+00:00
 summary: 'O custo de vida, as atrações, o mercado de trabalho, educação, saúde e muito mais. Confira agora: Cidades do Canadá: Vancouver.'
 url: /turismo/cidades-do-canada-vancouver.html
-image: images/podeixar248-cidades-do-canada-vancouver.jpg
+image: /images/podeixar248-cidades-do-canada-vancouver.jpg
 podcast: podeixar
 
 ---

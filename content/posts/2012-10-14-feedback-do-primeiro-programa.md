@@ -7,7 +7,7 @@ categories:
 - cotidiano
 date: 2012-10-15T01:40:20+00:00
 url: /cotidiano/feedback-do-primeiro-programa.html
-image: images/feedback-primeiro-programa.png
+image: /images/feedback-primeiro-programa.png
 podcast: podeixar
 
 ---

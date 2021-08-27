@@ -8,7 +8,7 @@ categories:
 date: 2017-01-23T00:14:48+00:00
 summary: Muitos imigrantes enfrentam dificuldades para se recolocar profissionalmente no Canadá. Veja neste texto alguns conselhos que podem lhe auxiliar na continuidade do seu projeto de carreira.
 url: /trabalho/recolocacao-profissional-dificuldades-e-estrategias.html
-image: images/Recolocação.jpg
+image: /images/Recolocação.jpg
 
 ---
 ## **Recolocação profissional: dificuldades e estratégias**

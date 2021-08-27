@@ -8,7 +8,7 @@ categories:
 date: 2016-01-25T04:30:16+00:00
 summary: 1º webinário do PoDeixar sobre transferência de dinheiro entre Brasil e Canadá
 url: /economia/1o-webinario-sobre-transferencia-de-dinheiro-entre-brasil-e-canada.html
-image: images/webinario-transferencia-brasil-canada.jpg
+image: /images/webinario-transferencia-brasil-canada.jpg
 format: video
 
 ---

@@ -8,7 +8,7 @@ categories:
 - clima
 date: 2013-02-07T18:12:40+00:00
 url: /clima/sua-casa-perdendo-calor.html
-image: images/2013/02/house-heat-fleeing.jpg
+image: /images/2013/02/house-heat-fleeing.jpg
 
 ---
 [Há alguns programas atrás][1] comentamos sobre algumas atitudes que você pode estar tomando para manter sua casa aquecida (e seu bolso) aquecidos. Hoje, lendo o Washington post, vi [uma notícia][2] que caiu como uma luva nesse assunto. Eles falam sobre os lugares mais prováveis por onde sua casa pode estar perdendo calor (e com ele seu dinheiro junto).

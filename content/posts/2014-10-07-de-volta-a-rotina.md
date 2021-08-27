@@ -9,7 +9,7 @@ categories:
 date: 2014-10-07T12:00:27+00:00
 summary: Obras pela cidade, trânsito maluco, gente perdida, novos horários, crianças na escola, MARMITAAAAAAAAAA! É, a brincadeira das férias acabaram e a rotina tem que voltar a reinar pelo bem e sanidade de todo mundo. Saiba como raios a gente se vira quando tudo volta de pernas-pro-ar e como a gente se vira pra colocar tudo de volta quando a ordem reinava.
 url: /educacao/de-volta-a-rotina.html
-image: images/programa-3.03.png
+image: /images/programa-3.03.png
 podcast: podeixar
 
 ---

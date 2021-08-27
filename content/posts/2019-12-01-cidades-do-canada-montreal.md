@@ -8,7 +8,7 @@ categories:
 date: 2019-12-02T01:00:00+00:00
 summary: ' Descubra a verdeira face de Montreal. O mercado de trabalho, custo de vida, transporte, saúde, educação e se ela realmente é o lugar ideal para você.'
 url: /turismo/cidades-do-canada-montreal.html
-image: images/podeixar259-cidades-do-canada-montreal.jpg
+image: /images/podeixar259-cidades-do-canada-montreal.jpg
 podcast: podeixar
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2013-06-16T23:27:18+00:00
 summary: Nem só de programação vive a área de TI. Podemos dizer sem qualquer exagero que sem elas hoje em dia não haveria Facebook, e-mail e nem mesmo o Google. No programa desta semana conversamos com dois especialistas na área de redes de computadores, mais especificamente sobre infraestrutura e segurança da informação.
 url: /cotidiano/infraestrutura-e-seguranca-de-ti.html
-image: images/infraestrutura-e-seguranca-de-ti.png
+image: /images/infraestrutura-e-seguranca-de-ti.png
 post_to_facebook_page:
   - 0
   - 0

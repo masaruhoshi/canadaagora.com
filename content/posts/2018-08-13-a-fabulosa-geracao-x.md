@@ -9,7 +9,7 @@ categories:
 date: 2018-08-13T15:00:13+00:00
 summary: Por que o mercado parece ter aberto os olhos e voltado sua atenção em direção a fabulosa geração X ao invés dos tão falados millennials?
 url: /cultura/a-fabulosa-geracao-x.html
-image: images/podeixar206-geracao-x-vai-salvar-o-mercado.jpg
+image: /images/podeixar206-geracao-x-vai-salvar-o-mercado.jpg
 wps_subtitle:
   - está mudando o mercado de trabalho
 podcast: podeixar

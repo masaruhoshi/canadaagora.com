@@ -10,7 +10,7 @@ categories:
 date: 2014-04-08T03:43:05+00:00
 summary: Em clima de terror, o PoDeixar apresenta vários assuntos que vão colocar à prova o seu plano de imigrar para o Canadá. Será que seu idioma é o suficiente? Você acha que vai ter dinheiro pra pagar as contas? Seu filho vai poder estudar? Sua profissão está de fato em demanda e você vai conseguir um emprego na sua área? Estas e outras perguntas a gente responde neste programa.
 url: /trabalho/o-lado-escuro-da-imigracao.html
-image: images/programa-2.21-post.png
+image: /images/programa-2.21-post.png
 podcast: podeixar
 
 ---

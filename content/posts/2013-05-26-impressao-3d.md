@@ -8,7 +8,7 @@ categories:
 date: 2013-05-26T23:52:04+00:00
 summary: Fizemos um programa diferente gravado em movimento numa viagem breve até St-Sylvestre de Beauce, onde gravamos uma vídeo-reportagem com David St-Hilaire, proprietário de um açougue onde eles vendem cortes de carnes brasileiros. E entrevistamos também Luís Andrade, profissional de TI que nos conta seus projetos e sua experiência com impressão 3D.
 url: /cotidiano/impressao-3d.html
-image: images/3d-printed-objects.jpg
+image: /images/3d-printed-objects.jpg
 podcast: podeixar
 
 ---

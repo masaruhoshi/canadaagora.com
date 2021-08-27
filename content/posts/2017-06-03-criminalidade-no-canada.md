@@ -8,7 +8,7 @@ categories:
 date: 2017-06-03T13:52:27+00:00
 summary: Conheça alguns dados sobre a criminalidade no Canadá e algumas das questões legais naquele que é o oitavo país mais pacífico do mundo.
 url: /cultura/criminalidade-no-canada.html
-image: images/criminalidade-no-canada.png
+image: /images/criminalidade-no-canada.png
 
 ---
 # Criminalidade no Canadá

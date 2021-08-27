@@ -8,7 +8,7 @@ categories:
 date: 2019-10-20T23:00:20+00:00
 summary: O calor no Canadá é um grande alívio depois de um longo inverno, mas pode trazer experiências desagradáveis e perigosas se você não se cuidar direito.
 url: /clima/calor-no-canada.html
-image: images/podeixar253-faz-calor-no-canada.jpg
+image: /images/podeixar253-faz-calor-no-canada.jpg
 podcast: podeixar
 
 ---

@@ -6,7 +6,7 @@ type: post
 date: 2017-04-04T12:42:07+00:00
 summary: 'Neste artigo Berg fala de 7 características que podem fazer de você um herói, uma pessoa de sucesso. Alcançar, realizar,  atingir, fazer. Todos esses são verbos que você precisa olhar com mais carinho e ter diferença na sua vida. O Canadá é seu objetivo. Corra atrás. Como? Leia este artigo e mãos a obra !'
 url: /artigos/voce-tambem-pode-ser-um-heroi.html
-image: images/voce-tambem-pode-ser-um-heroi.jpg
+image: /images/voce-tambem-pode-ser-um-heroi.jpg
 
 ---
 # Você  também pode ser um herói

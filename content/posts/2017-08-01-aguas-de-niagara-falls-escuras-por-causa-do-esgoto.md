@@ -10,7 +10,7 @@ categories:
 date: 2017-08-01T17:51:33+00:00
 summary: Operação acabou deixando águas de Niagara Falls escuras e com mal-cheiro, deixando moradores e visitantes extremamente incomodados.
 url: /noticias/aguas-de-niagara-falls-escuras-por-causa-do-esgoto.html
-image: images/aguas-niagara-falls-escuras.jpg
+image: /images/aguas-niagara-falls-escuras.jpg
 
 ---
 As cataratas de Niagara sofreram um efeito extremamente inesperado e indesejado causando muito inquietação local. A razão parece ter sido a ejeção de esgoto contaminado nas águas próximas às cataratas na semana passada. O episódio acabou deixando águas de Niagara Falls escuras e mal-cheirosas.

@@ -8,7 +8,7 @@ categories:
 date: 2015-03-12T15:42:01+00:00
 summary: O que fazer com as crianças durante as férias escolares se os pais não estão de férias?
 url: /cotidiano/ferias-escolares.html
-image: images/Perguntas-e-Respostas-1-Férias-escolares.jpeg
+image: /images/Perguntas-e-Respostas-1-Férias-escolares.jpeg
 format: video
 
 ---

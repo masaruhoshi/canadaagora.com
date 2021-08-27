@@ -8,7 +8,7 @@ categories:
 date: 2013-07-22T04:33:02+00:00
 summary: 'Comprar um carro é a segunda maior aquisição que uma pessoa pode ter no Canadá. O brasileiro se encanta com as condições de vendas: taxas com juros 0%, preços que não vêem no Brasil nem leilão de carros roubados, sem contar a infinidade de modelos. Então, qual a pegadinha? Neste programa Rafael Almeida do site Automóveis Québec é nosso convidado e vai explicar as peculiaridades da compra de um automóvel no Canadá.'
 url: /cotidiano/comprando-um-carro-no-canada.html
-image: images/programa-67-site.png
+image: /images/programa-67-site.png
 post_to_facebook_page:
   - 0
   - 0

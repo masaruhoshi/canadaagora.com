@@ -8,7 +8,7 @@ categories:
 date: 2017-08-25T11:00:23+00:00
 summary: Falado por mais de 220 milhões de pessoas, o francês é um dos idiomas oficiais do Canadá. Conheça como aprender o francês do Québec sem grandes problemas
 url: /cultura/aprenda-frances-agora.html
-image: images/podeixar160.png
+image: /images/podeixar160.png
 podcast: podeixar
 
 ---

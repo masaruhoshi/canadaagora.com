@@ -8,7 +8,7 @@ categories:
 - trabalho
 date: 2013-03-21T03:35:34+00:00
 url: /trabalho/sendo-medico-no-canada.html
-image: images/2013/03/clinical_pathology.jpg
+image: /images/2013/03/clinical_pathology.jpg
 podcast: podeixar
 
 ---

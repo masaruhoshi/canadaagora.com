@@ -8,7 +8,7 @@ categories:
 date: 2013-10-13T13:35:05+00:00
 summary: No segundo programa da nossa série "O Canadá por quem não mora no Canadá", falamos sobre as cidades de Niagara Falls e Niagara on the Lake. Conferimos de perto algumas das atrações e diversões da região, como as cataratas, os parques e a vida noturna que fazem da cidade um ponto de encontro para mais de 30 milhões de visitantes todos os anos. Venha saber um pouco mais do que conhecemos por lá e o que espera por você.
 url: /turismo/canada-pra-quem-nao-mora-no-canada-niagara.html
-image: images/programa-2.03-post.png
+image: /images/programa-2.03-post.png
 post_to_facebook_page:
   - 0
   - 0

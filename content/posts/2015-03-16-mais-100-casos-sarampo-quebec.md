@@ -8,7 +8,7 @@ categories:
 date: 2015-03-16T16:05:12+00:00
 summary: Golpe pelo telefone acaba com ameaça de morte.
 url: /imigracao/mais-100-casos-sarampo-quebec.html
-image: images/programa00009.png
+image: /images/programa00009.png
 format: video
 
 ---

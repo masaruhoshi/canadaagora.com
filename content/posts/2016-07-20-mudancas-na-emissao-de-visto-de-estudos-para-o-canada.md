@@ -9,7 +9,7 @@ categories:
 date: 2016-07-20T05:58:50+00:00
 summary: Descubra o que mudou no programa de emissão de visto de estudos para o Canadá depois das mudanças comunicadas pelo Governo
 url: /imigracao/mudancas-na-emissao-de-visto-de-estudos-para-o-canada.html
-image: images/visto-de-estudos-para-canada.png
+image: /images/visto-de-estudos-para-canada.png
 syn_post_guid:
   - http://mjconsultoria.com.br/?p=2981
 syn_source_site_id:

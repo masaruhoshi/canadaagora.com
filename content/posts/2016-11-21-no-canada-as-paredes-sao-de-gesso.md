@@ -9,7 +9,7 @@ categories:
 date: 2016-11-22T03:23:57+00:00
 summary: Talvez você não tenha essa ideia na sua cabeça, mas paredes podem representar sim qualidade de vida. Como é viver num lugar com paredes de gesso ?
 url: /cultura/no-canada-as-paredes-sao-de-gesso.html
-image: images/ML-22-Parede.jpeg
+image: /images/ML-22-Parede.jpeg
 format: video
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2016-02-04T21:00:09+00:00
 summary: Problemas nos projetos dos modelos obrigou a Honda e Mazda Canadá a suspender a venda de seus novos modelos na América do Norte.
 url: /cotidiano/honda-e-mazda-canada-suspendem-vendas.html
-image: images/mazda-honda-canada-recall.png
+image: /images/mazda-honda-canada-recall.png
 syn_post_guid:
   - http://automoveisquebec.com/?p=2034
 syn_source_site_id:

@@ -9,7 +9,7 @@ categories:
 date: 2013-07-04T03:21:23+00:00
 summary: 'Compilamos uma lista das mancadas que muita gente cometeu quando veio morar no Canadá. '
 url: /cultura/erros-gente-comete-canada.html
-image: images/facepalm.jpg
+image: /images/facepalm.jpg
 post_to_facebook_page:
   - 0
   - 0

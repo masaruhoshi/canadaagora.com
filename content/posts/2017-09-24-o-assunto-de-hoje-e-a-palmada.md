@@ -8,7 +8,7 @@ categories:
 date: 2017-09-24T13:47:31+00:00
 summary: Cada vez mais a sociedade desencoraja o uso da força física como forma de educação de crianças. O que diz a justiça canadense sobre o palmada na educação?
 url: /cultura/o-assunto-de-hoje-e-a-palmada.html
-image: images/o-assunt-e-a-palmada.png
+image: /images/o-assunt-e-a-palmada.png
 wps_subtitle:
   - O que diz a lei canadense e a brasileira sobre o uso da palmada na educação
 

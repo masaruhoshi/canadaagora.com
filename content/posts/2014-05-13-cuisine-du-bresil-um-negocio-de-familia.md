@@ -8,7 +8,7 @@ categories:
 date: 2014-05-13T16:00:33+00:00
 summary: 'Neste programa conhecemos a Cuisine du Brésil, uma empresa que nasceu da vontade, da dedicação e do amor de uma família que desde muito tempo tem literalmente nas mãos o segredo de uma deliciosa receita de sucesso! '
 url: /economia/cuisine-du-bresil-um-negocio-de-familia.html
-image: images/programa-2.26-post.png
+image: /images/programa-2.26-post.png
 podcast: podeixar
 
 ---

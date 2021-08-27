@@ -8,7 +8,7 @@ categories:
 date: 2016-12-21T12:00:32+00:00
 summary: Dinheiro, fama, sucesso, atenção. Uma breve reflexão sobre valores e o sentido da vida nesta quando todos fazem planos e promessas
 url: /cotidiano/chega-de-reclamar-e-mude-sua-vida.html
-image: images/o-sentido-da-vida.jpg
+image: /images/o-sentido-da-vida.jpg
 
 ---
 ## Chega de reclamar e mude sua vida

@@ -9,7 +9,7 @@ categories:
 date: 2017-04-07T11:00:52+00:00
 summary: 'Conheça os desafios, as conquistas e várias dicas de como trabalhar como enfermeiro no Canadá neste programa especial. Profissão: enfermagem.'
 url: /trabalho/profissao-enfermagem.html
-image: images/podeixar140.png
+image: /images/podeixar140.png
 podcast: podeixar
 
 ---

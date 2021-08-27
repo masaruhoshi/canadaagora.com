@@ -8,7 +8,7 @@ categories:
 date: 2017-10-06T23:00:45+00:00
 summary: O novo líder eleito de um importante partido do Canadá usa turbante e o canadense está dividido. Você votaria em uma pessoa de turbante?
 url: /politica/voce-votaria-em-uma-pessoa-de-turbante.html
-image: images/jagmeet-singh-the-star.jpg
+image: /images/jagmeet-singh-the-star.jpg
 
 ---
 Jagmeet Singh é o novo chefe do Novo Partido Democrático (NPD). Ele é deputado provincial desde 2011. É um advogado e trabalha voluntariamente para organismos que lutam por justiças sociais. E ele é um sikh.

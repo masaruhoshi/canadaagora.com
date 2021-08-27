@@ -9,7 +9,7 @@ categories:
 date: 2017-12-19T16:08:02+00:00
 summary: Este artigo é uma continuação da série IELTS 101. Hoje vamos falar sobre o Reading Test do IELTS e algumas de suas peculiaridades.
 url: /imigracao/ielts-101-reading-test.html
-image: images/canada-agora-post-6.jpg
+image: /images/canada-agora-post-6.jpg
 
 ---
 Este artigo é uma continuação da série [**IELTS 101: tudo o que você precisa saber sobre o exame**][1] na qual vamos explicar, em detalhes, como funciona essa prova que é simplesmente um dos quesitos mais importantes para a pontuação no _Express_ _Entry_. Hoje vamos falar sobre _reading_ e algumas de suas peculiaridades.

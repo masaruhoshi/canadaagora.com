@@ -8,7 +8,7 @@ categories:
 date: 2016-05-26T07:34:00+00:00
 summary: 'Quer saber qual a melhor forma de procurar emprego no Québec sem ter que atirar pra todo lado? '
 url: /trabalho/procurando-trabalho-no-quebec.html
-image: images/procurando-emprego-no-quebec.png
+image: /images/procurando-emprego-no-quebec.png
 syn_post_guid:
   - http://purehotdog.com/?p=1125
 syn_source_site_id:

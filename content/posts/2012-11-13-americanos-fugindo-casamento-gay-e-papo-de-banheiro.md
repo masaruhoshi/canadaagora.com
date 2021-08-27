@@ -7,7 +7,7 @@ categories:
 - politica
 date: 2012-11-14T04:30:31+00:00
 url: /politica/americanos-fugindo-casamento-gay-e-papo-de-banheiro.html
-image: images/2012/11/reagan-thumbs-up.jpg
+image: /images/2012/11/reagan-thumbs-up.jpg
 
 podcast: podeixar
 

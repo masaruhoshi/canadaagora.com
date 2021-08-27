@@ -9,7 +9,7 @@ categories:
 date: 2017-06-27T16:54:38+00:00
 summary: Ninguém está medindo esforços para comemorar o aniversário do país. Conheça 46 lugares para celebrar os 150 anos do Canadá em Ottawa!
 url: /noticias/46-lugares-para-celebrar-os-150-anos-do-canada-em-ottawa.html
-image: images/46-lugares-para-celebrar-150-anos-canada.jpg
+image: /images/46-lugares-para-celebrar-150-anos-canada.jpg
 mashsb_pinterest_description:
   - Ninguém está medindo esforços para comemorar o aniversário do país. Conheça 46 lugares para celebrar os 150 anos do Canadá em Ottawa!
 

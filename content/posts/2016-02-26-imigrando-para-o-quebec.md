@@ -10,7 +10,7 @@ categories:
 date: 2016-02-26T08:17:00+00:00
 summary: 'Voc&ecirc; tem muita vontade de imigrar para o Qu&eacute;bec, mas ainda n&atilde;o sabe como? Este post &eacute; pra voc&ecirc;!<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=purehotdog.com&amp;blog=107441638&amp;post=120&amp;subd=purehotdogdotcom&amp;ref=&amp;feed=1" width="1" height="1">'
 url: /cultura/imigrando-para-o-quebec.html
-image: images/imigrando-para-o-quebec.png
+image: /images/imigrando-para-o-quebec.png
 syn_post_guid:
   - http://purehotdog.com/?p=120
 syn_source_site_id:

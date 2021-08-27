@@ -8,7 +8,7 @@ categories:
 date: 2018-08-28T22:27:28+00:00
 summary: Um breve relato de quem embarcou no plano de morar em outro país que tenta mostrar que a idéia de “ir pra outro país é fácil!” não é bem uma verdade.
 url: /imigracao/ir-pra-outro-pais-e-facil.html
-image: images/ir-pra-outro-pais-e-facil.jpg
+image: /images/ir-pra-outro-pais-e-facil.jpg
 
 ---
 <header class="entry-header"></header>

@@ -9,7 +9,7 @@ categories:
 date: 2017-10-02T11:00:01+00:00
 summary: Qual o custo de vida nas principais cidades canadenses e quais os grandes vilões no orçamento doméstico no Canadá?
 url: /economia/custo-de-vida-no-canada.html
-image: images/podeixar164-custo-de-vida.png
+image: /images/podeixar164-custo-de-vida.png
 wps_subtitle:
   - Quais os grandes vilões no orçamento doméstico no Canadá?
 podcast: podeixar

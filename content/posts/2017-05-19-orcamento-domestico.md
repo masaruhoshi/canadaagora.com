@@ -9,7 +9,7 @@ categories:
 date: 2017-05-19T11:30:05+00:00
 summary: Entenda de maneira simples e fácil como controlar suas despesas e como controlar o seu orçamento doméstico no Canadá e em qualquer parte do mundo.
 url: /trabalho/orcamento-domestico.html
-image: images/podeixar146.png
+image: /images/podeixar146.png
 podcast: podeixar
 
 ---

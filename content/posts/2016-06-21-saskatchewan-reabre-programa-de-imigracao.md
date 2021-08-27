@@ -9,7 +9,7 @@ categories:
 date: 2016-06-21T12:30:53+00:00
 summary: Província de Saskatchewan reabre seu programa de imigração e oferece 600 vagas para profissionais qualificados morando no Canadá
 url: /imigracao/saskatchewan-reabre-programa-de-imigracao.html
-image: images/imigracao-saskatchwan-2016.png
+image: /images/imigracao-saskatchwan-2016.png
 syn_post_guid:
   - http://mjconsultoria.com.br/?p=2845
 syn_source_site_id:

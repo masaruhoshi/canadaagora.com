@@ -9,7 +9,7 @@ categories:
 date: 2014-09-22T16:16:31+00:00
 summary: O que será que passa na cabeça das mães de quem resolveu imigrar para o Canadá? O que elas pensam sobre a decisão dos filhos, de estar longe dos netos? Como elas encaram o clima, os hábitos e a cultura tão diferente? Conheça as mães do Berg e do Japa nesta entrevista especialíssima.
 url: /imigracao/3-01-coracoes-de-maes.html
-image: images/programa-3.01-post.png
+image: /images/programa-3.01-post.png
 podcast: podeixar
 
 ---

@@ -8,7 +8,7 @@ categories:
 date: 2015-05-04T15:00:00+00:00
 summary: Depois de várias semanas sem dar sinal algum, o Japa finalmente voltou. Mas, pra onde ele foi?
 url: /cotidiano/volta-do-japa.html
-image: images/programa00012.png
+image: /images/programa00012.png
 format: video
 
 ---

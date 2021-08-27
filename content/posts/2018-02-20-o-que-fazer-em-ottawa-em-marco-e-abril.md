@@ -8,7 +8,7 @@ categories:
 date: 2018-02-20T15:26:55+00:00
 summary: Confira algumas ideias sobre o que fazer em Ottawa nos meses de Março e Abril, tente aproveitar os últimos meses do inverno enquanto aguardo a primavera trazer o que de melhor tem a oferecer.
 url: /cotidiano/o-que-fazer-em-ottawa-em-marco-e-abril.html
-image: images/o-que-fazer-em-ottawa-marco-abril.jpg
+image: /images/o-que-fazer-em-ottawa-marco-abril.jpg
 format: video
 
 ---

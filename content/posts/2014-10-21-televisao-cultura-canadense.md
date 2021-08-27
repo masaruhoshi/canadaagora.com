@@ -8,7 +8,7 @@ categories:
 date: 2014-10-21T11:46:57+00:00
 summary: Conheça um pouco mais sobre a programação da TV do Canadá. Os programas jornalísticos, de entretenimento, os wake-up shows, desenhos, séries e muito mais em mais um programa sobre o cotidiano do Canada.
 url: /cultura/televisao-cultura-canadense.html
-image: images/programa-3.05.png
+image: /images/programa-3.05.png
 podcast: podeixar
 
 ---

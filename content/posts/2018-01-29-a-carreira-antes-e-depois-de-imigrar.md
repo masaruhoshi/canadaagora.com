@@ -9,7 +9,7 @@ categories:
 date: 2018-01-29T11:30:46+00:00
 summary: As vantagens, as desvantagens, os desafios e as estratégias para manter sua carreira ao imigrar e como se preparar da melhor maneira para ter uma integração com menos traumas possíveis.
 url: /trabalho/a-carreira-antes-e-depois-de-imigrar.html
-image: images/podeixar178-sua-carreira-antes-e-depois-de-imigrar.jpg
+image: /images/podeixar178-sua-carreira-antes-e-depois-de-imigrar.jpg
 podcast: podeixar
 
 ---

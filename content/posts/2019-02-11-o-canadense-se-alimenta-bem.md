@@ -8,7 +8,7 @@ categories:
 date: 2019-02-11T14:54:46+00:00
 summary: Conversamos sobre o novo guia de alimentação canadense, se ele realmente funciona e tentamos desvendar se o canadense se alimenta bem ou não.
 url: /cotidiano/o-canadense-se-alimenta-bem.html
-image: images/podeixar225-o-canadense-se-alimenta-bem.jpg
+image: /images/podeixar225-o-canadense-se-alimenta-bem.jpg
 wps_subtitle:
   - Analisamos o novo guia alimentar canadense
 podcast: podeixar

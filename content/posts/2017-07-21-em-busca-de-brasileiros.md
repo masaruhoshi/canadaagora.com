@@ -9,7 +9,7 @@ categories:
 date: 2017-07-21T10:00:21+00:00
 summary: Conheça o Québec Internacional e como eles estão indo buscar brasileiros para trabalhar no Canadá!
 url: /trabalho/em-busca-de-brasileiros.html
-image: images/podeixar155.png
+image: /images/podeixar155.png
 wps_subtitle:
   - Entrevista especial com as representantes oficiais do Québec Internacional
 podcast: podeixar

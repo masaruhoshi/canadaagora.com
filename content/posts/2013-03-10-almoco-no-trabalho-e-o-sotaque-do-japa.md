@@ -9,7 +9,7 @@ categories:
 date: 2013-03-11T02:59:16+00:00
 summary: Entre muitos dos hábitos que acabamos nos habituando no Canadá é o almoço no trabalho. Sem vale refeição, como funciona toda a logística por trás disso tudo.
 url: /trabalho/almoco-no-trabalho-e-o-sotaque-do-japa.html
-image: images/2013/03/desk_lunch440.jpg
+image: /images/2013/03/desk_lunch440.jpg
 podcast: podeixar
 
 ---

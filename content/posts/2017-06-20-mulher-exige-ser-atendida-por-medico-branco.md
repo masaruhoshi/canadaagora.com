@@ -9,7 +9,7 @@ categories:
 date: 2017-06-20T19:13:08+00:00
 summary: 'Em uma clínica em Mississauga, Ontario, uma mulher exige ser atendida por "médico branco"  enquanto espera numa clínica médica.'
 url: /noticias/mulher-exige-ser-atendida-por-medico-branco.html
-image: images/Woman-demands-white-doctor-for-son-at-Mississauga-clinic.jpeg
+image: /images/Woman-demands-white-doctor-for-son-at-Mississauga-clinic.jpeg
 format: video
 
 ---

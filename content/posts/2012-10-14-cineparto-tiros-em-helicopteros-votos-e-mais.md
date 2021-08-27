@@ -7,7 +7,7 @@ categories:
 - cotidiano
 date: 2012-10-15T01:45:57+00:00
 url: /cotidiano/cineparto-tiros-em-helicopteros-votos-e-mais.html
-image: images/cineparto.png
+image: /images/cineparto.png
 podcast: podeixar
 
 ---

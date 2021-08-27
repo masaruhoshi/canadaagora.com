@@ -9,7 +9,7 @@ categories:
 date: 2017-07-28T10:30:39+00:00
 summary: Conheça os regimes de trabalho, os tipos de pagamento, os descontos e diversas outras informações sobre o salário no Canadá que você tem que conhecer.
 url: /trabalho/salario-hora-do-pagamento.html
-image: images/podeixar156.png
+image: /images/podeixar156.png
 wps_subtitle:
   - Como calcular, quais os descontos e o que realmente sobra?
 mashsb_custom_tweet:

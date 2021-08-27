@@ -7,7 +7,7 @@ categories:
 - cotidiano
 date: 2013-03-18T03:16:45+00:00
 url: /cotidiano/cinema-impressao-3d.html
-image: images/2013/03/Popcorn-cinema-001.jpg
+image: /images/2013/03/Popcorn-cinema-001.jpg
 podcast: podeixar
 
 ---

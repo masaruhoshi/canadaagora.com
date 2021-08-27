@@ -9,7 +9,7 @@ categories:
 date: 2013-04-08T03:08:12+00:00
 summary: Neste programa exploramos a profissão de empregadas domésticas no Canadá. Será que esse é realmente um serviço caríssimo e inacessível para quem imigra?
 url: /cultura/empregadas-domesticas.html
-image: images/2013/04/empregadas-domesticas.jpg
+image: /images/2013/04/empregadas-domesticas.jpg
 podcast: podeixar
 
 ---

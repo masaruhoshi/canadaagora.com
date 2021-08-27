@@ -8,7 +8,7 @@ categories:
 date: 2016-10-07T23:08:22+00:00
 summary: Neste post Berg discute sobre alguns aspectos comportamentais que influenciam os valores. Não os seus, não os meus, os gerais, aqueles que deveriam ser parte da vida de cada um. Mas valores são bem particulares. Então como reagir e se adaptar a ideias talvez tão diferentes das nossas ?
 url: /cultura/choque-cultural-valores.html
-image: images/choque-cultural-valores.jpg
+image: /images/choque-cultural-valores.jpg
 
 ---
 <h2 style="text-align: justify;">

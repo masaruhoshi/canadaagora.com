@@ -9,7 +9,7 @@ categories:
 date: 2017-01-11T00:26:11+00:00
 summary: Chegou em Montreal e tá com a grana curta? Confira estas dicas de como viver em Montreal gastando pouquíssimo e realmente economizando!
 url: /imigracao/dicas-para-viver-em-montreal-gastando-pouquissimo.html
-image: images/dicas-para-viver-em-montreal-gastando-pouquissimo.png
+image: /images/dicas-para-viver-em-montreal-gastando-pouquissimo.png
 
 ---
 # Dicas para viver em Montreal gastando pouquíssimo!

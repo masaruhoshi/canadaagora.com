@@ -8,7 +8,7 @@ categories:
 date: 2017-04-28T14:25:57+00:00
 summary: Biquinis, manicures, café, fila pro banheiro e muito mais! Vamos continuar explorando os hábitos dos brasileiros (e dos canadenses) no Brasil e o no Canadá.
 url: /cultura/habitos-do-brasileiro-brasil-no-canada-2.html
-image: images/podeixar143.png
+image: /images/podeixar143.png
 podcast: podeixar
 
 ---

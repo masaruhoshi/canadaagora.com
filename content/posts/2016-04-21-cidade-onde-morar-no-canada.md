@@ -9,7 +9,7 @@ categories:
 date: 2016-04-21T16:34:28+00:00
 summary: Escolher a cidade onde vai morar no Canadá é uma decisão importante para seu projeto de vida em terras geladas. Muitas vezes essa decisão é tomada de forma rápida, sem muita analise, reflexão, sem um plano. Neste vídeo nos discutimos sobre algumas ideias que podem te ajudar a tomar uma decisão mais acertada e que pareça mais compatível com a sua condição específica.
 url: /imigracao/cidade-onde-morar-no-canada.html
-image: images/ML-18-Escolhendo-sua-cidade-no-Canadá.jpeg
+image: /images/ML-18-Escolhendo-sua-cidade-no-Canadá.jpeg
 format: video
 
 ---

@@ -9,7 +9,7 @@ categories:
 date: 2017-07-10T00:00:06+00:00
 summary: 'Em algum momento, todos nós teremos que buscar uma recolocação no mercado de trabalho. E hoje, na era tecnológca, a fórmla geral é enviar inúmeros Resumés para as vagas anunciadas online. No entanto, você percebe que o retorno é quase nulo. Como fazer? Confira neste post algumas estratégias. '
 url: /trabalho/job-search-youre-doing-wrong.html
-image: images/networking.jpg
+image: /images/networking.jpg
 wps_subtitle:
   - 'Ou: como fazer a busca por trabalho de uma maneira mais efetiva'
 

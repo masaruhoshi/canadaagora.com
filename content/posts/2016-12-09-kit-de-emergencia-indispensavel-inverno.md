@@ -9,7 +9,7 @@ categories:
 date: 2016-12-09T12:00:06+00:00
 summary: O inverno é lindo mas pode trazer situações bem desconfortáveis. Como se precaver quando seu carro morre no meio da estrada e o socorro demora para chegar?
 url: /cultura/kit-de-emergencia-indispensavel-inverno.html
-image: images/kit-de-emergencia-indispensavel-inverno.png
+image: /images/kit-de-emergencia-indispensavel-inverno.png
 syn_post_guid:
   - http://automoveisquebec.com/?p=2095
 syn_source_site_id:

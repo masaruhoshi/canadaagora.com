@@ -7,7 +7,7 @@ categories:
 - cultura
 date: 2019-02-15T14:47:14+00:00
 url: /cultura/mortalidade-infantil-no-canada.html
-image: images/mortalidade-infantil-canada.jpg
+image: /images/mortalidade-infantil-canada.jpg
 wps_subtitle:
   - Cuidados que podem ser tomados para reduzir essa triste realidade
 

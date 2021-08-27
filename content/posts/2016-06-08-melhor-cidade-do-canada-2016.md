@@ -8,7 +8,7 @@ categories:
 date: 2016-06-08T19:14:57+00:00
 summary: Resultado da pesquisa com as melhores cidades do Canadá para se morar. Confira a lista!
 url: /cotidiano/melhor-cidade-do-canada-2016.html
-image: images/melhores-cidades-canada-2016.png
+image: /images/melhores-cidades-canada-2016.png
 podcast: podeixar
 
 ---

@@ -9,7 +9,7 @@ categories:
 date: 2017-08-02T21:24:11+00:00
 summary: Uma pesquisa mostra que Toronto e Vancouver tem os melhores profissionais de TI do Canadá. Mas os salários não parecem acompanhar essa tendência.
 url: /noticias/toronto-e-vancouver-tem-os-melhores-profissionais-de-ti.html
-image: images/toronto-e-vancouver-tem-os-melhores-profissionais-de-ti.jpg
+image: /images/toronto-e-vancouver-tem-os-melhores-profissionais-de-ti.jpg
 wps_subtitle:
   - Mas parece os salários não estão acompanhando o nível deles
 

@@ -8,7 +8,7 @@ categories:
 date: 2019-08-18T01:15:21+00:00
 summary: 'Imigrar para o Canadá: confira aqui as etapas do processo rumo à minha residência permanente no Canadá. Foi uma longa jornada, mas com final muito feliz!'
 url: /imigracao/minha-timeline-de-imigracao.html
-image: images/15838455422_74868122b8_b.jpg
+image: /images/15838455422_74868122b8_b.jpg
 mashsb_custom_tweet:
   - 'Imigrar para o Canadá: confira aqui as etapas do processo rumo à minha residência permanente no Canadá. Foi uma longa jornada, mas com final muito feliz!'
 
