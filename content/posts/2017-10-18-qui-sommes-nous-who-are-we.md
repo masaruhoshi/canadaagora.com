@@ -12,6 +12,6 @@ image: /images/franglish-maintenow-who-are-we-qui-sommes-nous.jpg
 podcast: podeixar
 
 ---
-Salut and welcome! After a very short week, we are back to the second episode of Franglish Maintenow, your favorite bilingual podcast. Pour bien commencer notre series de podcast, on va faire bien et nous présenter. Who are we? D&#8217;où vennon nous? What we are doing here in Canada?
+Salut and welcome! After a very short week, we are back to the second episode of Franglish MainteNow, your favorite bilingual podcast. Pour bien commencer notre series de podcast, on va faire bien et nous présenter. Who are we? D&#8217;où vennon nous? What we are doing here in Canada?
 
 Get in touch with us! Écrivez-nous! franglish@canadaagora.com

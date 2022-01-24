@@ -16,9 +16,9 @@ Canada is place of wonders. It&#8217;s nature per se, is something astonishing, 
 
 Cela peut sembler exagéré, mais pour ceux qui viennent d&#8217;un pays où la température est pratiquement la même tout au long de l&#8217;année, rencontrer les changements apportés par les saisons est quelque chose de surprenant.
 
-In this episode of the Franglish Maintenow, we talk about our perception about the seasons here in Canada. Le charme des couleurs, le changement de température et bien sûr, la nécessité de changer les types de vêtements.
+In this episode of the Franglish MainteNow, we talk about our perception about the seasons here in Canada. Le charme des couleurs, le changement de température et bien sûr, la nécessité de changer les types de vêtements.
 
-Welcome to the Franglish Maintenow #3 &#8211; The seasons / Les saisons.
+Welcome to the Franglish MainteNow #3 &#8211; The seasons / Les saisons.
 
 ## Talk to us / Envoyer nous une message
 

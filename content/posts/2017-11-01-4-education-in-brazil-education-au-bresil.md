@@ -16,11 +16,11 @@ podcast: podeixar
 ---
 Hello and salut!
 
-Bienvenu encore une fois au Franglish Maintenow, un podcast bilingue enregistré par Lindoberg Gonçalves et Masaru Hoshi, deux canadiens-brésiliens qui habitent au Canada et qui aiment partager ses connaissances à propôs du Brésil et de na nouvelle patrie.
+Bienvenu encore une fois au Franglish MainteNow, un podcast bilingue enregistré par Lindoberg Gonçalves et Masaru Hoshi, deux canadiens-brésiliens qui habitent au Canada et qui aiment partager ses connaissances à propôs du Brésil et de na nouvelle patrie.
 
 In this episode, we talk about the education system in Brazil. Besides the obvious language difference, school life in Brazil is even more different than you can imagine. That&#8217;s why we decide to talk about it. From pre-school until the university, join us in this journey about the education system in the 5th biggest Country in the world.
 
-Relax and enjoy. Franglish Maintenow #4 &#8211; Education in Brazil / Education au Brésil.
+Relax and enjoy. Franglish MainteNow #4 &#8211; Education in Brazil / Education au Brésil.
 
 ## Talk to us / Envoyer nous une message
 
