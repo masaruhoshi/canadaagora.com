@@ -12,6 +12,6 @@ image: /images/welcome-bienvenue-franglish-maintenow.jpg
 podcast: podeixar
 
 ---
-Welcome to the Franglish Maintenow, an English / French bilingual podcast presented by two Brazilian/Canadian guys.
+Welcome to the Franglish MainteNow, an English / French bilingual podcast presented by two Brazilian/Canadian guys.
 
 Soyez bienvenue au Franglish MainteNow, un balado en Français et Anglais présenté pour deux gars brésilien/canadien.

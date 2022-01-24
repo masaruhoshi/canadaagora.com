@@ -565,9 +565,10 @@ textarea.form-control {
 
 header .navbar .nav-item .nav-link {
   padding: 4px 15px;
-  color: #fff;
-  font-size: 10pt;
+  color: #d33;
+  font-size: 14pt;
   font-weight: 700;
+  font-family: open sans,futura,sans-serif
 }
 
 @media (max-width: 991px) {

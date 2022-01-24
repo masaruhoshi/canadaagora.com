@@ -2,6 +2,7 @@
 
 {{ if eq site.Params.layout "1" }}
 <!-- featured post -->
+<!--
 <section class="overflow-hidden">
   <div class="container-fluid p-sm-0">
     <div class="row featured-post-slider">
@@ -22,6 +23,7 @@
     </div>
   </div>
 </section>
+-->
 <!-- /featured post -->
 
 {{ else if (eq site.Params.layout "2")}}
@@ -60,7 +62,8 @@
 <!-- blog post -->
 <section class="section">
   <div class="container">
-    {{ $paginator := .Paginate (after 6 (where site.RegularPages "Type" "post")) }}
+    {{/* $paginator := .Paginate (after 6 (where site.RegularPages "Type" "post")) */}}
+    {{ $paginator := .Paginate (where site.RegularPages "Type" "post") }}
     {{ if eq site.Params.layout "1" }}
 
     {{ range $paginator.Pages }}
@@ -69,7 +72,7 @@
       <img src="{{.Params.Image | absURL }}" alt="" class="news-card__image">
       <div class="news-card__text-wrapper">
         <h2 class="news-card__title">{{.Title}}</h2>
-        <div class="news-card__post-date">XXX Jan 29, 2018 XXX</div>
+        <div class="news-card__post-date">{{ .Date.Format "2006-01-02" }}</div>
         <div class="news-card__details-wrapper">
           <p class="news-card__excerpt">{{.Summary}}</p>
           <a href="{{.Permalink}}" class="news-card__read-more">Leia mais <i class="fas fa-long-arrow-alt-right"></i></a>

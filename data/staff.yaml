@@ -133,6 +133,17 @@ partners:
 #   intro: |
 #     Ciência, cultura e atualidades num podcast repleto de conteúdo de alta qualidade produzida por quem tem verdadeira paixão pelo assunto.
 podcasts:
+- name: Canadá Agora
+  title: Canadá Agora
+  link: /author/canada-agora
+  role: Podcast
+  city: World
+  images:
+    profile: images/canada-agora-logo.jpg
+  excerpt: |
+    Um podcast sobre política, economia e o cotidiano da vida no Canadá falado da maneira que você quer ouvir, contextualizado da maneira que você precisa para entender a realidade do país.
+  intro: |
+    Uma proposta diferente de podcast que explora os aspectos políticos, econômicos e culturais sobre a vida no Canadá, explicados de maneira simples e abrangente por Masaru Hoshi e Paulo Enrique Dantas, explorando as peculiaridades de cada região canadense e adaptado e contextualizado no ponto de vista do imigrante que veio do Brasil e adotou o Canadá como sua nova nação.
 - name: Podeixar
   title: Podeixar
   link: /author/podeixar
@@ -144,8 +155,8 @@ podcasts:
     O melhor podcast sobre o dia-a-dia e a vida no Canadá. Cultura, entretenimento, informação de maneira descontraída, agradável e irreverente, falando sobre assuntos variados sobre o dia-a-dia e a curiosidades da vida no Canadá.
   intro: |
     No ar desde 2012, o PoDeixar é o melhor podcast sobre o dia-a-dia e a vida no Canadá. Criado por brasileiros que vivem no Canadá e que adoram papo furado, Lindoberg Gonçalves, Masaru Hoshi e Andrea Zotelli trazem todas as semanas cultura, entretenimento, informação de maneira descontraída, agradável e irreverente, falando sobre assuntos variados sobre o dia-a-dia e a curiosidades da vida no Canadá.
-- name: Franglish MainteNow
-  title: Franglish MainteNow
+- name: Franglish Maintenow # There's a bug with Hugo. Don't mind it. It will render correctly
+  title: Franglish Maintenow
   link: /author/franglish-maintenow
   role: Podcast
   city: World
