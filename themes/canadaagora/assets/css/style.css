@@ -1603,3 +1603,7 @@ figure.img-fluid img {
 .entry-taxonomy-picture img {
   border-radius: 50%;
 }
+
+.max-featured-image {
+  max-width: 960px;
+}
