@@ -5,7 +5,7 @@ authors:
 type: post
 categories:
 - politica
-date: 2028-01-21T2:00:00+00:00
+date: 2022-01-28T2:00:00+00:00
 summary: 'Semana agitada no Grande Norte. Comboio anti-vacina, diplomacia no Twitter, novas evidências de sepulturas de crianças em escolas residenciais e muito mais rolando de costa a costa no país.'
 url: /politica/canadaagora-s1e3-transporte-ferroviario.html
 image: /images/canada-agora-s1e3-wide.jpg
