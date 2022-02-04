@@ -23,9 +23,9 @@ Seguindo o tema desta semana, o "Je me souviens" fala sobre o Bloody Sunday, um 
 Completando a tabelinha, no "Oh Canada!" falamos sobre o ato de protestar no Canadá, os direitos do cidadão e as conseqüências que podem recair sobre quem não seguir direitinho a cartilha.
 
 ## Sugestões desta semana
-- [ViaRail - Winnipeg a Churchil](https://www.viarail.ca/en/explore-our-destinations/trains/regional-trains/winnipeg-churchill)
-- [Canada Science and Technology Museum](https://ingeniumcanada.org/scitech)
-- [Rocky Mountaineer: Um passeio pelas rochosas](https://www.rockymountaineer.com/)
+- [Fred, La Marmote](https://www.fredlamarmotteofficielleduquebec.ca/) e [Shubenacadie Sam](https://wildlifepark.novascotia.ca/shubie-sam.asp)
+- [The Public Servant's Guide to Government in Canada](https://www.amazon.ca/Public-Servants-Guide-Government-Canada/dp/1487594763)
+- [The Charter of Rights and Freedoms: 30+ years of decisions that shape Canadian life](https://www.amazon.ca/Charter-Rights-Freedoms-decisions-Canadian/dp/1459406613)
 
 ## Minutagem
 Minutagem
