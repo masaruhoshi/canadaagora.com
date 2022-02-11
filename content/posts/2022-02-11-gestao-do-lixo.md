@@ -1,12 +1,12 @@
 ---
-title: 'Canada Agora #4 - Protestos, Manifestações e desobediência civil'
+title: 'Canadá Agora #5 - O caos do lixo canadense'
 authors:
 - Canada Agora
 type: post
 categories:
 - politica
 date: 2022-02-11T2:00:00+00:00
-summary: 'Mais uma semana pegando fogo apesar das temperaturas negativas no país. O comboio de caminhões que se dirigiu a Ottawa disse que chegou para ficar'
+summary: 'Manifestações pelo fim das medidas sanitárias contra o Covid, líder do partido sendo deposto, adolescentes abandonados em aeorportos, gato, cachorro e até peru'
 url: /politica/canadaagora-s1e5-gestao-do-lixo.html
 image: /images/canada-agora-s1e5-wide.jpg
 podcast: canadaagora
