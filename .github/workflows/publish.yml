@@ -2,10 +2,12 @@ name: GitHub Pages
 
 on:
   push:
+    branches:
+      - main  # Set a branch to deploy
+  pull_request:
 
 jobs:
   deploy:
-    if: github.event.pull_request.merged == true
     runs-on: ubuntu-20.04
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
@@ -24,20 +26,14 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Render Github Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-
-      - name: Publish Website
-        if: ${{ github.ref == 'refs/heads/main' }}
+      - name: Copy Hugo Website
         uses: appleboy/scp-action@master
+        if: ${{ github.ref == 'refs/heads/main' }}
         env:
           HOST: ${{ secrets.PUBLISH_HOST }}
           USERNAME: ${{ secrets.PUBLISH_USERNAME }}
           PORT: ${{ secrets.PUBLISH_PORT }}
           KEY: ${{ secrets.PUBLISH_SSHKEY }}
         with:
-          source: "./public/*"
-          target: ${{ secrets.PUBLISH_PATH }}
+          source: "./public"
+          target: "/var/www/static.canadaagora.com"
