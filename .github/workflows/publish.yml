@@ -35,5 +35,5 @@ jobs:
           PORT: ${{ secrets.PUBLISH_PORT }}
           KEY: ${{ secrets.PUBLISH_SSHKEY }}
         with:
-          source: "./public"
+          source: "./public/*"
           target: "/var/www/static.canadaagora.com"
