@@ -6,11 +6,11 @@ type: post
 categories:
 - politica
 date: 2022-02-25T2:00:00+00:00
-summary: 'Jogos Olímpicos, mais manifestações, o Governo Federal utilizando o Emergency Act e até terremoto de gelo'
+summary: 'As manifestações em Ottawa chegam ao fim, a conferência de Québec e o mercado imobiliário canadense'
 url: /politica/canadaagora-s1e7-mercado-imobiliario-canadense.html
 image: /images/canada-agora-s1e7-wide.jpg
 podcast: canadaagora
-spotify: 4d61fN7EOqP7S9BhM9BPYB
+spotify: 793NLODDLbihK0R476b2DS
 
 ---
 
@@ -36,4 +36,4 @@ Finalmente, no "Oh! Canada", entenda como o mercado imobiliário canadense está
 - 01:59:52 - Oh! Canada - O mercado imobiliário canadense
 - 02:16:51 - "Artes, Eventos, Sugestões"
 
-{{< spotify type="episode" id="4d61fN7EOqP7S9BhM9BPYB" width="100%" height="250" >}}
+{{< spotify type="episode" id="793NLODDLbihK0R476b2DS" width="100%" height="250" >}}
