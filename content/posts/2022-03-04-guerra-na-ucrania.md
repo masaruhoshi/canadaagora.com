@@ -10,7 +10,7 @@ summary: 'Os potenciais impactos no Canadá da Guerra iniciada por Vladimir Puti
 url: /politica/canadaagora-s1e8-guerra-na-ucrania.html
 image: /images/canada-agora-s1e8-wide.jpg
 podcast: canadaagora
-spotify: 4d61fN7EOqP7S9BhM9BPYB
+spotify: 0sfHtf0b4prR41EGRbn32B
 
 ---
 
@@ -37,4 +37,4 @@ E ainda, um grande geral nas notícias de costa a costa do país.
 - 01:49:05 - Oh! Canada - Os impactos da Guerra na Ucrânia no Canadá
 - 02:20:04 - "Artes, Eventos, Sugestões"
 
-{{< spotify type="episode" id="4d61fN7EOqP7S9BhM9BPYB" width="100%" height="250" >}}
+{{< spotify type="episode" id="0sfHtf0b4prR41EGRbn32B" width="100%" height="250" >}}
