@@ -1,5 +1,5 @@
 ---
-title: 'Canadá Agora: Contos #1 - Um ano sem verão
+title: 'Canadá Agora: Contos #1 - Um ano sem verão'
 authors:
 - Canada Agora
 type: post
