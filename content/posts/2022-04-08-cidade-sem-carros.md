@@ -10,7 +10,7 @@ summary: 'Um pouco de paz onde você menos imaginava'
 url: /politica/canadaagora-s1e11-cidade-sem-carros.html
 image: /images/canada-agora-s1e11-wide.jpg
 podcast: canadaagora
-spotify: 2zROhHRemaDbWbESD90ARj
+spotify: 2QqHspra9eQr2FrBLKApxa
 ---
 
 Saudações!
@@ -34,4 +34,4 @@ Finalmente, no "Oh! Canadá!", conheça a história da única cidade (quase) sem
 - 01:28:10 - Oh! Canada - A única cidade (quase) sem carros do Canadá
 - 01:42:47 - “Artes, Eventos, Sugestões”
 
-{{< spotify type="episode" id="2zROhHRemaDbWbESD90ARj" width="100%" height="250" >}}
+{{< spotify type="episode" id="2QqHspra9eQr2FrBLKApxa" width="100%" height="250" >}}
