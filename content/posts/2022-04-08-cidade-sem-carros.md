@@ -15,7 +15,7 @@ spotify: 2QqHspra9eQr2FrBLKApxa
 
 Saudações!
 
-O improvável aconteceu e a Igreja Católica pediu desculpas às Primeiras Nações canadenses pelos abusos nas escolas residenciais. Além disso temos destruições causadas por populações de javalis, o aumento das temperaturas globais causando potenciais "tsunamis" nas montanhas e até um coelho de chocolate sendo usado como arma em um assalto.
+O que parecia improvável aconteceu e a Igreja Católica pediu desculpas às Primeiras Nações canadenses pelos abusos nas escolas residenciais. Além disso temos destruições causadas por populações de javalis, o aumento das temperaturas globais causando potenciais "tsunamis" nas montanhas e até um coelho de chocolate sendo usado como arma em um assalto.
 
 No "Je me souviens", falamos sobre o histórico dos movimentos das mulheres no Canadá.
 
