@@ -10,7 +10,7 @@ summary: 'A proposta do orçamento canadense para 2022'
 url: /politica/canadaagora-s1e12-orcamento-federal-2022.html
 image: /images/canada-agora-s1e12-wide.jpg
 podcast: canadaagora
-spotify: 2QqHspra9eQr2FrBLKApxa
+spotify: 1b6F6vVegCXRT5QHGWjXps
 ---
 
 Saudações!
@@ -27,4 +27,4 @@ No "Je me souviens", vamos explorar diversas comida tradicionais canadenses de c
 - 01:49:33 - Oh! Canada - Orçamento Federal 2022
 - 02:12:46 - “Artes, Eventos, Sugestões”
 
-{{< spotify type="episode" id="2QqHspra9eQr2FrBLKApxa" width="100%" height="250" >}}
+{{< spotify type="episode" id="1b6F6vVegCXRT5QHGWjXps" width="100%" height="250" >}}
