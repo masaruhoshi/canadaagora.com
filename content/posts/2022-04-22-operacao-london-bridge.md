@@ -10,7 +10,7 @@ summary: 'Como o Canadá se prepara para quando a Rainha morrer'
 url: /politica/canadaagora-s1e13-operacao-london-bridge.html
 image: /images/canada-agora-s1e13-wide.jpg
 podcast: canadaagora
-spotify: 1b6F6vVegCXRT5QHGWjXps
+spotify: 7CM7e7qpSu0vUO5LxmBuFM
 ---
 
 Saudações!
@@ -29,4 +29,4 @@ E finalmente, no "Je me souviens", descubra porque o Canadá tocou fogo na sede 
 - 02:03:15 - Oh! Canada - Operação "London Bridge"
 - 02:19:27 - “Artes, Eventos, Sugestões”
 
-{{< spotify type="episode" id="1b6F6vVegCXRT5QHGWjXps" width="100%" height="250" >}}
+{{< spotify type="episode" id="7CM7e7qpSu0vUO5LxmBuFM" width="100%" height="250" >}}
