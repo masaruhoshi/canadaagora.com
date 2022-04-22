@@ -15,11 +15,11 @@ spotify: 1b6F6vVegCXRT5QHGWjXps
 
 Saudações!
 
-Uma semana cheia de problemas com computadores. Ciberataques no Governo Federal, vôos atrasados e passageiros em conseguir embarcar, e órgãos do Governo postando links para sites de pornografia. E quando a gente pensa que está relaxando por causa do Covid-19, casos de gripe aviária começam a aparecer pelo país. E ainda, novas vítimas das escolas residenciais encontradas.
+Uma semana cheia de problemas com computadores. Ciberataques no Governo Federal, vôos atrasados e passageiros sem conseguir embarcar e órgãos do Governo postando links para sites de pornografia. E quando a gente pensa que está relaxando com o Covid-19, casos de gripe aviária H5N1 começam a aparecer pelo país. E ainda, novas vítimas das escolas residenciais encontradas.
 
-No "Oh! Canada" desta semana, conheça a "Operação London Bridge", um projeto extremamente complexo que prepara o Canadá para quando a Rainha Elizabeth II falecer.
+No "Oh! Canada" desta semana, conheça a Operação "London Bridge", um projeto extremamente complexo que prepara o Canadá para quando a Rainha Elizabeth II falecer.
 
-E finalmente, no "Je me souviens", descubra se é verdade que o Canadá tocou fogo na Casa Branca nos Estados Unidos.
+E finalmente, no "Je me souviens", descubra porque o Canadá tocou fogo na sede do Governo dos Estados Unidos.
 
 ## Minutagem
 
