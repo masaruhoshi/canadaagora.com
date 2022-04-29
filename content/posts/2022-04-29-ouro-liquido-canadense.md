@@ -10,7 +10,7 @@ summary: 'A história e a economia do Maple Syrup'
 url: /politica/canadaagora-s1e14-ouro-liquido-canadense.html
 image: /images/canada-agora-s1e14-wide.jpg
 podcast: canadaagora
-spotify: 7CM7e7qpSu0vUO5LxmBuFM
+spotify: 3bIuB1vSvCRvTfdsONb4N7
 ---
 
 Saudações!
@@ -29,4 +29,4 @@ E no "Oh! Canada", conheça um pouco mais sobre o maple syrup, o syrop d'érable
 - 01:54:10 - Oh! Canada - O Ouro Líquido Canadense
 - 02:12:31 - “Artes, Eventos, Sugestões”
 
-{{< spotify type="episode" id="7CM7e7qpSu0vUO5LxmBuFM" width="100%" height="250" >}}
+{{< spotify type="episode" id="3bIuB1vSvCRvTfdsONb4N7" width="100%" height="250" >}}
