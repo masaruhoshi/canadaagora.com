@@ -5,7 +5,7 @@ authors:
 type: post
 categories:
 - politica
-date: 2022-04-27T2:00:00+00:00
+date: 2022-04-29T2:00:00+00:00
 summary: 'A história e a economia do Maple Syrup'
 url: /politica/canadaagora-s1e14-ouro-liquido-canadense.html
 image: /images/canada-agora-s1e14-wide.jpg
@@ -15,7 +15,7 @@ spotify: 3bIuB1vSvCRvTfdsONb4N7
 
 Saudações!
 
-Este episódio está parecendo aqueles programas policiais que passam no Brasil de tanto caso estranho. Policiais sendo investigados, prefeito saindo no braço com cidadão, professor levando martelada em sala de aula, xingamento em sessão parlamentar, e dê-lhe baixaria. E ainda falamos sobre o cenário complicado do backlog das cirurgias médicas pelo país.
+Este episódio está parecendo aqueles programas policiais que passam no Brasil de tanto caso estranho. Policiais sendo investigados, prefeito saindo no braço com um cidadão, professor levando martelada em sala de aula, xingamento em sessão parlamentar, e dê-lhe baixaria. E ainda falamos sobre o cenário complicado do backlog das cirurgias médicas pelo país.
 
 No "Je me souviens", conheça o grande e inesquecível Guy Lafleur
 
