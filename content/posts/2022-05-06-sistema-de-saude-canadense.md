@@ -10,7 +10,7 @@ summary: 'Como o sistema de saúde não é tão de graça quanto se diz'
 url: /politica/canadaagora-s1e15-sistema-de-saude-canadense.html
 image: /images/canada-agora-s1e15-wide.jpg
 podcast: canadaagora
-spotify: 3bIuB1vSvCRvTfdsONb4N7
+spotify: 7fdIZGkyIGpwoBKPsqDo7o
 ---
 
 Saudações!
@@ -33,4 +33,4 @@ Finalmente, no "Oh! Canada!", conheça o Medicare, o sistema de saúde público 
 - 02:25:36 - Oh! Canada - O sistema de saúde canadense
 - 02:43:34 - "Artes, Eventos, Sugestões"
 
-{{< spotify type="episode" id="3bIuB1vSvCRvTfdsONb4N7" width="100%" height="250" >}}
+{{< spotify type="episode" id="7fdIZGkyIGpwoBKPsqDo7o" width="100%" height="250" >}}
