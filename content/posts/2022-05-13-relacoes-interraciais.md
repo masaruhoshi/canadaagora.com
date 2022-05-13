@@ -1,12 +1,12 @@
 ---
-title: 'Canadá Agora #16 - Relações Interraciais'
+title: 'Canadá Agora #16 - Relações multiculturais'
 authors:
 - Canada Agora
 type: post
 categories:
 - politica
 date: 2022-05-13T2:00:00+00:00
-summary: 'A realidade das relações interraciais no Canadá'
+summary: 'A realidade das relações multiculturais no Canadá'
 url: /politica/canadaagora-s1e16-relacoes-interraciais.md
 image: /images/canada-agora-s1e16-wide.jpg
 podcast: canadaagora
