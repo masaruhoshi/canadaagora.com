@@ -10,7 +10,7 @@ summary: 'A realidade das relações multiculturais no Canadá'
 url: /politica/canadaagora-s1e16-relacoes-interraciais.md
 image: /images/canada-agora-s1e16-wide.jpg
 podcast: canadaagora
-spotify: 7fdIZGkyIGpwoBKPsqDo7o
+spotify: 0FAbBYgKrkLYXItNCXhFuR
 ---
 
 Saudações!
@@ -35,4 +35,4 @@ E ainda, "Oh! Canada!", a realidade dos relacionamentos interraciais e intercult
 - 01:55:39 - Oh! Canada - Relações Interraciais
 - 02:11:58 - "Artes, Eventos, Sugestões"
 
-{{< spotify type="episode" id="7fdIZGkyIGpwoBKPsqDo7o" width="100%" height="250" >}}
+{{< spotify type="episode" id="0FAbBYgKrkLYXItNCXhFuR" width="100%" height="250" >}}
