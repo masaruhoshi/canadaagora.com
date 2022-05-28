@@ -10,7 +10,7 @@ summary: 'O que faz com que o Canadá seja tão diferente em relação ao contro
 url: /politica/canadaagora-s1e18-controle-de-armas.html
 image: /images/canada-agora-s1e18-wide.jpg
 podcast: canadaagora
-spotify: 2JGMO0pFX9id9nDIURHVDp
+spotify: 0wPP20k04ehBiB6SI4OtNe
 ---
 
 Saudações!
@@ -34,4 +34,4 @@ E nas notícias do país, a aprovação da lei 96 e como ela vai afetar a vida d
 - 02:02:05 - Oh! Canada - O controle de armas e os massacres
 - 02:21:26 - “Artes, Eventos, Sugestões”
 
-{{< spotify type="episode" id="2JGMO0pFX9id9nDIURHVDp" width="100%" height="250" >}}
+{{< spotify type="episode" id="0wPP20k04ehBiB6SI4OtNe" width="100%" height="250" >}}
