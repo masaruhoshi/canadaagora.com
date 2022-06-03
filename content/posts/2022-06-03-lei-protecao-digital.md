@@ -1,5 +1,5 @@
 ---
-title: 'Canadá Agora #19 - Controle de Armas'
+title: 'Canadá Agora #19 - Lei canadense de privacidade de dados'
 authors:
 - Canada Agora
 type: post
