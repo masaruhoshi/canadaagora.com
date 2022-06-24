@@ -10,7 +10,7 @@ summary: 'O fim do conflito com a Dinamarca'
 url: /politica/canadaagora-s1e22-povos-indigenas.html
 image: /images/canada-agora-s1e22-wide.jpg
 podcast: canadaagora
-spotify: 
+spotify: 3Q41tbwls5hRPOfIO8FazK
 ---
 
 Saudações!
@@ -37,4 +37,4 @@ E ainda: Canadá, paraíso dos crimes financeiros, inflação a 7.7%, lei limita
 - 02:20:03 - Oh! Canada -  Os povos indígenas no Canadá
 - 02:35:20 - Eventos, Atividades e Dicas Culturais
 
-{{< spotify type="episode" id="" width="100%" height="250" >}}
+{{< spotify type="episode" id="3Q41tbwls5hRPOfIO8FazK" width="100%" height="250" >}}
