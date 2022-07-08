@@ -10,7 +10,7 @@ summary: 'A política linguística canadense'
 url: /politica/canadaagora-s1e24-bilinguismo-politica-linguistica.html
 image: /images/canada-agora-s1e2r-wide.jpg
 podcast: canadaagora
-spotify: 7BFwTDoOK1JfCLrvG9hmPP
+spotify: 1rUp0tToKaiDVKbr2ha3SM
 ---
 
 Saudações!
@@ -34,4 +34,4 @@ E ainda: bilhões em impostos perdidos, Governo espionando o celular das pessoas
 - 02:28:23 - Oh! Canada -  Políticas Linguísticas
 - 02:11:09 - Eventos, Atividades e Dicas Culturais
 
-{{< spotify type="episode" id="7BFwTDoOK1JfCLrvG9hmPP" width="100%" height="250" >}}
+{{< spotify type="episode" id="1rUp0tToKaiDVKbr2ha3SM" width="100%" height="250" >}}
