@@ -8,7 +8,7 @@ categories:
 date: 2022-07-08T0:00:00+00:00
 summary: 'A política linguística canadense'
 url: /politica/canadaagora-s1e24-bilinguismo-politica-linguistica.html
-image: /images/canada-agora-s1e2r-wide.jpg
+image: /images/canada-agora-s1e24-wide.jpg
 podcast: canadaagora
 spotify: 1rUp0tToKaiDVKbr2ha3SM
 ---
