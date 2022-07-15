@@ -10,7 +10,7 @@ summary: 'Os problemas e riscos de uma economia refém'
 url: /politica/canadaagora-s1e25-monopolio-oligarquias-canadenses.html
 image: /images/canada-agora-s1e25-wide.jpg
 podcast: canadaagora
-spotify: 1rUp0tToKaiDVKbr2ha3SM
+spotify: 4aavbhS4gvQnJUs6fggX9k
 ---
 
 Saudações!
@@ -37,4 +37,4 @@ E ainda: aumento da taxa de juros, Ucrânia critica o Canadá, violência por ra
 - 02:14:46 - Oh! Canada -  Monopólios e oligarquias canadenses
 - 02:40:38 - Eventos, Atividades e Dicas Culturais
 
-{{< spotify type="episode" id="1rUp0tToKaiDVKbr2ha3SM" width="100%" height="250" >}}
+{{< spotify type="episode" id="4aavbhS4gvQnJUs6fggX9k" width="100%" height="250" >}}
