@@ -33,7 +33,7 @@ E ainda: demissão em massa, cirurgias atrasadas por falta de médicos, record d
 - 00:02:33 - Nacional
 - 00:28:17 - Nunavut, Northwest Territories e Yukon
 - 00:42:34 - British Columbia, Alberta, Saskatchewan e Manitoba
-- 01:39:32 - Je me souviens - A descoberta da Insulina
+- 01:39:32 - Je me souviens - O Atentado Terrorista de 1984
 - 01:47:15 - Ontario e Quebec
 - 02:14:25 - Prince Edward Island e New Brunswick
 - 02:31:07 - Oh! Canada -  A imigração ucraniana no Canadá
