@@ -1,5 +1,5 @@
 ---
-title: '#31 - Morar em Gatineau e trabalhar em Ottawa vale a pena?'
+title: '#31 - Compensa morar em Gatineau e trabalhar em Ottawa?'
 authors:
 - Canada Agora
 type: post
@@ -15,7 +15,7 @@ spotify: 68iMZpcrvt7Pwy7s0wHG8H
 
 Saudações!
 
-Morar em Gatineau e trabalhar em Ottawa: Como ficam impostos, obrigações e infraestrutura? Afinal de contas, isso é um bom negócio?
+Gatineau e Ottawa: cidades vizinhas, onde o custo imobiliário é 1/3 menor em uma e muita gente está tirando vantagem disso. Mas como ficam impostos, obrigações e infraestrutura? No fim das contas, isso é um bom negócio?
 
 No Je me Souviens, a corrida eleitoral para o Governo de Québec
 
