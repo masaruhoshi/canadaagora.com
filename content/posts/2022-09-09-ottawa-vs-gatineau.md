@@ -7,7 +7,7 @@ categories:
 - politica
 date: 2022-09-09T0:00:00+00:00
 summary: 'Impostos, obrigações, infraestrutura: isso é um bom negócio?'
-url: /politica/canadaagora-s1e31-ottawa-vs-gatineau.html'
+url: /politica/canadaagora-s1e31-ottawa-vs-gatineau.html
 image: /images/canada-agora-s1e31-wide.jpg
 podcast: canadaagora
 spotify: 0ScIftdSj4crCa4i3EMnXy
