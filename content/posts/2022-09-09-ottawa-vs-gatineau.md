@@ -10,7 +10,7 @@ summary: 'Impostos, obrigações, infraestrutura: isso é um bom negócio?'
 url: /politica/canadaagora-s1e31-ottawa-vs-gatineau.html'
 image: /images/canada-agora-s1e31-wide.jpg
 podcast: canadaagora
-spotify: 68iMZpcrvt7Pwy7s0wHG8H
+spotify: 0ScIftdSj4crCa4i3EMnXy
 ---
 
 Saudações!
@@ -37,4 +37,4 @@ E ainda: massacre em Saskatchewan, batalha tarifária sobre a madeira canadense,
 - 02:29:35 - Oh! Canada - Morar em Québec e trabalhar em Ottawa?
 - 02:41:21 - Eventos, Atividades e Dicas Culturais
 
-{{< spotify type="episode" id="68iMZpcrvt7Pwy7s0wHG8H" width="100%" height="250" >}}
+{{< spotify type="episode" id="0ScIftdSj4crCa4i3EMnXy" width="100%" height="250" >}}
