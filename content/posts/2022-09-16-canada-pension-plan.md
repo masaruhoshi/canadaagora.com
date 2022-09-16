@@ -6,7 +6,7 @@ type: post
 categories:
 - politica
 date: 2022-09-16T0:00:00+00:00
-summary: 'Impostos, obrigações, infraestrutura: isso é um bom negócio?'
+summary: 'Dá pra se aposentar só com o plano do Governo?'
 url: /politica/canadaagora-s1e32-canada-pension-plan.html
 image: /images/canada-agora-s1e32-wide.jpg
 podcast: canadaagora
