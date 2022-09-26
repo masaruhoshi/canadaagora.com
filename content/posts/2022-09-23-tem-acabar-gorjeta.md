@@ -10,7 +10,7 @@ summary: 'A injusta obrigação da gorjeta'
 url: /politica/canadaagora-s1e33-tem-acabar-gorjeta.html
 image: /images/canada-agora-s1e33-wide.jpg
 podcast: canadaagora
-spotify: 32Xd3cl01MQSyIgOMz09GH
+spotify: 0ePmdIx8NemPKPZRVQrbyj
 ---
 
 Saudações!
@@ -35,4 +35,4 @@ E ainda: continua a queda do mercado imobiliário, o dólar continua caindo, ind
 - 01:49:06 - Oh! Canada - Tem que acabar a gorjeta
 - 02:10:38 - Eventos, Atividades e Dicas Culturais
 
-{{< spotify type="episode" id="32Xd3cl01MQSyIgOMz09GH" width="100%" height="250" >}}
+{{< spotify type="episode" id="0ePmdIx8NemPKPZRVQrbyj" width="100%" height="250" >}}
