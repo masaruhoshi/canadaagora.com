@@ -847,6 +847,11 @@ header .navbar .nav-item .nav-link {
   padding: 0.5rem;
 }
 
+.section-single .container {
+  display: block;
+  max-width: 92%;
+}
+
 .section-block {
   padding-left: 0;
 }
@@ -1460,7 +1465,7 @@ figure.img-fluid img {
   border: 0px solid aqua;
   margin: 0.5rem;
   position: relative;
-  height: 12rem;
+  height: 19rem;
   overflow: hidden;
   border-radius: 0.5rem;
   flex: 1;
