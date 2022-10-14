@@ -7,7 +7,7 @@ categories:
 - politica
 date: 2022-10-14T0:00:00+00:00
 summary: 'O resultado (sem surpresas) da eleição na Belle Province'
-url: /politica/2022-10-07-eleicoes-quebec-2022.html
+url: /politica/2022-10-14-fim-hockey-canada.html
 image: /images/canada-agora-s1e36-wide.jpg
 podcast: canadaagora
 spotify: 2I7DSVIAOXqHMomIKC8vDg
