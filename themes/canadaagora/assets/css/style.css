@@ -1,11 +1,6 @@
 /*  typography */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Playfair+Display:400,700");
-@font-face {
-  font-family: 'hanskendrick';
-  src: url("../fonts/hanskendrick-regular-webfont.woff") format("woff");
-  font-style: normal;
-  font-display: swap;
-}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,500;0,900;1,100;1,200;1,500;1,900&display=swap');
 
 /* poppins-900 - latin */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;600;700;900&display=swap');
@@ -451,7 +446,7 @@ a:hover {
 }
 
 .font-secondary {
-  font-family: "hanskendrick" !important;
+  font-family: "Montserrat", sans-serif !important;
 }
 
 .mb-10 {
@@ -730,7 +725,7 @@ header .navbar .nav-item .nav-link {
 }
 
 .pagination .page-item .page-link {
-  font-family: "hanskendrick";
+  font-family: "Montserrat", sans-serif;
   font-size: 30px;
   border: 0;
   color: #585757;
