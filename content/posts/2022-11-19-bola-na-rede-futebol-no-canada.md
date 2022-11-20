@@ -10,7 +10,7 @@ summary: 'Bola na trave não altera o placar'
 url: /politica/2022-11-19-bola-na-rede-futebol-no-canada.html
 image: /images/canada-agora-s1e41-wide.jpg
 podcast: canadaagora
-spotify: 
+spotify: 6SjCbbiGF3y0fgGP41k17U
 ---
 
 Saudações!
@@ -41,4 +41,4 @@ E ainda: o presidente da China se irrita com Trudeau, o Governo Federal promete 
 - 02:45:30 - New Brunswick e Nova Scotia
 - 02:55:56 - Sugar Shack/Cabane à Sucre
 
-{{< spotify type="episode" id="0Yxm2PprUt0ADLq9X6uWAv" width="100%" height="250" >}}
+{{< spotify type="episode" id="6SjCbbiGF3y0fgGP41k17U" width="100%" height="250" >}}
