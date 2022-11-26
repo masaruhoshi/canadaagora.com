@@ -6,7 +6,7 @@ type: post
 categories:
 - politica
 date: 2022-11-26T0:00:00+00:00
-summary: 'E ainda: Sir John Macdonald''
+summary: 'E ainda: Sir John Macdonald'
 url: /politica/2022-11-26-taxa-homicidios-crise-saude-avestruzes.html
 image: /images/canada-agora-s1e42-wide.jpg
 podcast: canadaagora
