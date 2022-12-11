@@ -7,7 +7,7 @@ categories:
 - politica
 date: 2022-12-11T0:00:00+00:00
 summary: 'E ainda: A história do Canada Post'
-url: /politica/2022-12-09-piores-premiers-do-canada-2022.html'
+url: /politica/2022-12-09-piores-premiers-do-canada-2022.html
 image: /images/canada-agora-s1e44-wide.jpg
 podcast: canadaagora
 spotify: 30HLtM7kfXiKh6Q0UChQRg
