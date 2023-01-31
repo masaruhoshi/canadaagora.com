@@ -10,7 +10,7 @@ summary: 'E o ano está só começando'
 url: /politica/2023-01-28-cansativa-crise-da-saude.html
 image: /images/canada-agora-s1e46-wide.jpg
 podcast: canadaagora
-spotify: Vmg2HI1BgTzuQsyCySAQE
+spotify: 4Vmg2HI1BgTzuQsyCySAQE
 ---
 
 Saudações!
@@ -37,4 +37,4 @@ Ottawa aprova a controversa compra dos F-35, inflação e juros continuam a subi
 - 02:55:00 - Prince Edward Island, New Brunswick e Nova Scotia
 - 02:08:40 - Sugar Shack / Cabane à Sucre
 
-{{< spotify type="episode" id="Vmg2HI1BgTzuQsyCySAQE" width="100%" height="250" >}}
+{{< spotify type="episode" id="4Vmg2HI1BgTzuQsyCySAQE" width="100%" height="250" >}}
