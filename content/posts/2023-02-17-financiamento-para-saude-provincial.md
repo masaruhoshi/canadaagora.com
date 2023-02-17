@@ -6,7 +6,7 @@ type: post
 categories:
 - politica
 date: 2023-02-17T0:00:00+00:00
-summary: 'E ainda: o Hitler canadense
+summary: 'E ainda: o Hitler canadense'
 url: /politica/2023-02-17-financiamento-para-saude-provincial.html
 image: /images/canada-agora-s1e48-wide.jpg
 podcast: canadaagora
