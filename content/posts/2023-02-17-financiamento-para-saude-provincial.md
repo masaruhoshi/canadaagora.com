@@ -10,7 +10,7 @@ summary: 'E ainda: o Hitler canadense
 url: /politica/2023-02-17-financiamento-para-saude-provincial.html
 image: /images/canada-agora-s1e48-wide.jpg
 podcast: canadaagora
-spotify: 
+spotify: 6QlzkwxvKtYRB3nz6OacNi
 ---
 
 Saudações!
@@ -34,4 +34,4 @@ E ainda: o "Hitler" do Canadá
 - 02:42:03 - Prince Edward Island, New Brunswick e Nova Scotia
 - 02:57:04 - Sugar Shack / Cabane à Sucre
 
-{{< spotify type="episode" id="" width="100%" height="250" >}}
+{{< spotify type="episode" id="6QlzkwxvKtYRB3nz6OacNi" width="100%" height="250" >}}
