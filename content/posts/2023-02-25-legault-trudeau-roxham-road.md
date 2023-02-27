@@ -10,7 +10,7 @@ summary: 'E ainda: O relatório Durham'
 url: /politica/2023-02-25-legault-trudeau-roxham-road.html
 image: /images/canada-agora-s1e49-wide.jpg
 podcast: canadaagora
-spotify: 
+spotify: c7ad693a4eed4fe7
 ---
 
 Saudações!
@@ -34,4 +34,4 @@ E ainda: entenda uma das causas das diferenças entre Québec e o resto do Canad
 - 02:20:21 - Newfoundland e Labrador, Prince Edward Island e Nova Scotia
 - 02:33:54 - Sugar Shack / Cabane à Sucre
 
-{{< spotify type="episode" id="" width="100%" height="250" >}}
+{{< spotify type="episode" id="c7ad693a4eed4fe7" width="100%" height="250" >}}
