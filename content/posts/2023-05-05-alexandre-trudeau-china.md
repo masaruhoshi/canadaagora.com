@@ -33,7 +33,7 @@ E ainda: Gustavo Lima fala do fim da obrigatoriedade de grau superior para polic
 - 00:23:40 - "A poutine tá fritando"
 - 00:39:43 - Política Internacional
 - 00:56:57 - Economia e Sociedade
-- 01:11:53 -Northwest Territories
+- 01:11:53 - Northwest Territories
 - 01:14:14 - British Columbia
 - 01:23:53 - Alberta
 - 01:33:28 - Saskatchewan
