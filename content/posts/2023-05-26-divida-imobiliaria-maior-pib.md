@@ -10,7 +10,7 @@ summary: 'E ainda: os canadenses latino-americanos'
 url: /politica/2023-05-26-divida-imobiliaria-maior-pib.html
 image: /images/canada-agora-s1e57-wide.jpg
 podcast: canadaagora
-spotify: 75wlZ3wcQYDeQsmR1XOihK
+spotify: 38LEEEw1yNivhWMQ2lMrIv
 ---
 
 Saudações!
@@ -45,4 +45,4 @@ E no "je me souviens", a vida de Pierre Elliott Trudeau
 - 02:35:54 - Nova Scotia
 - 02:13:21 - Sugar Shack / Cabane à Sucre
 
-{{< spotify type="episode" id="75wlZ3wcQYDeQsmR1XOihK" width="100%" height="250" >}}
+{{< spotify type="episode" id="38LEEEw1yNivhWMQ2lMrIv" width="100%" height="250" >}}
