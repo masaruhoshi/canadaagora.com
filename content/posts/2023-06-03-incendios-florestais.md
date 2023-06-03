@@ -10,7 +10,7 @@ summary: 'E ainda: Reginald Fessenden'
 url: /politica/2023-06-03-incendios-florestais.html
 image: /images/canada-agora-s1e58-wide.jpg
 podcast: canadaagora
-spotify: 38LEEEw1yNivhWMQ2lMrIv
+spotify: 25RjHFn2untLMMg6p3XdwU
 ---
 
 Saudações humanos!
@@ -49,4 +49,4 @@ E ainda: a bill C-48 e a proposta de reforma do sistema de liberdade condicional
 - 02:17:17 - Sugar Shack / Cabane à Sucre
 
 
-{{< spotify type="episode" id="38LEEEw1yNivhWMQ2lMrIv" width="100%" height="250" >}}
+{{< spotify type="episode" id="25RjHFn2untLMMg6p3XdwU" width="100%" height="250" >}}
