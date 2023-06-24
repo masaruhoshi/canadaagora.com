@@ -6,7 +6,7 @@ type: post
 categories:
 - politica
 date: 2023-06-23T0:00:00+00:00
-summary: 'E ainda: Canadá tem 3 das cidades mais habitáveis do mundo':w
+summary: 'E ainda: Canadá tem 3 das cidades mais habitáveis do mundo'
 url: /politica/2023-06-23-hackers-russos-ameacam-setor-energia.html
 image: /images/canada-agora-s1e61-wide.jpg
 podcast: canadaagora
