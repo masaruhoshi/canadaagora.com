@@ -37,3 +37,4 @@ jobs:
         with:
           source: "./public/*"
           target: ${{ secrets.PUBLISH_PATH }}
+          strip_components: 1
