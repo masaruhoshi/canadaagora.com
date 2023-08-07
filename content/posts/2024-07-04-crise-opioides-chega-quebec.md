@@ -10,7 +10,7 @@ summary: 'E ainda: a esquerda canadense'
 url: /politica/2024-07-04-crise-opioides-chega-quebec.html
 image: /images/canada-agora-s1e64-wide.jpg
 podcast: canadaagora
-spotify: 
+spotify: 7Doh7Bqt2pyLWITlOxwnKL
 ---
 
 Saudações, humano!
@@ -41,4 +41,4 @@ Sintonize o "Canadá Agora" para se manter informado sobre os acontecimentos imp
 - 02:28:20 - Nova Scotia
 - 02:33:39 - Sugar Shack / Cabane à Sucre
 
-{{< spotify type="episode" id="" width="100%" height="250" >}}
+{{< spotify type="episode" id="7Doh7Bqt2pyLWITlOxwnKL" width="100%" height="250" >}}
