@@ -6,11 +6,11 @@ type: post
 categories:
 - politica
 date: 2023-08-12T0:00:00+00:00
-summary: 'E ainda: a esquerda canadense'
+summary: 'E ainda: ursos, perus e outros bichos'
 url: /politica/2023-08-12-bichos-contra-atacam.html
 image: /images/canada-agora-s1e65-wide.jpg
 podcast: canadaagora
-spotify: 
+spotify: 44Bqa9W6vRiUQQd4brC9Ob
 ---
 
 Saudações, humano!
@@ -41,4 +41,4 @@ Ouça o "Canadá Agora" para se manter informado sobre os acontecimentos importa
 - 02:24:27 - Nova Scotia
 - 02:30:32 - Sugar Shack / Cabane à Sucre
 
-{{< spotify type="episode" id="" width="100%" height="250" >}}
+{{< spotify type="episode" id="44Bqa9W6vRiUQQd4brC9Ob" width="100%" height="250" >}}
