@@ -7,7 +7,7 @@ categories:
 - politica
 date: 2023-08-04T0:00:00+00:00
 summary: 'E ainda: a esquerda canadense'
-url: /politica/2024-07-04-crise-opioides-chega-quebec.html
+url: /politica/2023-08-04-crise-opioides-chega-quebec.html
 image: /images/canada-agora-s1e64-wide.jpg
 podcast: canadaagora
 spotify: 7Doh7Bqt2pyLWITlOxwnKL
