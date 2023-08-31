@@ -1,5 +1,5 @@
 ---
-title: '#66 - A recessão bate à porta'
+title: '#67 - Questões sobre a crise da habitação'
 authors:
 - Canada Agora
 type: post
