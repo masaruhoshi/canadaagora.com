@@ -15,7 +15,7 @@ spotify: 38MdYVDcwZt20RYYgrSG5S
 
 Saudações, humanos!
 
-Dinheiro é o tema deste programa. Nas província, reajustes do salário mínimo não são suficiente para manter o custo de vida, pilotos da Air Canada em greve por melhores condições de trabalho, orçamento da Defesa Nacional ameaçado, aumento das vendas de casas em Calgary e o PIB nacional se manteve estável.
+Uma cidadã canadense repatriada de um campo de prisioneiros sírios agora enfrenta sérias acusações de terrorismo, gerando preocupações sobre a segurança nacional. Canadá observa distante enquanto Haiti finalmente obtém intervenção armada para lidar com a violência das gangues. Na saúde, médicos estrangeiros estão ocupando um número crescente de vagas nas residências médicas, enquanto os próprios canadenses encontram obstáculos para entrar na profissão. E finalmente, dados do governo revelam que quase metade dos atrasos de voos em 2022 foram causados pelas companhias aéreas.
 
 Fique por dentro das notícias mais recentes no "Canadá Agora". Ouça e fique informado sobre tudo o que acontece no país. 🎧📰
 
