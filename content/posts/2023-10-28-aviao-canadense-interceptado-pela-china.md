@@ -10,12 +10,12 @@ summary: 'E ainda: A criação da CBC'
 url: /politica/2023-10-28-aviao-canadense-interceptado-pela-china.html
 image: /images/canada-agora-s1e75-wide.jpg
 podcast: canadaagora
-spotify: 38MdYVDcwZt20RYYgrSG5S
+spotify: 6jaQqpwBwNGv5px0EEi8hq
 ---
 
 Saudações, humanos!
 
-As crescentes preocupações da Índia em relação ao movimento separatista Sikh no Canadá, o apoio do NDP a Singh para encerrar acordos se os liberais não cumprirem suas promessas, um avião de vigilância canadense interceptado por caças chineses e os esforços dos deputados conservadores para levar os executivos da CBC ao Comitê dos Comuns em relação à política linguística. E muito mais
+Um avião de vigilância canadense interceptado por caças chineses, as crescentes preocupações da Índia em relação ao movimento separatista Sikh no Canadá, o apoio do NDP a Singh para encerrar acordos se os liberais não cumprirem suas promessas, e os esforços dos deputados conservadores para levar os executivos da CBC ao Comitê dos Comuns em relação à política linguística. E muito mais
 
 Ouça "Canadá Agora", o seu guia essencial para entender as histórias que moldam o Canadá de hoje, mantendo você informado e atualizado.🎧📰
 
@@ -44,4 +44,4 @@ Ouça "Canadá Agora", o seu guia essencial para entender as histórias que mold
 - 02:38:10 - Nova Scotia
 - 02:41:07 - Sugar Shack / Cabane à Sucre
 
-{{< spotify type="episode" id="38MdYVDcwZt20RYYgrSG5S" width="100%" height="250" >}}
+{{< spotify type="episode" id="6jaQqpwBwNGv5px0EEi8hq" width="100%" height="250" >}}
