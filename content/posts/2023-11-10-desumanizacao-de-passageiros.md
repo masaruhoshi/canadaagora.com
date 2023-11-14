@@ -27,10 +27,6 @@ Essas e outras notícias importantes estão disponíveis no Canadá Agora, seu p
 - [Doe sangue!](https://blood.ca)
 
 ## Minutagem
-
-==
-
-## Minutagem
 - 00:02:26 - Federal
 - 00:36:11 - British Columbia
 - 00:44:59 - Alberta
