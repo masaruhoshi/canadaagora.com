@@ -13,8 +13,6 @@ podcast: canadaagora
 spotify: 4H4f19P6hkQyLJMjzui54f
 ---
 
-https://open.spotify.com/episode/4H4f19P6hkQyLJMjzui54f?si=8f3ef81c063a4430
-
 Saudações humanos!
 
 O cancelamento do festival de comédia pega todo mundo desprevenido, novas sanções contra a Rússia
