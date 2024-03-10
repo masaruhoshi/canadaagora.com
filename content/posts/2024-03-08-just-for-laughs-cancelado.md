@@ -10,8 +10,10 @@ summary: 'E ainda: a vida de Biran Mulroney'
 url: /politica/2024-03-08-just-for-laughs-cancelado.html
 image: /images/canada-agora-s1e89-wide.jpg
 podcast: canadaagora
-spotify: 4H4f19P6hkQyLJMjzui54
+spotify: 4H4f19P6hkQyLJMjzui54f
 ---
+
+https://open.spotify.com/episode/4H4f19P6hkQyLJMjzui54f?si=8f3ef81c063a4430
 
 Saudações humanos!
 
@@ -108,5 +110,5 @@ do país. 🎧📰
   - Banco de alimentos no norte de Sydney convertendo parte da antiga escola em moradia para idosos
 
 
-{{< spotify type="episode" id="4H4f19P6hkQyLJMjzui54" width="100%" height="250" >}}
+{{< spotify type="episode" id="4H4f19P6hkQyLJMjzui54f" width="100%" height="250" >}}
 
