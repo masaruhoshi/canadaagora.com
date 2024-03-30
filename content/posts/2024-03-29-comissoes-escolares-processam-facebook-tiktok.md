@@ -6,7 +6,7 @@ type: post
 categories:
 - politica
 date: 2024-03-29T00:00:00+00:00
-summary: 'E ainda: Taxa do carbono não agrada ninguém'
+summary: 'E ainda: A treta do carbono continue'
 url: /politica/2024-03-29-comissoes-escolares-processam-facebook-tiktok.html
 image: /images/canada-agora-s1e91-wide.jpg
 podcast: canadaagora
