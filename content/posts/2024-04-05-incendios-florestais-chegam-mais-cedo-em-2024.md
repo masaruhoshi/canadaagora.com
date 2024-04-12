@@ -7,7 +7,7 @@ categories:
 - politica
 date: 2024-04-05T00:00:00+00:00
 summary: 'E ainda: A treta do carbono continue'
-url: /politica/2024-04-05-incendios-florestais-chegam-mais-cedo-em-2024.md
+url: /politica/2024-04-05-incendios-florestais-chegam-mais-cedo-em-2024.html
 image: /images/canada-agora-s1e92-wide.jpg
 podcast: canadaagora
 spotify: 2nTpeY443vjB337vry1hcb
