@@ -15,9 +15,9 @@ spotify: 72pPdi15WHu7J8QSWeqyFG
 
 Saudações humanos!
 
-Honda aposta bilhões no setor de veículos elétricos do Canadá, preocupações dos médicos sobre
-o rastreamento do câncer, controvérsias das tarifas da TransLink, aumento de impostos municipais,
-homem de 64 anos e a mulher de 58 anos acusados de tráfico de drogas e muito mais.
+Debates acalorados no parlamento canadense entre Polievre e Trudeau sem chegar a canto algum.
+Ainda, o aumento do uso de patinetes elétricos em Ontário, mais desgaste na crise dos opióides,
+mudanças nas regras de uso de celulares nas escolas em várias províncias pelo país e muito mais.
 
 As controvérsias, desafios e acontecimentos intrigantes nesta edição. Sintonize para análises
 aprofundadas e informações essenciais de Mar a Mar! Canadá Agora", seu podcast de atualidades
