@@ -7,7 +7,7 @@ categories:
 - politica
 date: 2024-11-02T00:00:00+00:00
 summary: 'E ainda: Crise nos bancos de alimentos piora'
-url: /politica/2024-10-25-frustracao-com-novas-regras-imigracao.html
+url: /politica/2024-11-02-redes-canadenses-comprometidas.html
 image: /images/canada-agora-s1e107-wide.jpg
 podcast: canadaagora
 spotify: 3CAliURX24KfSldVcATNAI
