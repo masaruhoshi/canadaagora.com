@@ -15,11 +15,11 @@ spotify:
 
 Saudações humanos!
 
-Governo federal avança com o ambicioso projeto do trem de alta velocidade entre Quebec e Toronto. Revelações
-sobre espionagem indicam que a China 'comprometeu' redes governamentais canadenses. Poilievre promete
-remover o GST de casas novas abaixo de $1 milhão. O Canadá pode se tornar o terceiro maior exportador de
-trigo do mundo, e as exportações de petróleo para os EUA atingem recordes. Crise nos bancos de alimentos
-atinge números alarmantes e muito mais.
+Com a reeleição de Donald Trump, muitas incertezas e expectativas. Mas, o que dá pra esperar
+nesse novo Governo? E ainda, a condenação do Canadá à reversão dos direitos das mulheres pelo
+talibã. A crescente preocupação com a violência armada na Grande Toronto. E ainda, as implicações
+da proibição federal das operações canadenses do TikTok e como isso pode afetar os usuários.
+Junte-se a nós para um mergulho nas notícias que moldam o Canadá!
 
 As controvérsias, desafios e acontecimentos intrigantes nesta edição. Sintonize para análises
 aprofundadas e informações essenciais de Mar a Mar! Canadá Agora", seu podcast de atualidades
@@ -27,8 +27,6 @@ do país. 🎧📰
 
 ## Sugestões da Semana
 
-- [Série: Indefendable](https://www.tvaplus.ca/tva/indefendable)
-- [Série: What we do in the shadows - Ultima temporada](https://www.imdb.com/title/tt7908628/)
 - [Doe sangue!](https://blood.ca)
 
 ## Minutagem
@@ -99,4 +97,4 @@ do país. 🎧📰
   - Novo conselho de Halifax toma posse, predominantemente mulheres pela primeira vez
   - Walmart de Halifax remove equipamento após trabalhador ser encontrado morto
 
-{{< spotify type="episode" id="3CAliURX24KfSldVcATNAI" width="100%" height="250" >}}
+{{< spotify type="episode" id="" width="100%" height="250" >}}
