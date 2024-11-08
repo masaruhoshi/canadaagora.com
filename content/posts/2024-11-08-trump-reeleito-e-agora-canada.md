@@ -6,7 +6,7 @@ type: post
 categories:
 - politica
 date: 2024-11-08T00:00:00+00:00
-summary: 'E ainda: TikTok bloqueado
+summary: 'E ainda: TikTok bloqueado'
 url: /politica/2024-11-08-trump-reeleito-e-agora-canada.html
 image: /images/canada-agora-s1e108-wide.jpg
 podcast: canadaagora
@@ -30,17 +30,18 @@ do país. 🎧📰
 - [Doe sangue!](https://blood.ca)
 
 ## Minutagem
-- 00:04:12 - Federal
-- 00:36:12 - British Columbia
-- 00:43:50 - Alberta
-- 01:50:25 - Saskatchewan
-- 00:52:50 - Manitoba
-- 00:56:15 - Ontario
-- 01:02:55 - Quebec
-- 01:24:18 - Newfoundand and Labrador
-- 01:27:41 - New Brunswick
-- 01:32:23 - Nova Scotia
-- 01:35:17 - Sugar Shack / Cabane à Sucre
+- 00:02:38 - Federal
+- 00:52:57 - Nunavut
+- 00:53:53 - Yukon
+- 00:56:58 - British Columbia
+- 00:57:47 - Alberta
+- 01:01:55 - Manitoba
+- 01:05:39 - Ontario
+- 01:13:36 - Quebec
+- 01:31:35 - Newfoundand and Labrador
+- 01:32:35 - New Brunswick
+- 01:34:23 - Nova Scotia
+- 01:36:14 - Sugar Shack / Cabane à Sucre
 
 ## Resumo das notícias
 - Federal
