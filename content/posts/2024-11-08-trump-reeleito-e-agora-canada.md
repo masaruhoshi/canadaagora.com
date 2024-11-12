@@ -10,7 +10,7 @@ summary: 'E ainda: TikTok bloqueado'
 url: /politica/2024-11-08-trump-reeleito-e-agora-canada.html
 image: /images/canada-agora-s1e108-wide.jpg
 podcast: canadaagora
-spotify:
+spotify: 6hbPr5LtcnOO6jVxwMhvFP
 ---
 
 Saudações humanos!
@@ -98,4 +98,4 @@ do país. 🎧📰
   - Novo conselho de Halifax toma posse, predominantemente mulheres pela primeira vez
   - Walmart de Halifax remove equipamento após trabalhador ser encontrado morto
 
-{{< spotify type="episode" id="" width="100%" height="250" >}}
+{{< spotify type="episode" id="6hbPr5LtcnOO6jVxwMhvFP" width="100%" height="250" >}}
