@@ -15,11 +15,7 @@ spotify: 4pB2tcC0eh0Ktmuq2u6NEi
 
 Saudações humanos!
 
-Com a reeleição de Donald Trump, muitas incertezas e expectativas. Mas, o que dá pra esperar
-nesse novo Governo? E ainda, a condenação do Canadá à reversão dos direitos das mulheres pelo
-talibã. A crescente preocupação com a violência armada na Grande Toronto. E ainda, as implicações
-da proibição federal das operações canadenses do TikTok e como isso pode afetar os usuários.
-Junte-se a nós para um mergulho nas notícias que moldam o Canadá!
+Greve dos Correios do Canadá à vista! O impacto e as preocupações de varejistas e consumidores. Além disso, novidades sobre o imposto digital, cortes de GST propostos por Singh e Toronto na luta por ciclovias.
 
 As controvérsias, desafios e acontecimentos intrigantes nesta edição. Sintonize para análises
 aprofundadas e informações essenciais de Mar a Mar! Canadá Agora", seu podcast de atualidades
