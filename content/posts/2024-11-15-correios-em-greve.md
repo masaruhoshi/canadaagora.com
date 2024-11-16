@@ -10,7 +10,7 @@ summary: 'E ainda: continuam as eleições'
 url: /politica/2024-11-15-correios-em-greve.html
 image: /images/canada-agora-s1e109-wide.jpg
 podcast: canadaagora
-spotify: 
+spotify: 4pB2tcC0eh0Ktmuq2u6NEi
 ---
 
 Saudações humanos!
@@ -102,4 +102,4 @@ do país. 🎧📰
   - Várias salas de emergência de Halifax fora de serviço após danos nos sprinklers
   - Liberais do NS prometem melhorar serviços de telefonia celular e rodovias
 
-{{< spotify type="episode" id="" width="100%" height="250" >}}
+{{< spotify type="episode" id="4pB2tcC0eh0Ktmuq2u6NEi" width="100%" height="250" >}}
