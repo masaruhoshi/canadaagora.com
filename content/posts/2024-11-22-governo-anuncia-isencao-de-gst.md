@@ -10,7 +10,8 @@ summary: 'E ainda: Trump anuncia novo embaixador do Canadá'
 url: /politica/2024-11-22-governo-anuncia-isencao-de-gst.html
 image: /images/canada-agora-s1e110-wide.jpg
 podcast: canadaagora
-spotify: 4pB2tcC0eh0Ktmuq2u6NEi
+spotify: 1GdB77pPeIFx3dE4E1Cw4t
+
 ---
 
 Saudações humanos!
@@ -52,4 +53,4 @@ do país. 🎧📰
   - O Tribunal ordena que o Canadá resolva o atraso do Princípio da Jordânia imediatamente
   - O premiê de Ontário, Doug Ford, quer acordos comerciais separados dos EUA e do México "agora", não em 2026
 
-{{< spotify type="episode" id="4pB2tcC0eh0Ktmuq2u6NEi" width="100%" height="250" >}}
+{{< spotify type="episode" id="1GdB77pPeIFx3dE4E1Cw4t" width="100%" height="250" >}}
