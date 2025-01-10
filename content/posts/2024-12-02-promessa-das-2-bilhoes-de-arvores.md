@@ -10,7 +10,7 @@ summary: 'E ainda: Trump anuncia novo embaixador do Canadá'
 url: /politica/2024-12-02-promessa-das-2-bilhoes-de-arvores.html
 image: /images/canada-agora-s1e111-wide.jpg
 podcast: canadaagora
-spotify: 6xVV1fnqCJE5ez4TUimT5f
+spotify: 6dlzB8lvSB4OXEYmRD4nc5
 
 ---
 
@@ -86,4 +86,4 @@ do país. 🎧📰
   - RCMP em Halifax, em toda a Nova Escócia, lançando câmeras corporais
   - Dias após a pior derrota eleitoral de todos os tempos, os liberais de longa data do NS dizem que é hora de reconstruir
 
-{{< spotify type="episode" id="6xVV1fnqCJE5ez4TUimT5f" width="100%" height="250" >}}
+{{< spotify type="episode" id="6dlzB8lvSB4OXEYmRD4nc5" width="100%" height="250" >}}
