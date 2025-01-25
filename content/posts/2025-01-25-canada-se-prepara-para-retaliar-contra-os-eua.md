@@ -45,56 +45,53 @@ As controvérsias, desafios e acontecimentos intrigantes nesta edição. Sintoni
 
 ## Resumo das notícias
 - Federal
-  - O Canada Post está aumentando seus preços de postagem hoje. O que isso significa para o futuro?
-  - Singh diz que Poilievre não quer incomodar Elon Musk com resposta tarifária
-  - A corrida para substituir Justin Trudeau: quem está dentro e quem está fora
-  - Netflix e outros serviços de streaming agora bloqueados em redes do governo federal
-  - Conservadores pedem ao governo que recue nas mudanças de ganhos de capital devido ao limbo legislativo
-  - Julgamento contra freira de 98 anos acusada de crimes sexuais históricos em escolas residenciais e de dia
-  - Os veículos elétricos agora são mais caros para os canadenses
-  - Canadá envia Black Hawks e drones para a fronteira enquanto o tempo para pacificar Trump passa
-  - As vendas nacionais de casas terminaram o ano com uma nota forte, com recuperação esperada em 2025
-  - Trudeau diz que o Canadá está pronto para garantir o sucesso do acordo de cessar-fogo em Gaza
-  - Chocolate Milka vendido no Canadá é recolhido por conter nozes não declaradas
-  - Poilievre não diz se apoiará tarifas sobre petróleo com destino aos EUA para combater a ameaça de Trump de 25%
+  - Trudeau pede ajuda a líderes indígenas no Canadá para enfrentar Trump
+  - A líder da Câmara, Karina Gould, anuncia que está concorrendo ao concurso de liderança liberal
+  - Cortar o petróleo é a opção nuclear do Canadá. O que significaria se isso acontecesse?
+  - Freeland se apresenta como negociadora testada de Trump, enquanto manifestantes interrompem o lançamento da liderança liberal
+  - 5 coisas para saber se o Canadá revidar contra as tarifas de Trump
+  - Departamento de imigração do Canadá corta cerca de 3.300 empregos em 3 anos
+  - A taxa de inflação do Canadá caiu para 1,8% em dezembro, com os preços caindo durante a quebra do GST
+  - Ministro do Meio Ambiente aberto a substituir imposto sobre carbono se o Canadá ainda puder cumprir suas metas climáticas
+  - Poilievre diz que quer cortar o serviço público federal, não se importa com o trabalho remoto
+  - Trump tem como alvo o imposto sobre serviços digitais do Canadá com a política comercial America First
+  - Trudeau e os primeiros-ministros pedem aos compradores que comprem produtos canadenses enquanto o país se prepara para uma guerra comercial
+  - Canadá se prepara para possível afluxo de requerentes de asilo após ordens de imigração de Trump
 - British Columbia
-  - Dezenas de bombeiros de BC e Alberta para implantar na Califórnia, diz Sajjan
-  - Reservas de acampamento para 2025 abertas para muitos parques da Colúmbia Britânica
-  - Ponto de encontro na banheira de hidromassagem derrubado por puma selvagem
-  - Primeiro-ministro da Colúmbia Britânica sugere proibição de exportação de minerais raros para os EUA devido a ameaças tarifárias de Trump
-  - Proprietários de veículos elétricos em BC dizem que não há estações de carregamento públicas suficientes disponíveis
+  - Desemprego juvenil em ascensão em BC: Statistics Canada
+  - Funcionários de gigs querem mudanças depois que o tribunal da Colúmbia Britânica decide que aceitar ordens equivale a dirigir distraído
+  - À venda: Vancouver Parks e direitos de nomeação e patrocínios
+- Alberta
+  - Estudo de poluição de areias oleosas revela novo 'ponto cego' em relatórios do setor
+  - Alberta se prepara para as tarifas enquanto Trump reflete sobre as mudanças de 1º de fevereiro
+  - Trump diz que EUA não precisam de petróleo, gás, veículos ou madeira do Canadá
 - Saskatchewan
-  - Scott Moe pede união enquanto os primeiros-ministros se preparam para as tarifas da era Trump
+  - Sask. O prognosticador do tempo do baço do porco continua a tradição familiar
+  - U de Regina prof adverte sobre riscos de 'governo expansionista' com Trump tomando posse para 2º mandato
 - Manitoba
-  - Apesar da postura fria de Ottawa em relação à imigração, Manitoba quer ainda mais trabalhadores qualificados em 2025
-  - Comestíveis de cannabis e dirigir podem ser uma mistura perigosa, alerta a polícia de Winnipeg
-  - Manitobans agora pode solicitar cartão de saúde de plástico modernizado
+  - Ministro das Finanças de Manitoba diz que não se envolverá em "conversas hipotéticas" sobre possíveis tarifas hidrelétricas dos EUA
+  - Líderes se preocupam com a economia de Manitoba à medida que as esperanças de altos números de imigração se desfazem
+  - Empresa brasileira Vale SA considera vender ativos de mineração em Thompson
 - Ontario
-  - Polícia, TTC e habitação serão as principais prioridades no orçamento do Chow para 2025 em Toronto
-  - Pesquisadores da Universidade de Waterloo projetam bactérias para comer microplásticos. Mas é um sonho irreal?
-  - Banco de Alimentos de Ottawa faz cortes 'dolorosos' em programas de alimentos
-  - Play Airlines pronta para deixar o Canadá, sem voos programados para sair de Hamilton após abril
-  - Tarifas dos EUA podem custar até 500 mil empregos em Ontário, diz Ford
-  - Um terço dos recém-chegados a Ontário diz que se sente mais seguro nos países de origem, revela pesquisa
-  - Segunda pessoa presa, mais acusações em golpe de bilhete de Taylor Swift de US $ 70 mil
-  - Ford envia aos EUA uma mensagem clara com chapéu patriótico
-  - Partidos políticos de Ontário se esforçam para se preparar antes de uma possível eleição antecipada
+  - Mais de 10.000 idosos de Toronto perdem benefícios de velhice: relatório
+  - Índia deter, expulsar homem canadense é o mais recente exemplo de 'lista negra' revivida para sikhs: especialistas
+  - Toronto sinaliza que vai parar de reprimir lojas ilegais de maconha
+  - Ford pode convocar eleições em Ontário já na próxima semana, dizem fontes
+  - Mulher baleada, cão morto em violenta invasão domiciliar a noroeste de Toronto, diz polícia
+  - Com Trump de volta ao cargo, alguns advogados de imigração de Ontário veem aumento nas ligações americanas
 - Quebec
-  - Número de casos de surto de sarampo em Quebec chega a 11
-  - Quem está concorrendo para liderar os liberais de Quebec
-  - Avião de Quebec danificado por drone enquanto lutava contra incêndios em Los Angeles deve voar novamente na terça-feira
-  - Quebec aumenta os recursos de segurança na fronteira à medida que a ameaça tarifária de Trump se aproxima
-  - Rio Tinto multada em US $ 2 milhões por contaminar água perto da mina de Quebec
-  - Premiê de Quebec adverte que tarifas de Trump trariam 'aumento inflacionário' aos EUA
-  - Quebec corta 1.000 empregos na área de saúde em um mês enquanto combate o déficit
+  - Medos novos e antigos em uma fronteira bem trilhada entre o Canadá e os EUA antes da posse de Trump
+  - Dificuldades financeiras atribuídas ao encerramento de 2 salas de cinema em Guzzo
+  - Hydro-Québec multada em US $ 5 milhões por agir de má-fé institucional em relação à comunidade Innu
+  - Amazon fecha instalações em Quebec, insiste que não é por causa de novo sindicato
+  - Suprema Corte do Canadá ouvirá contestação legal sobre a lei de secularismo de Quebec
 - Newfoundland and Labrador
-  - Motoristas falsos da Uber estão nas ruas de St. John's à noite, diz empresário do centro
+  - Esta não é a primeira vez que os líderes americanos sugerem anexar o Canadá
 - New Brunswick
-  - A contestação legal sobre o acesso ao aborto N.B. acabou
-  - Produtores de mirtilo temem que não sobrevivam se os EUA introduzirem tarifas
+  - Enorme corte na imigração prejudicará a saúde pública e outros setores, diz ministro
+  - Quase 10% dos pacientes da cirurgia Vitalité esperam mais de um ano, 'várias razões' citadas
 - Nova Scotia
-  - Apenas 60% dos residentes de Halifax estão satisfeitos com os serviços municipais: pesquisa
-  - Premiê do N.S. alerta que tarifas dos EUA podem afetar milhares de empregos na província
-
+  - Premier Tim Houston revela pressão por mais desenvolvimento de recursos naturais na Nova Escócia
+  - Advocate diz que muitos nova-escoceses com deficiência ainda vivem em instituições
 
 {{< spotify type="episode" id="2tBdDBseyuh5cqkHFjZ31e" width="100%" height="250" >}}
