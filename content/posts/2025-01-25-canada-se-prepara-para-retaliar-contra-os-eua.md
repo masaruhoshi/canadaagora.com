@@ -5,7 +5,7 @@ authors:
 type: post
 categories:
 - politica
-date: 2025-01-18T12:00:00+00:00
+date: 2025-01-25T12:00:00+00:00
 summary: 'E ainda: desemprego, conflitos sindicais'
 url: /politica/2025-01-25-canada-se-prepara-para-retaliar-contra-os-eua.html
 image: /images/canada-agora-s1e115-wide.jpg
