@@ -10,7 +10,7 @@ summary: 'E mais Trump de novo'
 url: /politica/2025-03-07-o-bonde-da-tarifa.html
 image: /images/canada-agora-s1e121-wide.jpg
 podcast: canadaagora
-spotify: 
+spotify: 1Q6gf7XJBcX1A52jHMaC8q
 
 ---
 
@@ -96,4 +96,4 @@ As controvérsias, desafios e acontecimentos intrigantes nesta edição. Sintoni
   - Empresas 'predatórias' que vendem bombas de calor fazendo falsas promessas de descontos, adverte a Efficiency N.S.
   - Nova Escócia anuncia US $ 13,8 milhões para programas comunitários de saúde mental e dependência
 
-{{< spotify type="episode" id="" width="100%" height="250" >}}
+{{< spotify type="episode" id="1Q6gf7XJBcX1A52jHMaC8q" width="100%" height="250" >}}
