@@ -7,7 +7,7 @@ categories:
 - politica
 date: 2025-03-28T12:00:00+00:00
 summary: 'Disputa por soberania'
-url: /politica/2025-03-28-comeca-a-corrida-das-eleicoes-federais.md
+url: /politica/2025-03-28-comeca-a-corrida-das-eleicoes-federais.html
 image: /images/canada-agora-s1e124-wide.jpg
 podcast: canadaagora
 spotify: 0xgCQxSB1pFeToiOXubBKK
