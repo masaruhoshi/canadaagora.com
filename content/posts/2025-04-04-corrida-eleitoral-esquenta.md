@@ -7,8 +7,8 @@ categories:
 - politica
 date: 2025-04-04T12:00:00+00:00
 summary: 'E o impacto das tarifas dos EUA'
-url: /politica/2025-04-04-corrida-eleitoral-esquenta.md
-image: /images/canada-agora-s1e124-wide.jpg
+url: /politica/2025-04-04-corrida-eleitoral-esquenta.html
+image: /images/canada-agora-s1e125-wide.jpg
 podcast: canadaagora
 spotify: 4A9oOicWv4Y94EOEOd9SLV
 
