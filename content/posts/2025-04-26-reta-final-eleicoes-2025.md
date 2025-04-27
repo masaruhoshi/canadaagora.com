@@ -10,7 +10,7 @@ summary: 'E o aumento dos casos de sarampo'
 url: /politica/2025-04-26-reta-final-eleicoes-2025.html
 image: /images/canada-agora-s1e126-wide.jpg
 podcast: canadaagora
-spotify: 
+spotify: 2zidAMOqxYZFPF3gkHXV0z
 
 ---
 
@@ -107,4 +107,4 @@ As controvérsias, desafios e acontecimentos intrigantes nesta edição. Sintoni
   - Estudantes canadenses navegam em navio alto para votar na Suíça
   - Mais de 210 mil nova-escoceses votaram em pesquisas antecipadas no fim de semana da Páscoa
 
-{{< spotify type="episode" id="" width="100%" height="250" >}}
+{{< spotify type="episode" id="2zidAMOqxYZFPF3gkHXV0z" width="100%" height="250" >}}
