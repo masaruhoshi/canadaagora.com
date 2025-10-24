@@ -6,7 +6,7 @@ type: post
 categories:
 - politica
 date: 2025-05-23T00:00:00+00:00
-summary: 'Aumentam os casos de sarampo
+summary: 'Aumentam os casos de sarampo'
 url: /politica/2025-05-23-bell-causa-interrupcao-de-comunicacao.html
 image: /images/canada-agora-s1e129-wide.jpg
 podcast: canadaagora
