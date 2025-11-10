@@ -1,0 +1,77 @@
+---
+title: '#133 - Orçamento Canadense 2026'
+authors:
+- Canada Agora
+type: post
+categories:
+- politica
+date: 2025-10-31T00:00:00+00:00
+summary: 'Será que vai dar bom'
+url: /politica/2025-11-07-orcamento-canadense-2026.html
+image: /images/canada-agora-s1e133-wide.jpg
+podcast: canadaagora
+spotify: 6eCf8OsvxoR8gbnjMFbHeX
+
+---
+
+Saudações humanos!
+
+Em meio a parlamentares abandonando a oposição, o Governo de Mark Carney apresenta sua proposta de
+orçamento federal para 2025/2026. E a "bagatela" de $78 bilhões não está agradando ninguém, nem
+mesmo quem deveria estar ganhando com isso. Será que Carney sobrevive a esse voto?
+
+As controvérsias, desafios e acontecimentos intrigantes nesta edição. Sintonize para análises aprofundadas e informações essenciais de Mar a Mar! Canadá Agora", seu podcast de atualidades do país. 🎧📰
+
+## Sugestões da Semana
+- [Série: The Diplomat](https://www.imdb.com/title/tt17491088/)
+- [Série: Impuros](https://www.imdb.com/title/tt9070896/)
+- [Reality Show: Physical: Asia](https://www.imdb.com/title/tt35664835/)
+- [Doe sangue!](https://blood.ca)
+- [Doe alimentos!](https://foodbankscanada.ca)
+
+## Minutagem
+- 00:04:13 - Federal
+- 00:55:45 - A Mare Usque Ad Mare
+- 01:24:48 - Sugar Shack / Cabane à Sucre
+
+## Resumo das notícias
+
+- Federal
+  - O Canadá coletou $ 3 bilhões de contra-tarifas dos EUA antes que a maioria fosse retirada
+  - Candidato do Bloco Québécois que perdeu por 1 voto planeja recorrer à Suprema Corte
+  - Ottawa rejeita aumento de $ 28 MIL para juízes federais, citando tarifas e gastos com defesa
+  - Ottawa busca poderes de cancelamento de vistos em massa para impedir fraudes na Índia: documentos internos
+  - Governo cubano rouba salários de seus cidadãos no Canadá, dizem ex-trabalhadores
+  - Os preços dos alimentos no Canadá continuam subindo, mas esses itens de supermercado causarão choque nos adesivos
+  - Um déficit de $ 78 bilhões, cortes no serviço público, novas medidas fiscais: destaques do orçamento 2025
+  - O governo diminui o número de residentes temporários que permite no Canadá
+  - O deputado da Nova Escócia, Chris d'Entremont, renuncia ao caucus conservador para se juntar aos liberais
+  - A FAA está reduzindo os voos em 40 aeroportos dos EUA. Veja como as viagens ao Canadá serão afetadas
+  - O deputado conservador Matt Jeneroux nega que a coerção tenha desempenhado um papel em sua renúncia
+  - A mare usque ad mare
+- British Columbia
+  - Hudson's Bay devolverá propriedades aos proprietários depois que a bilionária Ruby Liu perdeu a oferta
+- Alberta
+  - 98% da equipe de cuidados de enfermagem da AUPE votam a favor da greve
+- Manitoba
+  - Manitoba aprova projeto de lei que permitirá que pessoas altamente intoxicadas sejam detidas por 72 horas
+  - $ 222 mil de cocaína encontrada escondida na TV sendo enviada para o norte de Manitoba
+- Ontario
+  - Carney pediu à Ford 'algumas vezes' para retirar anúncio anti-tarifário, diz premiê de Ontário
+  - Novo plano de segurança TTC inclui equipe mais visível, melhor treinamento: Chow
+- Quebec
+  - Como Soraya Martinez Ferrada ganhou em Montreal e o que vem a seguir
+  - Legault exclui Laporte Mna do caucus da CAQ
+  - Posts anti-Israel fizeram com que um estudante do ensino médio de Montreal fosse suspenso. Ela diz que está sendo censurada
+  - Governo de Quebec corta metas de imigração para residentes permanentes
+- Newfoundland and Labrador
+  - N.L. para enfrentar desafios como 1ª província com 25% da população com 65 anos ou mais
+- ​​Prince Edward Island
+  - Os ilhéus pediram informações sobre novas regras para serviços de beleza não regulamentados no PEI
+- New Brunswick
+  - Nova Brunswick se move para eliminar adesivos de renovação nas placas
+- Nova Scotia
+  - Pescador recebe $ 76.000 em multas mais proibição de pesca por captura ilegal
+  - Novo estudo da NS encontra microplásticos em porções comestíveis de caudas de lagosta
+
+{{< spotify type="episode" id="6eCf8OsvxoR8gbnjMFbHeX" width="100%" height="250" >}}
