@@ -1,77 +1,76 @@
 ---
-title: '#133 - Orçamento Canadense 2026'
+title: '#134 - Canadá perde status de livre do sarampo'
 authors:
 - Canada Agora
 type: post
 categories:
 - politica
-date: 2025-10-31T00:00:00+00:00
-summary: 'Será que vai dar bom'
-url: /politica/2025-11-07-orcamento-canadense-2026.html
-image: /images/canada-agora-s1e133-wide.jpg
+date: 2025-11:14T00:00:00+00:00
+summary: 'E médicos começam a sair do Québec'
+url: /politica/2025-11-14-canada-perde-status-livre-sarampo.html
+image: /images/canada-agora-s1e134-wide.jpg
 podcast: canadaagora
-spotify: 6eCf8OsvxoR8gbnjMFbHeX
+spotify: 50FBKfwadIXglMgeC3b165
 
 ---
 
 Saudações humanos!
 
-Em meio a parlamentares abandonando a oposição, o Governo de Mark Carney apresenta sua proposta de
-orçamento federal para 2025/2026. E a "bagatela" de $78 bilhões não está agradando ninguém, nem
-mesmo quem deveria estar ganhando com isso. Será que Carney sobrevive a esse voto?
+O Canadá perdeu o status de país livre do sarampo e acabou levando consigo todas as
+Américas. Um momento decepcionante para uma nação do G7. E se você pensa que isso é
+o fim, ainda tem epidemias de tuberculose e médicos decidindo sair de Québec.
 
 As controvérsias, desafios e acontecimentos intrigantes nesta edição. Sintonize para análises aprofundadas e informações essenciais de Mar a Mar! Canadá Agora", seu podcast de atualidades do país. 🎧📰
 
 ## Sugestões da Semana
-- [Série: The Diplomat](https://www.imdb.com/title/tt17491088/)
-- [Série: Impuros](https://www.imdb.com/title/tt9070896/)
-- [Reality Show: Physical: Asia](https://www.imdb.com/title/tt35664835/)
+- [Animação: Marvel Anime: Wolverine](https://www.primevideo.com/detail/Marvel-Anime-Wolverine/0SJEJXZYGFUMFT71QFBBDL8NW4)
+- [Esporte: Karate Combat](https://www.karate.com)
 - [Doe sangue!](https://blood.ca)
 - [Doe alimentos!](https://foodbankscanada.ca)
 
 ## Minutagem
-- 00:04:13 - Federal
-- 00:55:45 - A Mare Usque Ad Mare
-- 01:24:48 - Sugar Shack / Cabane à Sucre
+- 00:04:35 - Federal
+- 00:28:39 - A Mare Usque Ad Mare
+- 00:57:10 - Sugar Shack / Cabane à Sucre
 
 ## Resumo das notícias
 
 - Federal
-  - O Canadá coletou $ 3 bilhões de contra-tarifas dos EUA antes que a maioria fosse retirada
-  - Candidato do Bloco Québécois que perdeu por 1 voto planeja recorrer à Suprema Corte
-  - Ottawa rejeita aumento de $ 28 MIL para juízes federais, citando tarifas e gastos com defesa
-  - Ottawa busca poderes de cancelamento de vistos em massa para impedir fraudes na Índia: documentos internos
-  - Governo cubano rouba salários de seus cidadãos no Canadá, dizem ex-trabalhadores
-  - Os preços dos alimentos no Canadá continuam subindo, mas esses itens de supermercado causarão choque nos adesivos
-  - Um déficit de $ 78 bilhões, cortes no serviço público, novas medidas fiscais: destaques do orçamento 2025
-  - O governo diminui o número de residentes temporários que permite no Canadá
-  - O deputado da Nova Escócia, Chris d'Entremont, renuncia ao caucus conservador para se juntar aos liberais
-  - A FAA está reduzindo os voos em 40 aeroportos dos EUA. Veja como as viagens ao Canadá serão afetadas
-  - O deputado conservador Matt Jeneroux nega que a coerção tenha desempenhado um papel em sua renúncia
-  - A mare usque ad mare
+  - Como a semana do orçamento se transformou em um pesadelo para os conservadores
+  - Canada Post envia plano de revisão para o governo federal
+  - Canadá perde o status de país livre de sarampo
+  - Abertura do novo consulado do Canadá na Groenlândia atrasada pelo mau tempo
+  - A visita do rei sueco destaca o crescente interesse canadense nas aeronaves militares da Saab
+  - Turismo dos EUA enfrenta prejuízo de $ 5,7 bi nos EUA, à medida que os canadenses continuam em casa
+  - Negociações comerciais Canadá-EUA não abordadas na reunião do G7 de Anand com Rubio
+  - CSIS se prepara para possível interferência estrangeira como Alberta, Quebec soberania olho
+- Nunavut
+  - Funcionário morto por ursos polares estava tirando fotos em local de trabalho remoto, diz relatório da empresa
 - British Columbia
-  - Hudson's Bay devolverá propriedades aos proprietários depois que a bilionária Ruby Liu perdeu a oferta
+  - Pedaço de concreto cai na piscina no Vancouver Aquatic Centre — novamente
 - Alberta
-  - 98% da equipe de cuidados de enfermagem da AUPE votam a favor da greve
+  - Surto de tuberculose declarado no centro da cidade de Edmonton: Cuidados Primários de Alberta
+- Saskatchewan
+  - As reivindicações de refugiados saltam 98% em Sask. à medida que os cortes na imigração deixam os recém-chegados no limbo
 - Manitoba
-  - Manitoba aprova projeto de lei que permitirá que pessoas altamente intoxicadas sejam detidas por 72 horas
-  - $ 222 mil de cocaína encontrada escondida na TV sendo enviada para o norte de Manitoba
+  - Dezenas de pássaros resgatados de casa em Winnipeg após semanas de negligência
+  - Winnipeg aumentará impostos sobre a propriedade em 3,5% no orçamento de 2026, diz prefeito
 - Ontario
-  - Carney pediu à Ford 'algumas vezes' para retirar anúncio anti-tarifário, diz premiê de Ontário
-  - Novo plano de segurança TTC inclui equipe mais visível, melhor treinamento: Chow
+  - O Atlético de Ottawa lidera o Cavalry FC na condução de tempestades de neve para ganhar o primeiro título da CPL
+  - Prefeitura de Toronto hasteia bandeira da Palestina pela 1ª vez em reconhecimento ao dia da independência
+  - Mais de 260 médicos de Quebec solicitam licenças de Ontário nas semanas seguintes ao Projeto de Lei 2
+  - Ontário gastará $ 210 MILHÕES em medidas de segurança rodoviária sem câmera de velocidade após a proibição
 - Quebec
-  - Como Soraya Martinez Ferrada ganhou em Montreal e o que vem a seguir
-  - Legault exclui Laporte Mna do caucus da CAQ
-  - Posts anti-Israel fizeram com que um estudante do ensino médio de Montreal fosse suspenso. Ela diz que está sendo censurada
-  - Governo de Quebec corta metas de imigração para residentes permanentes
+  - Legault apresenta plano econômico para ajudar Quebec a enfrentar as tarifas dos EUA
+  - Partidos líderes disputam resultados eleitorais em vários distritos e distritos de Montreal
+  - Forte nevasca traz quedas de energia e fechamento de escolas em Quebec
+  - O STM está funcionando novamente, mas outra greve está programada para fechar o transporte público neste fim de semana
 - Newfoundland and Labrador
-  - N.L. para enfrentar desafios como 1ª província com 25% da população com 65 anos ou mais
-- ​​Prince Edward Island
-  - Os ilhéus pediram informações sobre novas regras para serviços de beleza não regulamentados no PEI
+  - A campanha Ships Stop Here visa reforçar o setor marítimo de N.L.
+  - Elementos de terras raras em N.L. têm grande potencial, diz a indústria
 - New Brunswick
-  - Nova Brunswick se move para eliminar adesivos de renovação nas placas
+  - Salário de bem-estar em NB agora quase $ 25 — cerca de $ 9 a mais do que o salário mínimo real
 - Nova Scotia
-  - Pescador recebe $ 76.000 em multas mais proibição de pesca por captura ilegal
-  - Novo estudo da NS encontra microplásticos em porções comestíveis de caudas de lagosta
+  - As tensões tarifárias não impedem o presente anual da árvore de Natal da Nova Escócia para Boston
 
-{{< spotify type="episode" id="6eCf8OsvxoR8gbnjMFbHeX" width="100%" height="250" >}}
+{{< spotify type="episode" id="50FBKfwadIXglMgeC3b165" width="100%" height="250" >}}
