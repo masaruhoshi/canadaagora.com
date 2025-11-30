@@ -5,7 +5,7 @@ authors:
 type: post
 categories:
 - politica
-date: 2025-11:14T00:00:00+00:00
+date: 2025-11-14T00:00:00+00:00
 summary: 'E médicos começam a sair do Québec'
 url: /politica/2025-11-14-canada-perde-status-livre-sarampo.html
 image: /images/canada-agora-s1e134-wide.jpg
