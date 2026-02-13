@@ -1,13 +1,13 @@
 ---
-title: '#143: EUA e o separatismo de Alberta: o que vem a seguir?'
+title: '#143: Crise na Fronteira? Trump ameaça bloquear ponte entre Canadá e EUA'
 authors:
 - Canada Agora
 type: post
 categories:
 - politica
 date: 2026-02-13T00:00:00+00:00
-summary: 'A mensagem de Stephen Harper'
-url: /politica/2026-02-06-eua-e-o-separatismo-de-alberta.html
+summary: 'Um triste tiroteio em escolas em BC'
+url: /politica/2026-02-13-crise-na-fronteira-trump-ameaca-bloquear-ponte.html
 image: /images/canada-agora-s1e143-wide.jpg
 podcast: canadaagora
 spotify: 
@@ -15,7 +15,20 @@ spotify:
 
 Saudações humanos!
 
-🎧 Ouça agora e tire suas próprias conclusões.
+Gordie Howe International Bridge, projeto bilionário que conecta Windsor (Ontário) a Detroit (Michigan), deveria simbolizar integração econômica entre Canadá e Estados Unidos.
+
+Mas virou palco de tensão política.
+
+Donald Trump ameaça bloquear sua abertura, reacendendo debates sobre soberania, comércio e influência política transfronteiriça. Enquanto isso, Mark Carney tenta conter o desgaste diplomático.
+
+Neste episódio analisamos:
+- O impacto econômico real da ponte
+- O peso da cadeia automotiva na região
+- O contexto eleitoral nos EUA
+- O que Ottawa pode (ou não pode) fazer
+- Se estamos diante de uma crise diplomática ou apenas retórica política
+
+Uma discussão essencial para entender o futuro da relação Canadá-EUA.
 
 ## Sugestões da Semana
 - [Filme: The Woman in Cabin 10](https://www.imdb.com/title/tt7130300/)
@@ -26,18 +39,18 @@ Saudações humanos!
 
 ## Minutagem
 - 00:03:09 - Ottawa em Foco
-- 00:37:50 - Nunavut
-- 00:37:50 - Yukon
-- 00:37:50 - British Columbia
-- 00:40:23 - Alberta
-- 00:47:45 - Saskatchewan
-- 00:48:53 - Manitoba
-- 00:55:55 - Ontario
-- 01:06:40 - Quebec
-- 01:27:21 - Newfoundland e Labrador
-- 01:30:03 - New Brunwisck
-- 01:32:11 - Nova Scotia
-- 01:37:07 - Sugar Shack / Cabane à Sucre
+- 00:32:04 - Nunavut
+- 00:35:44 - Yukon
+- 00:36:47 - British Columbia
+- 00:40:41 - Alberta
+- 00:44:05 - Saskatchewan
+- 00:45:02 - Manitoba
+- 00:48:08 - Ontario
+- 00:57:36 - Quebec
+- 01:16:28 - Newfoundland e Labrador
+- 01:18:27 - New Brunwisck
+- 01:21:18 - Nova Scotia
+- 01:25:32 - Sugar Shack / Cabane à Sucre
 
 ## Resumo das notícias
 
