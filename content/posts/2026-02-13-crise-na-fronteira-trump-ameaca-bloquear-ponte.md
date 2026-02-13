@@ -10,7 +10,7 @@ summary: 'Um triste tiroteio em escolas em BC'
 url: /politica/2026-02-13-crise-na-fronteira-trump-ameaca-bloquear-ponte.html
 image: /images/canada-agora-s1e143-wide.jpg
 podcast: canadaagora
-spotify: 
+spotify: 0VJPhA5UdmEm1rzZlEXFbs
 ---
 
 Saudações humanos!
@@ -110,4 +110,4 @@ Uma discussão essencial para entender o futuro da relação Canadá-EUA.
   - O novo plano de trânsito de Halifax inclui ônibus 24 horas por dia, 7 dias por
   - Mulher encontrada morta em tenda em acampamento de sem-teto em Halifax
 
-{{< spotify type="episode" id="" width="100%" height="250" >}}
+{{< spotify type="episode" id="0VJPhA5UdmEm1rzZlEXFbs" width="100%" height="250" >}}
