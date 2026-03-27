@@ -26,6 +26,10 @@ O Canadá também chegou a 2% do PIB em gastos militares — uma marca que o pa�
 Se você mora no Canadá, planeja imigrar, ou simplesmente quer entender o país que mais cresce em notícias importantes esta semana: esse episódio foi feito pra você.
 
 ## Sugestões da Semana
+- [Mini-Série: "Emergência Radioativa"](https://www.imdb.com/title/tt37041021/)
+- [Livro: Homo fragilis](https://www.booksellers.ca/books/homo-fragilis-9782897946272)
+- [Série: Alice in Borderland: S1](https://www.imdb.com/title/tt10795658/)
+- [Série: Shrinking: S1](https://www.imdb.com/title/tt15677150/)
 - [Anime: Naruto - S2](https://www.imdb.com/title/tt0409591/)
 - [Doe sangue!](https://blood.ca)
 - [Doe alimentos!](https://foodbankscanada.ca)
